@@ -4,7 +4,7 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
                               https://coursesteach.com/
 
-## Paper 01  - [Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## Paper (2021)  - [Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
    - [Paper]()
    -  [Code](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)
    -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
