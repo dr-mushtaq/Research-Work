@@ -9,9 +9,10 @@ This repository contains all our team published paper with code.
    -  [Code](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)
    -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
  
-## Paper (2022) - [Machine Learning-Driven Approach for a COVID-19 Warning System]
+## Paper (2022) - [Machine Learning-Driven Approach for a COVID-19 Warning System](https://github.com/hussain0048/Research-Papers)
   - [Paper](https://github.com/hussain0048/Research-Papers/blob/main/electronics-11-03875.pdf)
-  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb),(Code-AR_ARIMA)[https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb]
+  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb)
+  - [Code-AR_ARIMA](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb)
   - [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv)
   
 ## Module -[**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
