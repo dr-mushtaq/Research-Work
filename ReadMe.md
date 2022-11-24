@@ -11,7 +11,7 @@ This repository contains all our team published paper with code.
  
 ## Paper (2022) - [Machine Learning-Driven Approach for a COVID-19 Warning System]
   - [Paper](https://github.com/hussain0048/Research-Papers/blob/main/electronics-11-03875.pdf)
-  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb)(Code-AR_ARIMA)[https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb]
+  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb),(Code-AR_ARIMA)[https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb]
   - [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv)
   
 ## Module -[**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
