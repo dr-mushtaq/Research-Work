@@ -4,19 +4,11 @@ This repository is a related to all about Machine Learning - an A-Z guide to the
 
                               https://coursesteach.com/
 
-## Paper 01  - [Choosing right supervised model  and input features for predicting anomalous activity in IOT networks](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
-   - [Paper](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-  -  [Code](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-  - [**Unsupervised_learning**](https://github.com/hussain0048/Machine-Learning/blob/master/Unsupervised_learning.ipynb)
-  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
-  - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
-
-
+## Paper 01  - [Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+   - [Paper]()
+   -  [Code](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)
+   -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
+ 
 ## Paper 02  - [Machine Learning based efficient prediction of Positive cases of waterborne diseases]
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
