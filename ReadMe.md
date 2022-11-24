@@ -10,9 +10,9 @@ This repository contains all our team published paper with code.
    -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
  
 ## Paper (2022) - [Machine Learning-Driven Approach for a COVID-19 Warning System]
-  - [Paper](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
-  - [Code](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
-  - [Dataset](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
+  - [Paper](https://github.com/hussain0048/Research-Papers/blob/main/electronics-11-03875.pdf)
+  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb)(Code-AR_ARIMA)[https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb]
+  - [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv)
   
 ## Module -[**Recommendation System**](https://github.com/hussain0048/Machine-Learning/tree/master/Recommendation%20System)
    *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
