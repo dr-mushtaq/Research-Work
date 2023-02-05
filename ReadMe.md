@@ -17,6 +17,7 @@ This repository contains all our team published paper with code.
   
 ## Paper (2023) -[**Machine learning based efcient prediction of positive cases of waterborne diseases**](https://github.com/hussain0048/Research-Papers)
    -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
+   -  [Code-Watern_Brone_Disease (Malaria)_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Malaria)_.ipynb)
    *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
 
 ## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
