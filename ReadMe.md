@@ -15,7 +15,7 @@ This repository contains all our team published paper with code.
   - [Code-AR_ARIMA](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb)
   - [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv)
   
-## Module -[**Machine learning based efcient prediction of positive cases of waterborne diseases**](https://github.com/hussain0048/Research-Papers)
+## Paper (2023) -[**Machine learning based efcient prediction of positive cases of waterborne diseases**](https://github.com/hussain0048/Research-Papers)
    *  [ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Collaborative-Filtering-movies-py-v1.ipynb)
    *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
 
