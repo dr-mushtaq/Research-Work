@@ -19,7 +19,9 @@ This repository contains all our team published paper with code.
    -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
    -  [Code-Watern_Brone_Disease (Malaria)_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Malaria)_.ipynb)
    -  [Code-Watern_Brone_Disease Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typhoid)_.ipynb)
-   *  [ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Recommendation%20System/ML0101EN-RecSys-Content-Based-movies-py-v1.ipynb)
+   -  [Code-Watern_Brone_Disease(Typod)with_COrr_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typod)with_COrr_.ipynb)
+   -  [Dataset-Malyria](https://github.com/hussain0048/Research-Papers/blob/main/Malyria_2-21-2021.csv)
+   -  [Dataset-Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Typhoid_2-21-2021.csv)
 
 ## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
   - [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
