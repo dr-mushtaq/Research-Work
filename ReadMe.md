@@ -25,7 +25,7 @@ This repository contains all our team published paper with code.
 
 ## Paper (2023) -[**Artificial Neural Network-Based Cardiovascular Disease Diagnostic Model By Using Levenberg-Marquardt Optimizer**](https://github.com/hussain0048/Research-Papers)
    -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
-   -  [Code)_](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO combined.ipynb)
+   -  [Code)_](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO_combined.ipynb)
    -  [Dataset-Cardio](https://github.com/hussain0048/Research-Papers/blob/main/cardio_train.csv)
 
 
