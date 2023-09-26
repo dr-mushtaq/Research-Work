@@ -26,10 +26,8 @@ This repository contains all our team published paper with code.
 ## Paper (2023) -[**Artificial Neural Network-Based Cardiovascular Disease Diagnostic Model By Using Levenberg-Marquardt Optimizer**](https://github.com/hussain0048/Research-Papers)
    -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
    -  [Code)_](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO combined.ipynb)
-   -  [Code-Watern_Brone_Disease Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typhoid)_.ipynb)
-   -  [Code-Watern_Brone_Disease(Typod)with_COrr_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typod)with_COrr_.ipynb)
-   -  [Dataset-Malyria](https://github.com/hussain0048/Research-Papers/blob/main/Malyria_2-21-2021.csv)
-   -  [Dataset-Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Typhoid_2-21-2021.csv)
+   -  [Dataset-Cardio](https://github.com/hussain0048/Research-Papers/blob/main/cardio_train.csv)
+
 
 ## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
   - [Bias and Variance using Python](https://github.com/hussain0048/Machine-Learning/blob/master/Model%20Evaluation/Bias_and_Variance_using_Python.ipynb)
