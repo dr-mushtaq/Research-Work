@@ -9,6 +9,7 @@ This repository contains all our Research team and students' published papers wi
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
+   -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
 
 ## **Published Works**
 | Paper | Code | Dataset |
