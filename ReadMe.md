@@ -9,10 +9,10 @@ This repository contains all our Research team and students' published papers wi
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
 
-## Paper (2021)  - [Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
+## **Published Works**
 | Paper | Code | Dataset |
 |---|---|---|
-|[**2021-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://github.com/hussain0048/Research-Papers)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|
+|[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|
 | Content 1 | Content 2 | Content 3 |
 | Content 4 | Content 5 | Content 6 |
  
