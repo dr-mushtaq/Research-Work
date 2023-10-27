@@ -4,7 +4,7 @@ This repository contains all our Research team and students' published papers wi
 
                               https://coursesteach.com/
 
-## Paper (2021)  - **Important Research Softwares, Websites, Article**
+## Resource  - **Important Research Softwares, Websites, Article**
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)
