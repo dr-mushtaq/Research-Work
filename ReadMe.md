@@ -11,6 +11,7 @@ This repository contains all our Research team and students' published papers wi
 
 ## Paper (2021)  - [Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Unsupervised%20Learning)
 | Paper | Code | Dataset |
+|---|---|---|
 |[-2021-Machine Learning-Driven Approach for a COVID-19 Warning System](https://github.com/hussain0048/Research-Papers)|---|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|
 | Content 1 | Content 2 | Content 3 |
 | Content 4 | Content 5 | Content 6 |
