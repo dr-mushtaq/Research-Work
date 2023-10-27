@@ -14,21 +14,15 @@ This repository contains all our Research team and students' published papers wi
 |---|---|---|
 |[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|
 | [**2022-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://www.mdpi.com/2079-9292/11/23/3875) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv) |
-| **[**Artificial Neural Network-Based Cardiovascular Disease Diagnostic Model By Using Levenberg-Marquardt Optimizer (In Progress)**](https://github.com/hussain0048/Research-Papers)** | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO_combined.ipynb) | [Dataset-Cardio](https://github.com/hussain0048/Research-Papers/blob/main/cardio_train.csv)|
+| **[**Artificial Neural Network-Based Cardiovascular Disease Diagnostic Model By Using Levenberg-Marquardt Optimizer (In Progress)**](https://github.com/hussain0048/Research-Papers)** | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO_combined.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/cardio_train.csv)|
+|[**2013-Machine learning based efcient prediction of positive cases of waterborne diseases**](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-02092-1)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Malaria)_.ipynb)| [Dataset-Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Typhoid_2-21-2021.csv)|
  
   
 ## Paper (2023) -[**Machine learning based efcient prediction of positive cases of waterborne diseases**](https://github.com/hussain0048/Research-Papers)
-   -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
-   -  [Code-Watern_Brone_Disease (Malaria)_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Malaria)_.ipynb)
    -  [Code-Watern_Brone_Disease Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typhoid)_.ipynb)
    -  [Code-Watern_Brone_Disease(Typod)with_COrr_](https://github.com/hussain0048/Research-Papers/blob/main/Watern_Brone_Disease_3_23_21_(Typod)with_COrr_.ipynb)
    -  [Dataset-Malyria](https://github.com/hussain0048/Research-Papers/blob/main/Malyria_2-21-2021.csv)
    -  [Dataset-Typhoid](https://github.com/hussain0048/Research-Papers/blob/main/Typhoid_2-21-2021.csv)
-
-## Paper (2023) -[**Artificial Neural Network-Based Cardiovascular Disease Diagnostic Model By Using Levenberg-Marquardt Optimizer**](https://github.com/hussain0048/Research-Papers)
-   -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
-   -  [Code)_](https://github.com/hussain0048/Research-Papers/blob/main/ANN_Based_Cardiovascular_Disease_Diagnostic_Model_By_Using_LMO_combined.ipynb)
-   -  [Dataset-Cardio](https://github.com/hussain0048/Research-Papers/blob/main/cardio_train.csv)
 
 
 ## Module 04 - [Model Evaluation](https://github.com/hussain0048/Machine-Learning/tree/master/Model%20Evaluation)
