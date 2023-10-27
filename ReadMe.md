@@ -1,6 +1,6 @@
 **About**
 
-This repository contains all our team published paper with code. 
+This repository contains all our Research team and students' published papers with code. 
 
                               https://coursesteach.com/
 
