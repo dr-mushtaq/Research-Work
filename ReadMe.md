@@ -16,11 +16,6 @@ This repository contains all our Research team and students' published papers wi
 | [**2022-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://www.mdpi.com/2079-9292/11/23/3875) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv) |
 | Content 4 | Content 5 | Content 6 |
  
-## Paper (2022) - [Machine Learning-Driven Approach for a COVID-19 Warning System](https://github.com/hussain0048/Research-Papers)
-  - [Paper](https://github.com/hussain0048/Research-Papers/blob/main/electronics-11-03875.pdf)
-  - [Code-LSTM](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb)
-  - [Code-AR_ARIMA](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb)
-  - [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv)
   
 ## Paper (2023) -[**Machine learning based efcient prediction of positive cases of waterborne diseases**](https://github.com/hussain0048/Research-Papers)
    -  [Paper](https://github.com/hussain0048/Research-Papers/blob/main/Machine_learning_based_efficient_prediction_of_pos.pdf)
