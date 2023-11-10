@@ -1,8 +1,11 @@
 **About**
+This repository is related to all about Research work - an A-Z guide to the world of Research. This supplement contains the implementation of Research papers implementation  (in Python)
 
-This repository contains all our Research team and students' published papers with code. 
+**Contribution**: We would love your help in making this repository even better! If you know of an amazing Research course that isn't listed here, or if you have any suggestions for improvement in any repository content, feel free to open an issue or submit a repository contribution request.
 
-                              https://coursesteach.com/
+Together, let's make this the best Research learning hub repository! 🚀
+
+                      https://coursesteach.com/
 
 ## Resource  - **Important Research Softwares, Websites, Article**
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
