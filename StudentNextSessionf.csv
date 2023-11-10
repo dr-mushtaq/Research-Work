@@ -1,0 +1,389 @@
+Student ID,final_result,num_of_prev_attempts,Age ,highest_education,Gender, Region,disability,studied_credits,score,sum_click,date_submitted, Assigmnet submittion 
+11391,Pass,0,55<=,HE Qualification,M,East Anglian Region,N,240,78,934,18,Submitted
+28400,Pass,0,35-55,HE Qualification,F,Scotland,N,60,70,1431,22,Not-submitted
+31604,Withdrawn,0,35-55,A Level or Equivalent,F,North Western Region,Y,60,72,2158,17,Submitted
+32885,Pass,0,35-55,A Level or Equivalent,F,South East Region,N,60,69,1034,26,Not-submitted
+38053,Pass,0,0-35,Lower Than A Level,F,West Midlands Region,N,60,79,2445,19,Submitted
+45462,Pass,0,35-55,A Level or Equivalent,M,Wales,N,60,70,1492,20,Not-submitted
+45642,Pass,1,0-35,HE Qualification,M,Scotland,N,60,72,1428,18,Submitted
+52130,Pass,0,0-35,A Level or Equivalent,F,North Western Region,N,120,72,1894,19,Submitted
+53025,Pass,0,0-35,A Level or Equivalent,F,East Anglian Region,N,90,71,3158,9,Submitted
+57506,Pass,0,55<=,Post Graduate Qualification,M,North Region,N,60,68,1319,18,Submitted
+58873,Pass,0,35-55,Lower Than A Level,M,South Region,N,60,73,1732,19,Submitted
+59185,Pass,0,0-35,A Level or Equivalent,F,East Anglian Region,N,60,67,1102,18,Submitted
+62155,Pass,0,35-55,Lower Than A Level,M,East Anglian Region,N,60,73,3388,17,Submitted
+63400,Pass,0,0-35,HE Qualification,F,North Western Region,N,60,83,2737,19,Submitted
+65002,Pass,1,35-55,Lower Than A Level,M,Scotland,N,60,66,171,17,Submitted
+70464,Withdrawn,0,0-35,A Level or Equivalent,F,East Anglian Region,N,60,59,1053,19,Submitted
+71361,Pass,0,35-55,A Level or Equivalent,F,West Midlands Region,N,60,82,2327,19,Submitted
+74372,Pass,0,35-55,HE Qualification,M,Ireland,N,60,60,116,22,Not-submitted
+75091,Fail,0,35-55,A Level or Equivalent,M,East Anglian Region,N,150,67,2992,18,Submitted
+77367,Pass,0,35-55,A Level or Equivalent,M,South West Region,N,60,73,680,18,Submitted
+91265,Pass,0,0-35,A Level or Equivalent,M,East Midlands Region,N,60,75,1494,21,Not-submitted
+94961,Pass,0,0-35,HE Qualification,M,North Western Region,N,60,74,339,17,Submitted
+98094,Withdrawn,0,35-55,Lower Than A Level,M,South Region,N,60,62,2839,18,Submitted
+100893,Pass,1,35-55,Lower Than A Level,M,Wales,N,60,63,744,17,Submitted
+101781,Pass,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,60,84,4104,A,Not-submitted
+102806,Pass,0,35-55,Lower Than A Level,M,South Region,N,60,80,1944,19,Submitted
+102952,Pass,1,0-35,A Level or Equivalent,M,North Western Region,N,60,76,1150,19,Submitted
+104476,Pass,0,0-35,HE Qualification,M,London Region,N,60,85,4777,30,Not-submitted
+106247,Pass,0,35-55,Post Graduate Qualification,M,Ireland,N,60,67,465,32,Not-submitted
+106577,Withdrawn,0,35-55,HE Qualification,M,South Region,N,60,57,733,18,Submitted
+110175,Pass,0,0-35,Lower Than A Level,M,East Midlands Region,N,60,66,998,18,Submitted
+111717,Pass,0,35-55,HE Qualification,M,East Anglian Region,N,60,80,2343,10,Submitted
+113295,Pass,0,35-55,HE Qualification,F,East Anglian Region,N,60,81,3553,19,Submitted
+114017,Pass,1,35-55,Lower Than A Level,M,Yorkshire Region,N,60,66,757,18,Submitted
+114999,Pass,0,35-55,Post Graduate Qualification,F,North Region,N,60,74,1358,18,Submitted
+116541,Pass,0,35-55,HE Qualification,M,Yorkshire Region,N,60,76,1886,19,Submitted
+116692,Pass,0,0-35,HE Qualification,M,Wales,N,60,72,1108,16,Submitted
+118983,Pass,1,35-55,A Level or Equivalent,M,East Anglian Region,N,60,73,284,19,Submitted
+123044,Pass,0,0-35,HE Qualification,M,East Midlands Region,N,120,75,2041,25,Not-submitted
+127582,Pass,0,35-55,A Level or Equivalent,M,South Region,N,60,69,1321,26,Not-submitted
+129955,Pass,1,0-35,A Level or Equivalent,F,East Midlands Region,N,180,85,1011,18,Submitted
+132976,Withdrawn,1,0-35,A Level or Equivalent,M,West Midlands Region,N,60,63,520,18,Submitted
+134143,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,N,120,87,2732,18,Submitted
+135400,Distinction,0,35-55,A Level or Equivalent,F,South East Region,N,60,72,287,19,Submitted
+137873,Withdrawn,0,0-35,Lower Than A Level,F,East Anglian Region,N,180,72,5528,15,Submitted
+141355,Withdrawn,0,35-55,Lower Than A Level,F,South East Region,Y,60,77,1823,19,Submitted
+141377,Pass,1,35-55,A Level or Equivalent,M,South West Region,N,60,45,143,54,Not-submitted
+142326,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,240,65,2121,17,Submitted
+144801,Withdrawn,1,0-35,A Level or Equivalent,M,South West Region,N,345,61,5645,19,Submitted
+145130,Pass,0,35-55,A Level or Equivalent,F,North Region,N,60,75,452,19,Submitted
+146188,Pass,0,35-55,HE Qualification,F,South Region,N,60,52,597,19,Submitted
+147756,Pass,0,0-35,HE Qualification,M,South West Region,N,120,77,611,18,Submitted
+147793,Fail,0,0-35,A Level or Equivalent,F,West Midlands Region,Y,60,52,155,32,Not-submitted
+148993,Fail,0,0-35,Lower Than A Level,M,North Region,N,120,68,1864,25,Not-submitted
+151358,Withdrawn,0,0-35,Lower Than A Level,F,North Region,N,90,54,270,17,Submitted
+155550,Withdrawn,0,35-55,A Level or Equivalent,F,North Western Region,Y,60,75,1529,19,Submitted
+155854,Pass,0,0-35,A Level or Equivalent,F,London Region,N,150,82,4003,18,Submitted
+155984,Pass,0,35-55,A Level or Equivalent,M,London Region,N,420,85,908,19,Submitted
+157568,Pass,0,35-55,A Level or Equivalent,F,East Midlands Region,N,60,79,1405,18,Submitted
+159954,Withdrawn,1,0-35,Lower Than A Level,F,East Anglian Region,N,60,65,1185,19,Submitted
+164259,Pass,0,0-35,A Level or Equivalent,F,South West Region,N,60,82,466,18,Submitted
+167906,Withdrawn,0,35-55,A Level or Equivalent,M,East Midlands Region,N,60,60,1510,19,Submitted
+168936,Pass,0,0-35,A Level or Equivalent,M,Scotland,N,60,76,745,19,Submitted
+172112,Pass,0,35-55,A Level or Equivalent,F,Yorkshire Region,N,60,60,1939,19,Submitted
+172797,Pass,0,35-55,Lower Than A Level,F,West Midlands Region,N,60,60,1782,18,Submitted
+174782,Pass,0,35-55,HE Qualification,M,Ireland,N,60,83,6318,17,Submitted
+175392,Pass,0,35-55,A Level or Equivalent,F,Ireland,N,60,85,4447,16,Submitted
+175932,Pass,0,55<=,HE Qualification,M,East Anglian Region,N,60,76,2016,18,Submitted
+175991,Pass,1,35-55,HE Qualification,M,North Region,N,60,51,138,15,Submitted
+180753,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,61,2012,18,Submitted
+181316,Fail,0,0-35,A Level or Equivalent,F,North Western Region,N,180,76,487,20,Not-submitted
+183096,Pass,0,0-35,A Level or Equivalent,M,South West Region,N,120,57,1975,19,Submitted
+183947,Withdrawn,0,35-55,A Level or Equivalent,F,South West Region,N,120,67,964,19,Submitted
+184271,Pass,0,0-35,A Level or Equivalent,F,South West Region,N,60,65,1312,18,Submitted
+185439,Pass,0,0-35,A Level or Equivalent,M,London Region,N,180,74,427,24,Not-submitted
+186149,Pass,0,35-55,HE Qualification,M,South West Region,N,170,85,2136,33,Not-submitted
+187100,Fail,0,0-35,HE Qualification,M,London Region,N,120,88,8562,17,Submitted
+188278,Pass,1,35-55,HE Qualification,M,Scotland,N,60,76,1434,19,Submitted
+189879,Distinction,0,35-55,A Level or Equivalent,M,South East Region,N,60,76,1541,19,Submitted
+192183,Withdrawn,0,35-55,A Level or Equivalent,M,Yorkshire Region,N,120,75,3219,19,Submitted
+200860,Pass,0,0-35,A Level or Equivalent,M,Scotland,N,120,69,534,18,Submitted
+202635,Pass,0,0-35,Lower Than A Level,F,South West Region,N,60,68,1418,27,Not-submitted
+205350,Withdrawn,0,0-35,A Level or Equivalent,M,London Region,N,60,75,1665,19,Submitted
+205719,Pass,1,35-55,Lower Than A Level,M,London Region,N,60,67,333,19,Submitted
+227499,Withdrawn,0,0-35,A Level or Equivalent,F,Wales,N,60,84,2953,19,Submitted
+227517,Pass,0,35-55,HE Qualification,M,South West Region,N,60,63,1205,18,Submitted
+228082,Fail,0,0-35,A Level or Equivalent,M,East Anglian Region,Y,90,58,227,19,Submitted
+228222,Distinction,0,35-55,A Level or Equivalent,F,London Region,N,60,71,445,19,Submitted
+229179,Fail,0,0-35,HE Qualification,M,Ireland,N,180,64,614,19,Submitted
+229361,Pass,1,0-35,HE Qualification,M,London Region,N,60,81,1215,18,Submitted
+231554,Pass,0,0-35,Lower Than A Level,M,East Midlands Region,N,60,80,1839,19,Submitted
+235507,Pass,0,0-35,A Level or Equivalent,M,West Midlands Region,N,60,65,190,18,Submitted
+236284,Pass,0,0-35,A Level or Equivalent,M,East Midlands Region,N,60,85,732,23,Not-submitted
+238007,Pass,0,0-35,A Level or Equivalent,M,London Region,N,240,83,1935,19,Submitted
+240712,Withdrawn,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,240,82,321,19,Submitted
+240884,Pass,0,0-35,Post Graduate Qualification,M,Scotland,N,60,74,427,18,Submitted
+241649,Pass,0,55<=,HE Qualification,M,South Region,N,60,85,1892,16,Submitted
+241729,Pass,0,0-35,HE Qualification,M,London Region,N,80,51,1829,19,Submitted
+242793,Pass,0,0-35,A Level or Equivalent,M,South Region,N,120,66,658,18,Submitted
+246834,Pass,0,35-55,HE Qualification,M,East Anglian Region,N,60,60,1174,18,Submitted
+248270,Fail,0,35-55,HE Qualification,F,East Midlands Region,N,60,77,1969,19,Submitted
+255548,Pass,0,35-55,HE Qualification,M,London Region,N,60,84,2580,19,Submitted
+256815,Pass,0,35-55,A Level or Equivalent,M,South West Region,N,60,71,1481,37,Not-submitted
+258392,Pass,0,0-35,Lower Than A Level,M,North Western Region,N,90,58,844,18,Submitted
+258894,Pass,0,35-55,Lower Than A Level,M,Wales,N,60,58,4963,19,Submitted
+260355,Pass,0,0-35,HE Qualification,M,North Western Region,N,120,55,426,21,Not-submitted
+262011,Pass,0,0-35,Lower Than A Level,F,West Midlands Region,N,60,60,1066,18,Submitted
+262934,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,N,60,81,2407,18,Submitted
+268073,Withdrawn,0,35-55,A Level or Equivalent,F,London Region,N,60,64,3210,18,Submitted
+268733,Pass,0,35-55,A Level or Equivalent,M,East Midlands Region,N,60,51,188,29,Not-submitted
+271251,Pass,0,35-55,A Level or Equivalent,F,North Western Region,N,60,80,3348,19,Submitted
+277880,Fail,0,35-55,A Level or Equivalent,M,East Anglian Region,N,90,70,2016,20,Not-submitted
+279572,Withdrawn,1,0-35,A Level or Equivalent,M,East Anglian Region,N,180,79,1183,18,Submitted
+281022,Pass,0,35-55,A Level or Equivalent,M,Scotland,N,60,70,492,18,Submitted
+281250,Withdrawn,0,0-35,A Level or Equivalent,F,South East Region,N,60,63,130,18,Submitted
+282821,Distinction,0,0-35,Lower Than A Level,M,London Region,N,60,61,1961,19,Submitted
+286488,Pass,0,0-35,A Level or Equivalent,F,Scotland,N,150,55,1046,18,Submitted
+287548,Fail,0,35-55,Lower Than A Level,M,Wales,N,60,69,483,21,Not-submitted
+290201,Fail,0,0-35,HE Qualification,M,North Western Region,N,60,78,1740,18,Submitted
+290757,Pass,0,35-55,A Level or Equivalent,M,South West Region,N,60,75,652,18,Submitted
+291334,Pass,0,35-55,A Level or Equivalent,M,South East Region,N,60,85,5231,18,Submitted
+294570,Pass,0,0-35,A Level or Equivalent,M,East Anglian Region,N,120,72,1775,16,Submitted
+294594,Pass,0,0-35,A Level or Equivalent,M,Wales,N,60,61,865,18,Submitted
+295741,Pass,0,0-35,A Level or Equivalent,M,North Western Region,N,60,38,709,18,Submitted
+296332,Distinction,0,35-55,A Level or Equivalent,M,South East Region,N,60,91,2152,18,Submitted
+298696,Withdrawn,0,35-55,A Level or Equivalent,F,South East Region,N,180,77,514,19,Submitted
+300398,Pass,0,0-35,A Level or Equivalent,M,East Midlands Region,N,120,82,1997,20,Not-submitted
+302302,Pass,0,55<=,HE Qualification,M,South East Region,N,60,58,513,18,Submitted
+305152,Pass,1,0-35,A Level or Equivalent,M,South East Region,N,60,64,146,19,Submitted
+305386,Fail,0,35-55,A Level or Equivalent,M,South East Region,N,240,75,1277,19,Submitted
+306107,Distinction,0,55<=,Post Graduate Qualification,M,South Region,N,60,73,987,18,Submitted
+306466,Pass,0,0-35,HE Qualification,F,South East Region,N,60,81,1220,7,Submitted
+306897,Pass,0,35-55,A Level or Equivalent,M,West Midlands Region,N,60,72,2742,16,Submitted
+307061,Fail,0,0-35,A Level or Equivalent,F,East Anglian Region,N,60,82,1081,19,Submitted
+307866,Fail,0,0-35,A Level or Equivalent,M,North Western Region,N,60,47,1476,19,Submitted
+311917,Pass,0,0-35,A Level or Equivalent,M,West Midlands Region,Y,120,55,2230,18,Submitted
+312537,Withdrawn,1,0-35,Lower Than A Level,F,Wales,N,120,88,12882,19,Submitted
+312782,Pass,0,35-55,A Level or Equivalent,M,West Midlands Region,N,120,89,281,18,Submitted
+318933,Pass,0,35-55,A Level or Equivalent,M,East Anglian Region,N,60,70,1281,16,Submitted
+319047,Pass,0,0-35,A Level or Equivalent,F,London Region,N,60,77,6589,26,Not-submitted
+321942,Pass,0,0-35,HE Qualification,F,East Midlands Region,N,60,82,10083,17,Submitted
+324002,Pass,0,0-35,A Level or Equivalent,M,West Midlands Region,N,60,85,1901,19,Submitted
+324084,Pass,0,55<=,A Level or Equivalent,M,South West Region,N,120,58,1961,16,Submitted
+324282,Distinction,0,55<=,Post Graduate Qualification,M,South Region,N,60,38,133,18,Submitted
+331358,Pass,0,0-35,A Level or Equivalent,M,South Region,N,60,84,2376,18,Submitted
+332789,Pass,0,0-35,HE Qualification,F,East Anglian Region,N,120,69,1655,18,Submitted
+333059,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,60,72,301,19,Submitted
+333323,Pass,0,55<=,HE Qualification,M,South Region,N,60,77,648,19,Submitted
+334259,Pass,0,35-55,HE Qualification,M,East Anglian Region,N,60,57,332,19,Submitted
+334333,Pass,0,35-55,A Level or Equivalent,F,South West Region,N,60,36,303,18,Submitted
+335764,Pass,0,0-35,A Level or Equivalent,M,South East Region,N,120,86,2286,19,Submitted
+336207,Withdrawn,0,35-55,HE Qualification,F,South Region,N,60,71,1316,17,Submitted
+339972,Pass,0,35-55,A Level or Equivalent,F,East Anglian Region,N,60,68,333,16,Submitted
+341872,Pass,0,0-35,A Level or Equivalent,M,Scotland,N,120,64,201,58,Not-submitted
+342007,Pass,0,0-35,HE Qualification,M,Scotland,N,60,75,880,20,Not-submitted
+342514,Fail,0,0-35,A Level or Equivalent,F,London Region,N,150,68,1950,12,Submitted
+342972,Withdrawn,0,0-35,A Level or Equivalent,F,South West Region,Y,240,62,838,14,Submitted
+343446,Withdrawn,0,0-35,A Level or Equivalent,F,South East Region,N,60,74,3644,19,Submitted
+344282,Pass,0,0-35,A Level or Equivalent,M,East Anglian Region,N,120,61,65,18,Submitted
+345068,Pass,0,0-35,A Level or Equivalent,M,North Region,N,60,70,547,19,Submitted
+345357,Fail,0,0-35,Lower Than A Level,M,East Anglian Region,N,180,75,2219,16,Submitted
+346025,Withdrawn,0,0-35,HE Qualification,F,West Midlands Region,N,60,85,569,19,Submitted
+350188,Pass,0,55<=,Lower Than A Level,M,Scotland,N,60,75,761,19,Submitted
+357668,Pass,0,0-35,HE Qualification,M,Yorkshire Region,N,60,49,166,19,Submitted
+364177,Pass,0,35-55,HE Qualification,M,Ireland,N,120,64,821,15,Submitted
+365244,Fail,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,60,64,891,19,Submitted
+365642,Pass,1,0-35,A Level or Equivalent,M,East Anglian Region,Y,180,68,2129,15,Submitted
+366483,Distinction,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,60,88,1465,18,Submitted
+368194,Pass,0,0-35,A Level or Equivalent,M,East Anglian Region,N,120,54,437,19,Submitted
+368824,Fail,0,35-55,HE Qualification,F,Scotland,N,120,61,292,18,Submitted
+368963,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,58,677,20,Not-submitted
+376439,Withdrawn,0,35-55,HE Qualification,M,South Region,N,120,86,2342,19,Submitted
+376581,Fail,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,60,86,2333,18,Submitted
+380953,Fail,0,35-55,Lower Than A Level,M,East Anglian Region,N,60,73,1062,17,Submitted
+383254,Pass,0,0-35,A Level or Equivalent,F,London Region,N,120,74,543,18,Submitted
+386924,Pass,0,35-55,Lower Than A Level,M,East Anglian Region,N,60,59,164,26,Not-submitted
+386952,Pass,0,0-35,HE Qualification,M,South West Region,N,60,67,910,19,Submitted
+388722,Pass,0,0-35,A Level or Equivalent,F,South West Region,Y,120,65,671,21,Not-submitted
+388885,Fail,0,35-55,HE Qualification,M,Wales,N,120,51,875,19,Submitted
+390890,Pass,1,0-35,Lower Than A Level,M,Yorkshire Region,N,180,75,639,19,Submitted
+392756,Distinction,0,0-35,HE Qualification,M,North Region,N,60,53,363,19,Submitted
+392931,Pass,0,35-55,A Level or Equivalent,F,South Region,N,60,65,3003,29,Not-submitted
+393207,Pass,0,0-35,A Level or Equivalent,M,East Midlands Region,N,60,68,876,18,Submitted
+396872,Pass,0,0-35,A Level or Equivalent,M,Yorkshire Region,N,120,63,996,19,Submitted
+398552,Pass,0,0-35,Lower Than A Level,M,Ireland,N,120,54,1183,17,Submitted
+401869,Pass,1,0-35,A Level or Equivalent,M,Yorkshire Region,N,120,55,955,19,Submitted
+402470,Pass,0,35-55,Lower Than A Level,F,London Region,N,60,80,1445,16,Submitted
+404804,Pass,0,35-55,A Level or Equivalent,M,South West Region,N,60,52,509,18,Submitted
+405088,Withdrawn,0,0-35,A Level or Equivalent,M,Scotland,N,90,85,1388,19,Submitted
+414117,Fail,0,0-35,A Level or Equivalent,M,West Midlands Region,N,120,81,807,18,Submitted
+415969,Pass,0,35-55,A Level or Equivalent,F,North Western Region,N,120,67,1359,20,Not-submitted
+420087,Pass,0,0-35,A Level or Equivalent,M,North Western Region,N,60,80,342,20,Not-submitted
+429958,Pass,0,0-35,HE Qualification,M,Yorkshire Region,N,180,59,411,19,Submitted
+441018,Fail,0,0-35,Lower Than A Level,M,Yorkshire Region,N,240,54,646,18,Submitted
+441888,Pass,0,0-35,Lower Than A Level,F,South East Region,N,60,74,739,20,Not-submitted
+442442,Pass,0,35-55,Lower Than A Level,M,South West Region,N,60,39,1009,19,Submitted
+444677,Pass,0,35-55,Lower Than A Level,M,Wales,N,120,91,1241,19,Submitted
+470588,Pass,0,0-35,A Level or Equivalent,M,North Region,N,120,86,400,19,Submitted
+489455,Withdrawn,0,0-35,A Level or Equivalent,M,Scotland,Y,240,74,2832,15,Submitted
+495284,Pass,1,0-35,A Level or Equivalent,M,Yorkshire Region,N,120,73,901,18,Submitted
+498857,Withdrawn,1,35-55,HE Qualification,M,West Midlands Region,N,90,77,998,19,Submitted
+508818,Fail,0,0-35,A Level or Equivalent,M,Scotland,Y,60,73,1129,19,Submitted
+512460,Pass,0,0-35,A Level or Equivalent,F,North Western Region,N,60,59,521,19,Submitted
+544103,Pass,0,0-35,A Level or Equivalent,F,South East Region,N,150,82,2328,18,Submitted
+550383,Pass,0,0-35,A Level or Equivalent,M,London Region,N,120,77,910,19,Submitted
+564450,Withdrawn,0,0-35,HE Qualification,M,South West Region,N,120,64,224,18,Submitted
+568601,Distinction,0,0-35,HE Qualification,M,London Region,N,60,85,488,19,Submitted
+572652,Withdrawn,0,35-55,HE Qualification,M,South East Region,N,60,71,780,19,Submitted
+580389,Pass,0,0-35,A Level or Equivalent,F,South West Region,N,60,75,1271,19,Submitted
+588775,Fail,0,0-35,A Level or Equivalent,F,North Region,N,60,85,7067,18,Submitted
+591774,Pass,0,0-35,HE Qualification,M,South East Region,N,120,88,605,19,Submitted
+603861,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,61,955,19,Submitted
+606143,Pass,0,0-35,A Level or Equivalent,M,London Region,N,120,78,406,19,Submitted
+704156,Pass,0,0-35,HE Qualification,M,South East Region,N,120,67,3064,18,Submitted
+705379,Pass,0,0-35,HE Qualification,M,North Western Region,N,120,81,5680,19,Submitted
+721259,Pass,0,0-35,HE Qualification,M,South East Region,N,60,0,1228,22,Not-submitted
+749412,Fail,0,0-35,HE Qualification,M,West Midlands Region,N,120,0,4007,16,Submitted
+760729,Withdrawn,0,0-35,HE Qualification,F,Scotland,N,60,0,7288,18,Submitted
+905042,Pass,0,0-35,HE Qualification,M,West Midlands Region,N,120,0,3004,17,Submitted
+949618,Pass,0,0-35,HE Qualification,M,Ireland,N,120,0,1357,18,Submitted
+958987,Fail,0,0-35,A Level or Equivalent,M,East Anglian Region,N,120,0,1216,18,Submitted
+968578,Pass,0,0-35,A Level or Equivalent,M,South West Region,N,120,0,870,27,Not-submitted
+969076,Pass,0,35-55,Post Graduate Qualification,M,South Region,N,60,0,1980,18,Submitted
+971027,Withdrawn,0,55<=,HE Qualification,M,North Region,N,60,0,3098,19,Submitted
+978739,Fail,0,35-55,Post Graduate Qualification,M,Scotland,N,60,0,5988,18,Submitted
+1035023,Pass,0,55<=,HE Qualification,M,South Region,N,120,0,1896,19,Submitted
+1105478,Distinction,0,55<=,A Level or Equivalent,M,West Midlands Region,N,120,0,1695,19,Submitted
+1352868,Withdrawn,0,55<=,Lower Than A Level,F,South Region,N,120,0,641,19,Submitted
+1401935,Pass,0,55<=,Lower Than A Level,M,South Region,N,60,0,240,26,Not-submitted
+1402638,Distinction,0,55<=,A Level or Equivalent,M,West Midlands Region,N,60,0,910,21,Not-submitted
+1414443,Pass,1,35-55,A Level or Equivalent,F,East Anglian Region,N,60,0,1907,50,Not-submitted
+1465690,Pass,0,35-55,A Level or Equivalent,F,South West Region,N,60,0,3460,19,Submitted
+1472925,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,0,939,30,Not-submitted
+1488959,Pass,0,35-55,A Level or Equivalent,F,East Anglian Region,N,60,0,3493,20,Not-submitted
+1518989,Withdrawn,0,35-55,A Level or Equivalent,M,South West Region,N,180,0,4202,19,Submitted
+1618738,Pass,0,35-55,HE Qualification,F,West Midlands Region,N,60,0,723,19,Submitted
+1620151,Pass,0,35-55,HE Qualification,M,South Region,N,60,0,998,19,Submitted
+1626710,Pass,0,35-55,Lower Than A Level,F,London Region,N,60,0,6025,17,Submitted
+1640609,Pass,0,55<=,HE Qualification,M,Scotland,N,60,0,5061,16,Submitted
+1686521,Withdrawn,0,35-55,A Level or Equivalent,M,Yorkshire Region,N,60,0,643,17,Submitted
+1729319,Fail,0,35-55,A Level or Equivalent,M,West Midlands Region,N,60,0,2756,19,Submitted
+1746134,Pass,0,35-55,HE Qualification,F,East Midlands Region,N,60,0,1759,18,Submitted
+1758449,Fail,0,35-55,A Level or Equivalent,F,Yorkshire Region,N,120,0,2756,18,Submitted
+1765788,Withdrawn,0,35-55,A Level or Equivalent,M,South West Region,N,60,0,7057,19,Submitted
+1801229,Pass,0,35-55,HE Qualification,M,West Midlands Region,N,120,0,1443,19,Submitted
+1801641,Fail,0,35-55,Lower Than A Level,F,East Anglian Region,Y,60,0,459,18,Submitted
+1847830,Pass,0,35-55,A Level or Equivalent,M,London Region,N,60,0,6518,18,Submitted
+1860318,Pass,0,35-55,Lower Than A Level,F,South East Region,N,60,0,5975,19,Submitted
+1889511,Pass,0,35-55,Lower Than A Level,M,London Region,N,60,0,1754,22,Not-submitted
+1889577,Fail,1,35-55,HE Qualification,M,South Region,N,60,0,931,19,Submitted
+1894188,Distinction,0,35-55,A Level or Equivalent,M,North Western Region,N,60,0,4294,14,Submitted
+1938355,Pass,0,35-55,A Level or Equivalent,M,West Midlands Region,N,60,0,1992,10,Submitted
+1942396,Withdrawn,0,35-55,Lower Than A Level,F,North Western Region,N,60,0,470,19,Submitted
+1970390,Pass,0,35-55,HE Qualification,F,Scotland,N,60,0,11139,21,Not-submitted
+1976139,Pass,0,35-55,A Level or Equivalent,M,East Anglian Region,N,60,0,1216,17,Submitted
+2011876,Withdrawn,0,35-55,Lower Than A Level,M,South Region,N,75,0,1401,19,Submitted
+2012966,Withdrawn,0,35-55,A Level or Equivalent,F,Scotland,N,60,0,519,19,Submitted
+2051699,Pass,1,55<=,HE Qualification,M,South East Region,N,60,0,1734,19,Submitted
+2062879,Pass,0,35-55,HE Qualification,M,Ireland,N,60,0,2386,18,Submitted
+2065691,Pass,1,35-55,A Level or Equivalent,M,Scotland,N,60,0,1430,36,Not-submitted
+2073016,Pass,0,35-55,Lower Than A Level,M,South West Region,N,60,0,849,23,Not-submitted
+2080474,Pass,0,35-55,Lower Than A Level,M,South West Region,Y,300,0,1146,19,Submitted
+2083877,Pass,1,35-55,A Level or Equivalent,M,Yorkshire Region,N,60,0,685,19,Submitted
+2084066,Pass,0,35-55,A Level or Equivalent,F,South Region,Y,60,0,1967,21,Not-submitted
+2104505,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,60,0,701,18,Submitted
+2122180,Pass,0,35-55,A Level or Equivalent,M,South Region,N,60,0,4712,23,Not-submitted
+2139353,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,Y,120,0,1262,23,Not-submitted
+2143752,Withdrawn,0,35-55,Lower Than A Level,M,West Midlands Region,N,60,0,1888,19,Submitted
+2146792,Pass,0,35-55,Lower Than A Level,M,Ireland,N,120,0,2385,19,Submitted
+2153153,Pass,0,0-35,A Level or Equivalent,F,East Anglian Region,Y,60,0,3385,18,Submitted
+2155014,Pass,0,35-55,Lower Than A Level,M,North Western Region,N,60,0,1454,22,Not-submitted
+2164705,Pass,0,35-55,Lower Than A Level,F,South West Region,N,60,0,231,18,Submitted
+2171627,Fail,0,0-35,A Level or Equivalent,F,East Anglian Region,N,60,0,1346,15,Submitted
+2182846,Withdrawn,0,35-55,A Level or Equivalent,M,London Region,Y,330,0,4214,18,Submitted
+2194100,Withdrawn,0,35-55,Lower Than A Level,F,London Region,N,60,0,1401,17,Submitted
+2197016,Pass,0,35-55,A Level or Equivalent,F,South Region,N,60,0,1455,9,Submitted
+2208424,Pass,0,0-35,A Level or Equivalent,F,West Midlands Region,N,120,0,1080,16,Submitted
+2229865,Fail,0,35-55,Lower Than A Level,F,South West Region,N,60,0,3236,18,Submitted
+2255601,Pass,0,35-55,Lower Than A Level,M,West Midlands Region,N,60,0,2543,19,Submitted
+2268379,Distinction,0,35-55,Lower Than A Level,F,North Western Region,N,60,0,1685,19,Submitted
+2278464,Withdrawn,0,35-55,A Level or Equivalent,M,London Region,N,120,0,307,18,Submitted
+2293923,Pass,1,35-55,Lower Than A Level,F,South Region,N,60,0,303,19,Submitted
+2312620,Pass,0,55<=,HE Qualification,M,North Western Region,N,60,0,1129,26,Not-submitted
+2329342,Withdrawn,0,35-55,A Level or Equivalent,M,Scotland,Y,60,0,565,19,Submitted
+2339528,Pass,0,0-35,A Level or Equivalent,F,Yorkshire Region,N,60,0,593,25,Not-submitted
+2342426,Pass,0,0-35,Lower Than A Level,F,West Midlands Region,Y,60,0,1814,24,Not-submitted
+2344901,Fail,1,0-35,A Level or Equivalent,F,North Western Region,N,120,0,445,19,Submitted
+2358056,Pass,0,35-55,A Level or Equivalent,F,Yorkshire Region,N,60,0,1588,19,Submitted
+2358969,Pass,0,35-55,A Level or Equivalent,F,London Region,N,60,0,373,19,Submitted
+2364471,Pass,1,35-55,A Level or Equivalent,F,East Anglian Region,N,60,0,7182,25,Not-submitted
+2367155,Pass,0,35-55,HE Qualification,F,North Western Region,N,60,0,2148,19,Submitted
+2369266,Pass,0,0-35,A Level or Equivalent,M,Scotland,N,60,0,2146,19,Submitted
+2376496,Pass,0,35-55,A Level or Equivalent,F,West Midlands Region,N,60,0,749,19,Submitted
+2391984,Withdrawn,0,35-55,A Level or Equivalent,F,South Region,N,120,0,818,20,Not-submitted
+2411661,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,60,0,574,18,Submitted
+2411778,Pass,0,35-55,Lower Than A Level,M,South Region,N,60,0,1497,14,Submitted
+2412002,Pass,0,0-35,A Level or Equivalent,M,South Region,N,150,0,3344,20,Not-submitted
+2412967,Withdrawn,0,35-55,HE Qualification,F,East Midlands Region,N,60,0,2458,19,Submitted
+2429854,Withdrawn,0,35-55,A Level or Equivalent,M,Wales,N,60,0,655,24,Not-submitted
+2437837,Withdrawn,0,35-55,HE Qualification,F,Scotland,N,60,0,2684,17,Submitted
+2449878,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,N,120,0,622,22,Not-submitted
+2456480,Distinction,0,0-35,Lower Than A Level,F,London Region,N,60,0,183,23,Not-submitted
+2457256,Fail,1,35-55,Lower Than A Level,M,Yorkshire Region,N,60,0,1611,19,Submitted
+2458355,Fail,0,0-35,A Level or Equivalent,F,Yorkshire Region,N,60,0,4187,19,Submitted
+2460080,Fail,0,0-35,HE Qualification,F,North Region,N,60,0,3424,18,Submitted
+2461190,Withdrawn,1,0-35,A Level or Equivalent,F,East Anglian Region,N,180,0,967,19,Submitted
+2479954,Pass,0,0-35,HE Qualification,F,Scotland,Y,60,0,323,19,Submitted
+2481901,Withdrawn,1,0-35,HE Qualification,M,South East Region,N,300,0,1949,17,Submitted
+2482700,Pass,0,0-35,A Level or Equivalent,F,East Anglian Region,N,120,0,1616,17,Submitted
+2486127,Pass,0,35-55,Lower Than A Level,F,London Region,N,60,0,1690,18,Submitted
+2498700,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,120,0,2864,22,Not-submitted
+2516503,Withdrawn,0,0-35,A Level or Equivalent,M,South Region,N,60,0,3070,18,Submitted
+2518069,Fail,0,0-35,A Level or Equivalent,F,South Region,N,120,0,1617,17,Submitted
+2521459,Withdrawn,0,0-35,HE Qualification,M,Scotland,N,120,0,1078,19,Submitted
+2523736,Distinction,0,35-55,Lower Than A Level,M,South West Region,N,90,0,470,26,Not-submitted
+2529279,Pass,0,35-55,A Level or Equivalent,F,South Region,N,60,0,1189,15,Submitted
+2532302,Withdrawn,0,35-55,A Level or Equivalent,M,London Region,Y,120,0,1216,18,Submitted
+2536991,Pass,0,0-35,A Level or Equivalent,F,North Region,N,60,0,1080,19,Submitted
+2550279,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,60,0,2809,19,Submitted
+2551220,Fail,0,35-55,Lower Than A Level,M,Scotland,N,120,0,1327,19,Submitted
+2552472,Pass,0,35-55,Lower Than A Level,M,South Region,N,180,0,519,33,Not-submitted
+2555340,Pass,0,35-55,Lower Than A Level,M,London Region,N,60,0,4441,18,Submitted
+2557283,Pass,0,55<=,HE Qualification,M,Scotland,N,60,0,7262,18,Submitted
+2559575,Fail,0,55<=,HE Qualification,M,South Region,N,60,0,650,18,Submitted
+2562034,Fail,0,35-55,Lower Than A Level,F,Yorkshire Region,N,60,0,248,19,Submitted
+2566163,Withdrawn,0,55<=,HE Qualification,F,Scotland,N,60,0,1591,18,Submitted
+2566592,Pass,0,0-35,A Level or Equivalent,M,North Western Region,N,60,0,1359,17,Submitted
+2574528,Pass,0,35-55,Lower Than A Level,M,Wales,N,60,0,988,19,Submitted
+2574583,Pass,0,0-35,Lower Than A Level,M,South Region,N,120,0,1890,19,Submitted
+2576122,Pass,0,0-35,HE Qualification,F,East Anglian Region,N,120,0,250,18,Submitted
+2578995,Pass,0,0-35,Lower Than A Level,F,North Western Region,N,240,0,1326,15,Submitted
+2586560,Pass,0,35-55,HE Qualification,M,South East Region,N,60,0,2905,18,Submitted
+2594139,Pass,0,0-35,A Level or Equivalent,M,East Midlands Region,N,60,0,1868,20,Not-submitted
+2598871,Pass,0,0-35,Lower Than A Level,F,London Region,N,60,0,2049,17,Submitted
+2599352,Pass,0,55<=,A Level or Equivalent,M,North Western Region,N,120,0,1160,23,Not-submitted
+2600688,Pass,0,35-55,HE Qualification,F,North Western Region,N,60,0,582,19,Submitted
+2606098,Pass,0,0-35,A Level or Equivalent,F,East Anglian Region,N,60,0,491,15,Submitted
+2613116,Distinction,0,55<=,HE Qualification,M,South Region,N,60,0,1181,18,Submitted
+2617002,Withdrawn,0,0-35,Lower Than A Level,F,West Midlands Region,N,60,0,1473,26,Not-submitted
+2639449,Pass,0,35-55,HE Qualification,F,North Region,N,60,0,797,19,Submitted
+2639540,Pass,0,0-35,Lower Than A Level,F,South Region,N,60,0,1964,26,Not-submitted
+2639641,Withdrawn,0,35-55,HE Qualification,F,South Region,N,120,0,2042,18,Submitted
+2641155,Pass,0,35-55,HE Qualification,F,South Region,N,60,0,4109,19,Submitted
+2643002,Pass,0,55<=,HE Qualification,M,Yorkshire Region,N,60,0,2434,19,Submitted
+2645733,Pass,0,0-35,Lower Than A Level,M,South West Region,N,60,0,1596,19,Submitted
+2649826,Pass,0,0-35,A Level or Equivalent,M,East Anglian Region,N,60,0,5974,14,Submitted
+2650282,Pass,0,0-35,A Level or Equivalent,F,South Region,N,60,0,641,19,Submitted
+2664024,Pass,0,35-55,A Level or Equivalent,F,South Region,N,60,0,808,22,Not-submitted
+2666246,Withdrawn,0,0-35,A Level or Equivalent,M,South Region,N,120,0,612,19,Submitted
+2669816,Pass,0,35-55,HE Qualification,M,Ireland,N,60,0,280,17,Submitted
+2671132,Pass,0,35-55,Lower Than A Level,M,Yorkshire Region,N,60,0,3720,18,Submitted
+2676809,Withdrawn,0,0-35,A Level or Equivalent,M,North Western Region,N,60,0,309,17,Submitted
+2678643,Pass,0,0-35,A Level or Equivalent,F,West Midlands Region,Y,60,0,2287,19,Submitted
+2685865,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,N,60,0,2815,19,Submitted
+2688067,Pass,0,0-35,A Level or Equivalent,F,South West Region,N,60,0,289,19,Submitted
+2689958,Pass,0,35-55,A Level or Equivalent,F,East Anglian Region,N,60,0,3929,19,Submitted
+2691206,Pass,0,0-35,A Level or Equivalent,F,Scotland,N,120,0,2297,19,Submitted
+2694424,Pass,0,0-35,A Level or Equivalent,M,West Midlands Region,N,60,0,4218,17,Submitted
+2698257,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,60,0,758,22,Not-submitted
+65002,Pass,0,35-55,Lower Than A Level,M,Scotland,N,60,66,168,17,Submitted
+94961,Pass,0,0-35,HE Qualification,M,North Western Region,N,60,74,298,17,Submitted
+129955,Pass,0,0-35,A Level or Equivalent,F,East Midlands Region,N,180,85,993,18,Submitted
+141377,Pass,0,35-55,A Level or Equivalent,M,South West Region,N,60,45,143,54,Not-submitted
+147756,Pass,0,0-35,HE Qualification,M,South West Region,N,120,77,611,18,Submitted
+148993,Fail,0,0-35,Lower Than A Level,M,North Region,N,120,68,1864,25,Not-submitted
+155984,Pass,0,35-55,A Level or Equivalent,M,London Region,N,420,85,908,19,Submitted
+159954,Withdrawn,1,0-35,Lower Than A Level,F,East Anglian Region,N,60,65,1185,19,Submitted
+188278,Pass,1,35-55,HE Qualification,M,Scotland,N,60,76,1434,19,Submitted
+235507,Pass,0,0-35,A Level or Equivalent,M,West Midlands Region,N,60,65,190,18,Submitted
+260355,Pass,0,0-35,HE Qualification,M,North Western Region,N,120,55,426,21,Not-submitted
+268733,Pass,0,35-55,A Level or Equivalent,M,East Midlands Region,N,60,51,188,29,Not-submitted
+277880,Fail,0,35-55,A Level or Equivalent,M,East Anglian Region,N,90,70,2016,20,Not-submitted
+331358,Pass,0,0-35,A Level or Equivalent,M,South Region,N,60,84,2376,18,Submitted
+335764,Pass,0,0-35,A Level or Equivalent,M,South East Region,N,120,86,2286,19,Submitted
+342007,Pass,0,0-35,HE Qualification,M,Scotland,N,60,75,880,20,Not-submitted
+390890,Pass,0,0-35,Lower Than A Level,M,Yorkshire Region,N,180,75,639,19,Submitted
+415969,Pass,0,35-55,A Level or Equivalent,F,North Western Region,N,120,67,1359,20,Not-submitted
+470588,Pass,0,0-35,A Level or Equivalent,M,North Region,N,120,86,400,19,Submitted
+603861,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,61,955,19,Submitted
+721259,Pass,0,0-35,HE Qualification,M,South East Region,N,60,0,1228,22,Not-submitted
+1352868,Withdrawn,0,55<=,Lower Than A Level,F,South Region,N,120,0,641,19,Submitted
+1472925,Pass,0,35-55,HE Qualification,M,North Western Region,N,60,0,939,30,Not-submitted
+1970390,Pass,0,35-55,HE Qualification,F,Scotland,N,60,0,11139,21,Not-submitted
+2073016,Pass,0,35-55,Lower Than A Level,M,South West Region,N,60,0,849,23,Not-submitted
+2139353,Pass,0,35-55,Lower Than A Level,F,East Anglian Region,Y,120,0,1262,23,Not-submitted
+2358969,Pass,0,35-55,A Level or Equivalent,F,London Region,N,60,0,373,19,Submitted
+2429854,Withdrawn,0,35-55,A Level or Equivalent,M,Wales,N,60,0,655,24,Not-submitted
+2576122,Pass,0,0-35,HE Qualification,F,East Anglian Region,N,120,0,250,18,Submitted
