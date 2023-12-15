@@ -17,7 +17,7 @@ Together, let's make this the best Research learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Resources - 📚Published Works </h2> </summary>
+<summary> <h2>Papers - 📚Published Works </h2> </summary>
 | Paper | Code | Dataset |
 |---|---|---|
 |[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|---|
