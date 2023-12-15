@@ -6,7 +6,7 @@ This repository is related to all about Research work - an A-Z guide to the worl
 Together, let's make this the best Research learning hub repository! 🚀
 
                       https://coursesteach.com/
-                      <details> 
+<details> 
 <summary> <h2>Resources - 📚Important Research Softwares, Websites, Article </h2> </summary>
 
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
