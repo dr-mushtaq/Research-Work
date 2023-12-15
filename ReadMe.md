@@ -17,7 +17,7 @@ Together, let's make this the best Research learning hub repository! 🚀
 </details>
 
 <details> 
-<summary> <h2>Papers - 📚Published Works </h2> </summary>
+<summary> <h2>Research Papers - 📚Published Works </h2> </summary>
   
 | Paper | Code | Dataset |
 |---|---|---|
