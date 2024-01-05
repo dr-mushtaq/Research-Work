@@ -15,8 +15,11 @@ Star this repo if you find it useful ⭐
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
-   -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
+   -  [**How To Read Research Papers**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
 </details>
+ -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-read-research-papers-8a0fbc242436)
+</details>
+
 
 <details> 
 <summary> <h2>Research Papers - 📚Published Works </h2> </summary>
