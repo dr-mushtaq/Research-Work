@@ -17,6 +17,7 @@ Star this repo if you find it useful ⭐
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
    -  [**How To Read Research Papers**](https://medium.com/@Coursesteach/how-to-read-research-papers-8a0fbc242436)
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
+   -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
 </details>
 
 
