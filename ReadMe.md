@@ -30,9 +30,6 @@ Explore the repository's contents, delve into research methodologies and impleme
 
 Contributions are welcome! Whether it's implementing new research papers, improving existing content, or providing feedback, your contributions can help enrich the learning experience for others. Please contact to my skype ID:themushtaq48 for guidelines on how to contribute.
 
-
-**Contribution**: We would love your help in making this repository even better! If you know of an amazing Research course that isn't listed here, or if you have any suggestions for improvement in any repository content, feel free to open an issue or submit a repository contribution request.
-
 Together, let's make this the best Research learning hub repository! 🚀
 
 Star this repo if you find it useful ⭐
