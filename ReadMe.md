@@ -61,7 +61,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 M Shujaat(MS21040061) - 📚 Research Work </h2> </summary>
+<summary> <h2>🔎 (2002-4)-M Shujaat(MS21040061) - 📚 Research Work </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -96,7 +96,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎 Samman Arooj(MS210400074)- 📚 Research Work </h2> </summary>
+<summary> <h2>🔎Samman Arooj(MS210400074)- 📚 Research Work </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -131,7 +131,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎 M Shujaat(MS21040061) - 📚 Research Work </h2> </summary>
+<summary> <h2>🔎 Ahsan Saleem(MS200400007) - 📚 Research Work </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
