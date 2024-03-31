@@ -20,19 +20,20 @@ Hands-On Projects: Engage in hands-on projects that demonstrate the application 
 
 Supplementary Resources: Access supplementary materials, including articles, tutorials, datasets, and curated resources, to enrich your learning experience and stay updated with the latest developments in research.
 
-**Contents**
+## **Contents👋🛒**
 
 Research Methodologies: Covering fundamental research methodologies such as literature review, experimental design, data collection, analysis, and interpretation.
 
 Implementation of Research Papers: Demonstrating practical implementations of research papers in various domains, including machine learning, data analysis, optimization, and more.
 
-**Usage**
+## **Usag👋🛒**
 
 Explore the repository's contents, delve into research methodologies and implementations, and leverage the provided code examples, projects, and resources to enhance your research skills and proficiency.
 
-**Contributing**
+## **Contributing👋🛒**
 
-Contributions are welcome! Whether it's implementing new research papers, improving existing content, or providing feedback, your contributions can help enrich the learning experience for others. Please contact to my skype ID:themushtaq48 for guidelines on how to contribute.
+
+Contributions are welcome! Whether it's implementing new research papers, improving existing content, or providing feedback, your contributions can help enrich the learning experience for others. Please contact to my **skype ID:themushtaq48** for guidelines on how to contribute.
 
 Together, let's make this the best Research learning hub repository! 🚀
 
