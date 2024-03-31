@@ -81,6 +81,23 @@ Star this repo if you find it useful ⭐
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
 <details> 
+
+<details> 
+<summary> <h2> Samman Arooj(MS21040061) - 📚 Research Work </h2> </summary>
+## 📚Chapter: 1  - **Literature Review**
+ 
+|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
+|---|---|---|---|---|---|
+|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**]
+
+## 📚Chapter: 1  - **Thesis/Publication**
+ 
+|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
+|---|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+<details> 
    
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you want to join research work then please contact.
