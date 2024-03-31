@@ -288,11 +288,20 @@ Star this repo if you find it useful ⭐
 ## ⚙️ Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-*  Plagiarism rules: Forsynopsis: 15% is acceptable as HEC rule and individuals source less than 2% 
+*  Plagiarism rules: For synopsis: 15% is acceptable as HEC rule and individuals source less than 2% 
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
+
+  ## 💻 Virtual University Thesis Workflow:
+
+- 1- Internal Department synopsis Presention, Required Documents( Presention PPT)
+
+- 2- Synopsis Presention For GRC, Required Documents(PPT,Synopsis File,AnnexB,AnnexA,Turnitin Report).
+- 3- Sent Thesis for Rreviewer , Required Documents(final thesis,Plagiarism report, Ssynopsis notification, suggested as external examiners)
+
+>
 
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you want to join research work then please contact.
