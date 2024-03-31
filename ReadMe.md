@@ -165,7 +165,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 M Shujaat(MS21040061) - 📚 Research Work </h2> </summary>
+<summary> <h2>🔎 Nabila Anum(ms22040007) - 📚 Research Work </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
