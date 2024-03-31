@@ -30,7 +30,7 @@ Implementation of Research Papers: Demonstrating practical implementations of re
 
 Explore the repository's contents, delve into research methodologies and implementations, and leverage the provided code examples, projects, and resources to enhance your research skills and proficiency.
 
-## **Contributing👋🛒**
+## **Contributing🙌**
 
 
 Contributions are welcome! Whether it's implementing new research papers, improving existing content, or providing feedback, your contributions can help enrich the learning experience for others. Please contact to my **skype ID:themushtaq48** for guidelines on how to contribute.
