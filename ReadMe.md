@@ -298,8 +298,8 @@ Star this repo if you find it useful ⭐
 
 - 1- Internal Department synopsis Presention, Required Documents( Presention PPT)
 
-- 2- Synopsis Presention For GRC, Required Documents(PPT,Synopsis File,AnnexB,AnnexA,Turnitin Report).
-- 3- Sent Thesis for Rreviewer , Required Documents(final thesis,Plagiarism report, Ssynopsis notification, suggested as external examiners)
+- 2- Synopsis Presention For GRC, Required Documents(PPT,Synopsis File,AnnexB,AnnexA,Turnitin Report(15% is acceptable and individuals source less than 2%)).
+- 3- Sent Thesis for Rreviewer , Required Documents(final thesis,Plagiarism report (15% is acceptable and individuals source less than 2%), Ssynopsis notification, suggested as external examiners)
 
 >
 
