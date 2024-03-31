@@ -288,7 +288,7 @@ Star this repo if you find it useful ⭐
 ## ⚙️ Things to Note
 
 * Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-* You can only work on issues that have been assigned to you.
+*  Plagiarism rules: Forsynopsis: 15% is acceptable as HEC rule and individuals source less than 2% 
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
