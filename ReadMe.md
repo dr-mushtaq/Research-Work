@@ -95,7 +95,6 @@ Star this repo if you find it useful ⭐
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
 </details>
 
-   
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you want to join research work then please contact.
 
