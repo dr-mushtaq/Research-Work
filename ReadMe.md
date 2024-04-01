@@ -310,7 +310,7 @@ We would love your help in making this repository even better! If you want to jo
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
-<a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
+<a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
 
