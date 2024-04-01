@@ -283,7 +283,7 @@ Star this repo if you find it useful ⭐
 
 - Then in Github, in your cloned repository find the option to make a pull request 
 
-> print("Start contributing for Machine Learning")
+> print("Start contributing for Research-Work")
 >
 ## ⚙️ Things to Note
 
