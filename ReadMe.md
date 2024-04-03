@@ -14,11 +14,11 @@ The A-Z Guide to Research Work is designed to provide researchers, academics, an
 
 **1-Comprehensive Coverage:** Explore a wide range of research topics, methodologies, and techniques, covering various fields such as computer science, engineering, mathematics, and more.
 
-** 2-Implementation of Research Papers:** Dive into practical implementations of research papers using Python, including algorithms, models, simulations, and experiments, alongside detailed explanations and code examples.
+**2-Implementation of Research Papers:** Dive into practical implementations of research papers using Python, including algorithms, models, simulations, and experiments, alongside detailed explanations and code examples.
 
-** 3-Hands-On Projects:** Engage in hands-on projects that demonstrate the application of research methodologies in real-world scenarios, fostering a deeper understanding of research principles and methodologies.
+**3-Hands-On Projects:** Engage in hands-on projects that demonstrate the application of research methodologies in real-world scenarios, fostering a deeper understanding of research principles and methodologies.
 
-** 4-Supplementary Resources:** Access supplementary materials, including articles, tutorials, datasets, and curated resources, to enrich your learning experience and stay updated with the latest developments in research.
+**4-Supplementary Resources:** Access supplementary materials, including articles, tutorials, datasets, and curated resources, to enrich your learning experience and stay updated with the latest developments in research.
 
 ## **Contents👋🛒**
 
