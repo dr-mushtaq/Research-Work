@@ -66,7 +66,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 Thesis (2002-4)-M Shujaat(MS21040061)</h2> </summary>
+<summary> <h2>🔎Thesis-(2002-4)-M Shujaat(MS21040061)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
