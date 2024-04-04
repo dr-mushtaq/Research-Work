@@ -257,7 +257,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 Research Paper: Title:Patient Pain Detection from Facial Expressions using Deep Learning  </h2> </summary>
+<summary> <h2>🔎 Research Paper:Patient Pain Detection from Facial Expressions </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
