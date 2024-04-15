@@ -127,7 +127,12 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
-   - [**Learn to Train and Deploy a Real-Time Financial Advisor**](https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file)
+
+   -  [**Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers**](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
+   -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
+   -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
+   - [**Top AI Agents**](https://github.com/SamurAIGPT/Best-AI-Agents)
+   - [**Learn to Train and Deploy a Real-Time Financial Advisor**](https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file) 
    -  [**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**](https://arxiv.org/abs/2310.11511?fbclid=IwAR1to5thaF8Of2zfNI6O5NeYj8yy7O7QPMzWfvvdMY2x11Hwf85gEgZ2wX8_aem_AVeTQAylHY0xJANFFpZqJBNS0yVMNX2EbYd3Yjvi1rN4o5dqcOX-VNthfqh7Ukv89EFfri29Eibfqa4vCwVY7fMi)
    -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
    -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
@@ -143,7 +148,6 @@ Star this repo if you find it useful ⭐
    -  [**Running Flask App On Colab With Ngrok| [ Latest Way ]**](https://www.youtube.com/watch?v=bHtxDiIl0wg)
    -  [**Deploy Streamlit app on Google Colaboratory as public app | Ngrok | Python**](https://www.youtube.com/watch?v=Y-lUz7npEGo)
    -  [**Building a Simple Chatbot with Python and Transformers**](https://jasminbharadiya.medium.com/building-a-simple-chatbot-with-python-and-transformers-875aec2f05d8)
-   -  [**Running Flask App On Colab With Ngrok| [ Latest Way ]**](https://www.youtube.com/watch?v=bHtxDiIl0wg)
    
 
 </details>
