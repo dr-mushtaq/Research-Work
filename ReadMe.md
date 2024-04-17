@@ -73,11 +73,14 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Support, Confidence and Lift | NA | Introduction, Methodology and the description of confidence, support and lift  |
 
-|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents.| Support, Confidence and Lift| NA | Introduction|
+|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | Support, Confidence and Lift | NA | Introduction|
 
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Accuracy and Precision | NA | Introduction, Related work |
+
+|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV.**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Accuracy | NA | Future work |
+
+|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Accuracy, Precision, Recall and F1 Score | NA | Introduction  |
+
 
 ## 📚Chapter: 1  - **Thesis/Publication**
  
