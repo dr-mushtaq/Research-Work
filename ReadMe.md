@@ -155,17 +155,20 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
+
 <summary> <h2>🔎Thesis- Ahsan Saleem</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
-|---|---|---|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+| Title/Journal Name | Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |
+| --- | --- | --- | --- | --- | --- |
+| Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
+| Development of Early Warning Systems to monitor e-learning progress | IOP Conference Series: Materials Science and Engineering 2021 | To predict whether students enrolled in a class will pass or fail and develop an early warning system to warn students and teachers about the possibility of students failing a course/class and suggest appropriate actions. | 95% Accuracy 4.9% Error | - | - |
+| Dropout early warning systems for high school students using machine learning | Children and Youth Services Review 2019 | To predict students at risk of dropping out using a Random forest classifier. | Accuracy=0.95 Sensitivity=0.85 Specificity=0.95 AUC of ROC = 0.97 | - | - |
+| Combining supervised and unsupervised machine learning algorithms to predict the learners’ learning styles | Second International Conference on Intelligent Computing in Data Sciences (ICDS 2018) | To predict the learning style of the students | Accuracy = 0.89 | - | - |
+| Integration of learning analytics into learner management system using machine learning | 2nd International Conference on Modern Educational Technology 2020 | To integrate Learning Analytics using Machine Learning into LMS | LG = 61% KNN = 60% DT = 63% | - | - |
+| Analysis and Prediction of Students’ Academic Performance Based on Educational Data Mining | IEEE Access 2022 | To combine analysis and prediction domains of EDM and analyze student performance using Clustering(KNN) and then using the output of clustering as labels in order to predict student future performance using classification (CNN). | 94.59%, 94.29% and 93.29% accuracy with the random hold-out split of 80-20 for the 3 data-sets A,B,C belonging to different courses. 91.22%, 95.92% and 93.90% when using 5-fold cross validation. | - | - |
+</details>
 
 ## 📚Chapter: 1  - **Thesis/Publication**
  
