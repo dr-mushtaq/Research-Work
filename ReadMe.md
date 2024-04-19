@@ -231,7 +231,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 abc - 📚 Research Work </h2> </summary>
+<summary> <h2>🔎 Hajra Khaliq- 📚 Research Work </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
