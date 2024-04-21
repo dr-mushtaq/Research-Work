@@ -183,14 +183,16 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
-
-   - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
-   -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
-   -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
-   -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
+ 
+|Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+ -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
+   -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
+   -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
+   -  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
+   -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
+   -  [**Getting Started with GitHub Pages**](https://www.youtube.com/watch?v=QyFcl_Fba-k&list=PL4cUxeGkcC9jjuXmnTyPSMo5NZ8dANHSW)
 
 </details>
-
 <details> 
 <summary> <h2>🔎Thesis-Nabila Anum</h2> </summary>
   
