@@ -127,7 +127,6 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
-
    -  [**Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers**](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
    -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
    -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
@@ -154,7 +153,6 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-
 <summary> <h2>🔎Thesis- Ahsan Saleem</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
@@ -201,20 +199,17 @@ Star this repo if you find it useful ⭐
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
 
 ## 📚Chapter: 1  - **Thesis/Publication**
- 
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
 ## 📚Chapter: 3  - **Apps Details**
- 
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
- 
 |Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
  -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
    -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
@@ -229,7 +224,6 @@ Star this repo if you find it useful ⭐
 <summary> <h2>🔎Thesis- Hajra Khaliq </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
- 
 |Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
 |---|---|---|---|---|---|
 |[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
@@ -239,28 +233,25 @@ Star this repo if you find it useful ⭐
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
 
 ## 📚Chapter: 1  - **Thesis/Publication**
- 
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
 ## 📚Chapter: 3  - **Apps Details**
- 
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Important Links**
- 
 |Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 </details>
 
-<summary> <h2>🔎Thesis- Hajra Khaliq </h2> </summary>
-  
+<details> 
+<summary> <h2>🔎Thesis- Hajra Khaliq </h2> </summary> 
 ## 📚Chapter: 1  - **Literature Review**
  
 |Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
