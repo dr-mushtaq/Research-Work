@@ -167,6 +167,13 @@ Star this repo if you find it useful ⭐
 | Combining supervised and unsupervised machine learning algorithms to predict the learners’ learning styles | Second International Conference on Intelligent Computing in Data Sciences (ICDS 2018) | To predict the learning style of the students | Accuracy = 0.89 | - | - |
 | Integration of learning analytics into learner management system using machine learning | 2nd International Conference on Modern Educational Technology 2020 | To integrate Learning Analytics using Machine Learning into LMS | LG = 61% KNN = 60% DT = 63% | - | - |
 | Analysis and Prediction of Students’ Academic Performance Based on Educational Data Mining | IEEE Access 2022 | To combine analysis and prediction domains of EDM and analyze student performance using Clustering(KNN) and then using the output of clustering as labels in order to predict student future performance using classification (CNN). | 94.59%, 94.29% and 93.29% accuracy with the random hold-out split of 80-20 for the 3 data-sets A,B,C belonging to different courses. 91.22%, 95.92% and 93.90% when using 5-fold cross validation. | - | - |
+
+## 📚Chapter: 1  - **Thesis/Publication**
+|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
+|---|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+|[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
 </details>
 
 <details> 
