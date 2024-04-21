@@ -169,30 +169,6 @@ Star this repo if you find it useful ⭐
 | Analysis and Prediction of Students’ Academic Performance Based on Educational Data Mining | IEEE Access 2022 | To combine analysis and prediction domains of EDM and analyze student performance using Clustering(KNN) and then using the output of clustering as labels in order to predict student future performance using classification (CNN). | 94.59%, 94.29% and 93.29% accuracy with the random hold-out split of 80-20 for the 3 data-sets A,B,C belonging to different courses. 91.22%, 95.92% and 93.90% when using 5-fold cross validation. | - | - |
 </details>
 
-## 📚Chapter: 1  - **Thesis/Publication**
- 
-|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
-|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-
-## 📚Chapter: 3  - **Apps Details**
- 
-|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
-|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
-
-## 📚Chapter: 3  - **Resources**
- 
-|Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
- -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
-   -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
-   -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
-   -  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
-   -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
-   -  [**Getting Started with GitHub Pages**](https://www.youtube.com/watch?v=QyFcl_Fba-k&list=PL4cUxeGkcC9jjuXmnTyPSMo5NZ8dANHSW)
-
-</details>
 <details> 
 <summary> <h2>🔎Thesis-Nabila Anum</h2> </summary>
   
