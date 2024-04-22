@@ -40,7 +40,7 @@ Star this repo if you find it useful ⭐
 
                       https://coursesteach.com/
 <details> 
-<summary> <h2>🔎Resources - 📚Important Research Softwares, Websites, Article </h2> </summary>
+<summary> <h2>📚Important Research Softwares, Websites, Article </h2> </summary>
 
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
