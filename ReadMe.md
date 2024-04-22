@@ -65,7 +65,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎Research Papers - 📚Published Works </h2> </summary>
+<summary> <h2>📚Published Works </h2> </summary>
   
 | Paper | Code | Dataset |
 |---|---|---|
