@@ -51,6 +51,19 @@ Star this repo if you find it useful ⭐
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
 </details>
 
+<details> 
+<summary> <h2>🔎Find Right Journal</h2> </summary>
+  
+## 📚Chapter: 1  - **Literature Review**
+ 
+|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|To do List|
+|---|---|---|---|---|---|---|
+|[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
+|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
+|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
+|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
+|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
+
 
 <details> 
 <summary> <h2>🔎Research Papers - 📚Published Works </h2> </summary>
