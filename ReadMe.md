@@ -54,7 +54,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>🔎Find Right Journal</h2> </summary>
  
-|Journal Name| Subject\Area| Isssue No| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
+|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
 |---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
 |[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
