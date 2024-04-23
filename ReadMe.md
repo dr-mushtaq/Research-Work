@@ -257,10 +257,7 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
-   -  [**Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers**](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
-   -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
-   -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
-   - [**Top AI Agents**](https://github.com/SamurAIGPT/Best-AI-Agents)
+   -  [**https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/German%20Traffic%20Sign%20Classification**](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/German%20Traffic%20Sign%20Classification)
 </details>
 
 <details> 
