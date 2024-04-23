@@ -354,7 +354,7 @@ Star this repo if you find it useful ⭐
 
   ## 💻 Virtual University Thesis Workflow:
 
-- 1- Internal Department synopsis Presention, Required Documents( Presention PPT)
+- 1- Internal Department synopsis Presention, Required Documents( [Presention PPT](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20Presentation%20V%203.0%20.pptx))
 
 - 2- Synopsis Presention For GRC, Required Documents(PPT,[Synopsis File](https://github.com/hussain0048/Research-Work/blob/main/Tempate%20for%20Synopsis.docx),[AnnexB](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx),[AnnexA](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx),Turnitin Report(15% is acceptable and individuals source less than 2%)).
 - 3- Sent [Thesis](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) for Rreviewer , Required Documents(final thesis,Plagiarism report (15% is acceptable and individuals source less than 2%), Ssynopsis notification, suggested as external examiners)
