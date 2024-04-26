@@ -55,7 +55,7 @@ Star this repo if you find it useful ⭐
 <summary> <h2>🔎Find Right Journal</h2> </summary>
  
 |Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
 |**🌐1- Expert Systems with Applications** | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W |--- |--- |--- | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
 
