@@ -3,7 +3,6 @@
 <p align="center">
 <img src="https://github.com/hussain0048/Research-Work/blob/main/Research%20Work%20(1).png"></a>
 </p>
-dfsd
 Welcome to the A-Z Guide to Research Work repository! This comprehensive supplement serves as your ultimate resource for navigating the world of research, offering a comprehensive guide to understanding and implementing research papers using Python.
 
 ## **Overview👋🛒**
@@ -41,7 +40,7 @@ Star this repo if you find it useful ⭐
 
                       https://coursesteach.com/
 <details> 
-<summary> <h2>🔎Resources - 📚Important Research Softwares, Websites, Article </h2> </summary>
+<summary> <h2>📚Important Research Softwares, Websites, Article </h2> </summary>
 
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
@@ -52,9 +51,21 @@ Star this repo if you find it useful ⭐
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
 </details>
 
+<details> 
+<summary> <h2>🔎Find Right Journal</h2> </summary>
+ 
+|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
+|---|---|---|---|---|---|---|---|---|---|
+|[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
+|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
+|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
+|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
+|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
+</details>
+
 
 <details> 
-<summary> <h2>🔎Research Papers - 📚Published Works </h2> </summary>
+<summary> <h2>📚Published Works </h2> </summary>
   
 | Paper | Code | Dataset |
 |---|---|---|
@@ -72,11 +83,11 @@ Star this repo if you find it useful ⭐
  
 |Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|To do List|
 |---|---|---|---|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+|[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
+|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
+|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
+|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
+|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
 
 ## 📚Chapter: 1  - **Thesis/Publication**
  
@@ -108,11 +119,19 @@ Star this repo if you find it useful ⭐
  
 |Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
 |---|---|---|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+|**🌐1- The development of a chatbot using Convolutional Neural Networks**| 2022 |1.How do different CNN architectures impact chatbot performance?|1.Accuracy      2.Training Speed|Did author compared  CNN chatbot to simpler models or rule-based systems? How well does it handle complex or open ended questions?| |
+|**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
+|**🌐3- Personified Robotic Chatbot Based On Compositional Dialogues** | 2022 |Research likely doesn't focus on specific questions but rather explores how compositional dialogues (where conversations are built from smaller elements) can be used to create a personified robotic chatbot.|N/A|1. How effectively can the level of personality be measured in these chatbots?          2.Is user perception the only metric, or can objective measures be developed?| |
+| **🌐4- Boosting the Accuracy of Optimization Chatbot by Random Forest with Halving Grid Search Hyperparameter Tuning**| 2023 |1.Can hyperparameter tuning with a Halving Grid Search method improve the accuracy of an optimization chatbot built using a Random Forest algorithm?|1.Accuracy    2.Precision    3.Recall  |The paper proposes three chatbot models: 1.One without hyperparameter tuning 2.One with hyperparameter tuning using Halving Grid Search 3.One with hyperparameter tuning and the best performing settings| |   
+|**🌐5- Developing a Chatbot using Machine Learning**| 2019|1.Can machine learning algorithms improve the ability of a chatbot to understand natural language queries?  2. How does the choice of machine learning model (e.g., recurrent neural networks, decision trees) impact the performance of a chatbot?|1. BLEU Score (BiLingual Evaluation Understudy)  2.Turing Test|This paper does not Investigate the impact of different visual design elements on user attention and engagement with the chatbot.| |
+|**🌐6- Designing a Chatbot for Contemporary Education: A Systematic Literature Review**| 2023|What are the steps for designing an educational chatbot for contemporary education?|N/A|It focuses on the development of chatbots for education, not the impact on learners or educators.| |
+|**🌐7- Research on the Design of Intelligent Chatbot Based on Deep Learning** | 2021 |It  is likely centered around improving the response generation of chatbots built with deep learning techniques.|N/A|Research gaps could exist in areas like sentiment analysis and generation of emotionally responsive dialogue.|Paper proposes an improved two-way GRU + Attention model based on the idea of mutual information, and examines the quality of the model from the final response effect. |
+|**🌐8- Question Answering Model Based Conversational Chatbot using BERT Model and Google Dialogflow** | 2021 |N/A|N/A|The focus might be on question answering. Future research could explore integrating functionalities like sentiment analysis to tailor responses to user emotions or incorporating functionalities for completing tasks beyond just answering questions.|The focus of the paper seems to be on building and demonstrating the feasibility of a question-answering chatbot using BERT and Dialogflow. It describes the architecture and functionalities of the chatbot|
+|**🌐9- Chatbot : A Question Answering System for Student** | 2021|It suggests the research question that  revolves around developing a chatbot system that effectively functions as a question answering system for students.|N/A|N/A|Paper discusses the design and development of such a chatbot, including the challenges of creating a system that can understand and answer student queries effectively.|
+|**🌐10-QAM: Question Answering System Based on Knowledge Graph in the Military** | 2020|How can a knowledge graph-based Question Answering System (QAM) be effectively designed to be used in the military domain?|N/A|Slice of words not included in the JIEBA will be divide, which cause that the following steps can’t accuracy judged. And some unclear words often led to the system failed to judge the right answer and return a wrong answer to the user.|Research used the tool of NEO4J to build the military KG as well python to construct QA system|
+
+
+
 
 ## 📚Chapter: 1  - **Thesis/Publication**
  
@@ -128,7 +147,14 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
-   - [**Learn to Train and Deploy a Real-Time Financial Advisor**](https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file)
+   - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
+   - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
+   - [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=puboslic_pt-text)
+   -  [**Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers**](https://github.com/Bharath-K3/Innovative-Chatbot-using-1-Dimensional-Convolutional-Layers)
+   -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
+   -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
+   - [**Top AI Agents**](https://github.com/SamurAIGPT/Best-AI-Agents)
+   - [**Learn to Train and Deploy a Real-Time Financial Advisor**](https://github.com/iusztinpaul/hands-on-llms?tab=readme-ov-file) 
    -  [**Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**](https://arxiv.org/abs/2310.11511?fbclid=IwAR1to5thaF8Of2zfNI6O5NeYj8yy7O7QPMzWfvvdMY2x11Hwf85gEgZ2wX8_aem_AVeTQAylHY0xJANFFpZqJBNS0yVMNX2EbYd3Yjvi1rN4o5dqcOX-VNthfqh7Ukv89EFfri29Eibfqa4vCwVY7fMi)
    -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
    -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
@@ -144,7 +170,6 @@ Star this repo if you find it useful ⭐
    -  [**Running Flask App On Colab With Ngrok| [ Latest Way ]**](https://www.youtube.com/watch?v=bHtxDiIl0wg)
    -  [**Deploy Streamlit app on Google Colaboratory as public app | Ngrok | Python**](https://www.youtube.com/watch?v=Y-lUz7npEGo)
    -  [**Building a Simple Chatbot with Python and Transformers**](https://jasminbharadiya.medium.com/building-a-simple-chatbot-with-python-and-transformers-875aec2f05d8)
-   -  [**Running Flask App On Colab With Ngrok| [ Latest Way ]**](https://www.youtube.com/watch?v=bHtxDiIl0wg)
    
 
 </details>
@@ -155,29 +180,27 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
-|---|---|---|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+| Title/Journal Name | Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |
+| --- | --- | --- | --- | --- | --- |
+| Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
+| Development of Early Warning Systems to monitor e-learning progress | IOP Conference Series: Materials Science and Engineering 2021 | To predict whether students enrolled in a class will pass or fail and develop an early warning system to warn students and teachers about the possibility of students failing a course/class and suggest appropriate actions. | 95% Accuracy 4.9% Error | - | - |
+| Dropout early warning systems for high school students using machine learning | Children and Youth Services Review 2019 | To predict students at risk of dropping out using a Random forest classifier. | Accuracy=0.95 Sensitivity=0.85 Specificity=0.95 AUC of ROC = 0.97 | - | - |
+| Combining supervised and unsupervised machine learning algorithms to predict the learners’ learning styles | Second International Conference on Intelligent Computing in Data Sciences (ICDS 2018) | To predict the learning style of the students | Accuracy = 0.89 | - | - |
+| Integration of learning analytics into learner management system using machine learning | 2nd International Conference on Modern Educational Technology 2020 | To integrate Learning Analytics using Machine Learning into LMS | LG = 61% KNN = 60% DT = 63% | - | - |
+| Analysis and Prediction of Students’ Academic Performance Based on Educational Data Mining | IEEE Access 2022 | To combine analysis and prediction domains of EDM and analyze student performance using Clustering(KNN) and then using the output of clustering as labels in order to predict student future performance using classification (CNN). | 94.59%, 94.29% and 93.29% accuracy with the random hold-out split of 80-20 for the 3 data-sets A,B,C belonging to different courses. 91.22%, 95.92% and 93.90% when using 5-fold cross validation. | - | - |
 
 ## 📚Chapter: 1  - **Thesis/Publication**
- 
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
 ## 📚Chapter: 3  - **Apps Details**
- 
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
-## 📚Chapter: 3  - **Resources**
-
+## 📚Chapter: 3  - **🔎Resources**
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
@@ -199,20 +222,17 @@ Star this repo if you find it useful ⭐
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
 
 ## 📚Chapter: 1  - **Thesis/Publication**
- 
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
 ## 📚Chapter: 3  - **Apps Details**
- 
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 ## 📚Chapter: 3  - **Resources**
- 
 |Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
  -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
    -  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat?ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
@@ -224,10 +244,40 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎 M Shujaat(MS21040061) - 📚 Research Work </h2> </summary>
+<summary> <h2>🔎Thesis- Hajra Khaliq </h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
- 
+|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
+|---|---|---|---|---|---|
+|[**🌐1-Adaptive traffic signal control for real-world scenarios in agent based transport simulations**](https://doi.org/10.1016/j.trpro.2018.12.215) | 2019 | N/A |
+|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
+|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
+|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+
+## 📚Chapter: 1  - **Thesis/Publication**
+|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
+|---|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+|[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
+## 📚Chapter: 3  - **Apps Details**
+|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+
+## 📚Chapter: 3  - **Resources**
+   -  [**German Traffic Sign Classification**](https://github.com/prathimacode-hub/ML-ProjectKart/tree/main/German%20Traffic%20Sign%20Classification)
+   -  [**3XFake AI Technology: AI, ML, ANNs, Generative AI, LLMs, GPT-5, AGI**](https://www.linkedin.com/pulse/3xfake-technology-ai-anns-generative-llms-gpt-5-agi-azamat-abdoullaev-pbq6f/?fbclid=IwAR1ey2lh8VwC-uh7DTpyqLN3b6mApJF94udSbRq0IPT9KdsXmyFuZNzEqXs_aem_AahJbqC_2_s8m_QppuzUw6CJgneZCNRhHkJBv99BKHgpLOR9m3Prt698gqtUQ24zghC_D6jVcCnk8dTm3jOA3lro)
+   -  [**Spam Detection using Machine Learning Methods**](https://medium.com/@Coursesteach/spam-detection-using-machine-learning-methods-dd5dbc799b6b)
+   - [**Top AI Agents**](https://github.com/SamurAIGPT/Best-AI-Agents)
+</details>
+
+<details> 
+<summary> <h2>🔎Thesis- Afzaal Javaid</h2> </summary> 
+
+  ## 📚Chapter: 1  - **Literature Review**
+
 |Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
 |---|---|---|---|---|---|
 |[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
@@ -315,10 +365,11 @@ Star this repo if you find it useful ⭐
 
   ## 💻 Virtual University Thesis Workflow:
 
-- 1- Internal Department synopsis Presention, Required Documents( Presention PPT)
+- 1- Internal Department synopsis Presention, Required Documents( [Presention PPT](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20Presentation%20V%203.0%20.pptx))
 
-- 2- Synopsis Presention For GRC, Required Documents(PPT,Synopsis File,[AnnexB](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx),[AnnexA](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx),Turnitin Report(15% is acceptable and individuals source less than 2%)).
+- 2- Synopsis Presention For GRC, Required Documents(PPT,[Synopsis File](https://github.com/hussain0048/Research-Work/blob/main/Tempate%20for%20Synopsis.docx),[AnnexB](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx),[AnnexA](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx),Turnitin Report(15% is acceptable and individuals source less than 2%)).
 - 3- Sent [Thesis](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) for Rreviewer , Required Documents(final thesis,Plagiarism report (15% is acceptable and individuals source less than 2%), Ssynopsis notification, suggested as external examiners)
+- 4-🎓 Final thesis defense
 
 >
 
