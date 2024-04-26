@@ -54,9 +54,10 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>🔎Find Right Journal</h2> </summary>
  
-|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
+|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| Paper |
 |---|---|---|---|---|---|---|---|---|---|---|
-|**🌐1- Expert Systems with Applications** | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W |--- |--- |--- | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
+|**🌐1- Expert Systems with Applications** | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
+|**🌐2- IEEE Transactions on Cybernetics** | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
 
 </details>
 
