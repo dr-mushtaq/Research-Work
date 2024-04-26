@@ -56,8 +56,8 @@ Star this repo if you find it useful ⭐
  
 |Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| Paper |
 |---|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Expert Systems with Applications**]([https://ieeexplore.ieee.org/abstract/document/9737563/](https://www.sciencedirect.com/journal/expert-systems-with-applications)) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
-|[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+|[**🌐1- Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
+|[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
 
 </details>
 
