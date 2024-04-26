@@ -57,6 +57,7 @@ Star this repo if you find it useful ⭐
 |Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| 
 |---|---|---|---|---|---|---|---|---|---|---|
 |**🌐1- Expert Systems with Applications** | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W |--- |--- |--- | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
+
 </details>
 
 
