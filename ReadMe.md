@@ -1,4 +1,4 @@
-
+![image](https://github.com/hussain0048/Research-Work/assets/159237202/e3a7fb20-bf95-43a4-85db-00e52ab624f1)![image](https://github.com/hussain0048/Research-Work/assets/159237202/3deefc89-dcf7-4616-8e80-adb814dd9f0d)![image](https://github.com/hussain0048/Research-Work/assets/159237202/277592c2-3061-48b7-a584-28be95d61124)
 ## **A-Z Guide to Research Work 👋🛒**
 <p align="center">
 <img src="https://github.com/hussain0048/Research-Work/blob/main/Research%20Work%20(1).png"></a>
@@ -56,8 +56,12 @@ Star this repo if you find it useful ⭐
  
 |Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| Paper |
 |---|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
-|[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+|[**🌐1- Turkish Journal of Civil Engineering**](https://dergipark.org.tr/en/pub/tjce) | Civil Engineering  | 2822-6836 | Turkey | six times a year | 3.95  | Engineering, Civil - SCIE | Teknik Dergi| yes| Acceptance rate (0% in 2022)  | Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules |
+|[**🌐2- European Chemical Bulletin**](https://www.eurchembull.com/) | Chemistry (miscellaneous)  | 2063-5346 | Hungary | 12 times a year | 3.7 | NA | Deuton-X Ltd | yes | NA| A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV |
+|[**🌐3-  IEEE Open Journal of Intelligent Transportation Systems**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8784355) | Computer Science Applications  | 26877813 | United States | 1 | 2.6 | NA | Institute of Electrical and Electronics Engineers Inc. | yes | 68%| Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods |
+|[**🌐4-  Journal of Physics: Conference Series**](https://iopscience.iop.org/journal/1742-6596) | Physics and Astronomy (miscellaneous)  | 17426588, 17426596 | United Kingdom | NA | 0.3 | NA | IOP Publishing Ltd. | yes | 85.70%| A Framework for Analyzing Road Accidents Using Machine Learning Paradigms |
+|[**🌐5-  Traffic & Transportation**](https://trafficandtransportation.fpz.hr/) | Traffic & Transportation  | 1848-4069 | Croatia | 1 | 1 | NA | University of Zagreb | yes | NA| PREDICTION OF FATAL AND MAJOR INJURIES OF DRIVERS, CYCLISTS, AND PEDESTRIANS IN COLLISIONS |
+|[**🌐6-  Journal of advanced transportation**](https://www.hindawi.com/journals/jat/) | Computer Science Applications  | 01976729, 20423195 | Egypt | 481 articles annually | 2.3 | NA | Hindawi Limited | yes | 22%| An Alternative Method for Traffic Accident Severity Prediction: Using Deep Forests Algorithm |
 
 </details>
 
