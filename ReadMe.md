@@ -339,7 +339,7 @@ Star this repo if you find it useful ⭐
 
 </details>
 
-## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys):
+## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys)[-2](https://drive.google.com/file/d/1S3sV7Z0lXIJxjlCb_zeh8cpvC2qVMx5M/view?usp=sharing):
 
 - Fork the repository
 
