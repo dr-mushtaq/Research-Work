@@ -58,6 +58,12 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
 |[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+|[**🌐3- Turkish Journal of Civil Engineering**](https://dergipark.org.tr/en/pub/tjce) | Civil Engineering  | 2822-6836 | Turkey | six times a year | 3.95 | SCIE,W | Teknik Dergi | Yes| 0% in 2022| Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules |
+|[**🌐4- Traffic & Transportation**](https://trafficandtransportation.fpz.hr/trafficandtransportation/home) | Traffic & Transportation  | 1848-4069 | Croatia | 1 | 1 | SCIE,W | University of Zagreb |Yes | NA| PREDICTION OF FATAL AND MAJOR INJURIES OF DRIVERS, CYCLISTS, AND PEDESTRIANS IN COLLISIONS |
+|[**🌐5- Journal of advanced transportation**](https://www.hindawi.com/journals/jat/) | Computer Science Applications  | 01976729, 20423195 | Egypt | 481 articles | 2.3 | SCIE,W | Hindawi Limited| Yes| 22%| An Alternative Method for Traffic Accident Severity Prediction: Using Deep Forests Algorithm |
+|[**🌐6- NEURAL NETWORK WORLD**](https://ojs.nnw.cz/) | Computer Science (AI)  | 1210-0552 / 2336-4335 | Czech Republic | 6 issues per annum | 0.8 | SCIE,W | Czech Technical University in Prague| Yes| NA| Modelling smart road traffic congestion control system using machine learning techniques |
+|[**🌐7- FUNDAMENTA INFORMATICAE**](https://fi.episciences.org/) | Computer Science (Information Systems)  | 0169-2968 / 1875-8681 | Netherlands  | 5 per annum | 1.33 | SCIE,W |IOS Press BV | Yes | NA | Machine learning for traffic prediction |
+|[**🌐8- Applied Sciences **](https://www.mdpi.com/journal/applsci) | Computer Science Applications  | 2076-3417 | Switzerland | 24 per annum | 2.7 | SCIE,W | Multidisciplinary Digital Publishing Institute (MDPI) |yes |28% | Comparative study of machine learning classifiers for modelling road traffic accidents |
 
 </details>
 
