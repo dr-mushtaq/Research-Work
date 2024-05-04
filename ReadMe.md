@@ -50,14 +50,50 @@ Star this repo if you find it useful ⭐
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
 </details>
-
 <details> 
-<summary> <h2>🔎Find Right Journal</h2> </summary>
+<summary style="font-size: 14px; color: #333;"><h2 style="font-size: 14px; color: #333;">🔎Find Right Journal</h2></summary>
  
-| Journal Name | Subject/Area | ISSN # | Country | Frequency | Impact Factor | Category | Publisher | Open Access | Accptance/Rejection Rate | Paper |
-|--------------|--------------|--------|---------|-----------|---------------|----------|-----------|-------------|--------------------------|-------|
-| **🌐1- Expert Systems with Applications** | Computer Science, Engineering | 0957-4174 | United Kingdom | 8 Months | 8.5 | SCIE,W | | | | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
-| **🌐2- IEEE Transactions on Cybernetics** | Computer Science, Engineering | 2168-2275, 2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+<table style="font-size: 12px; color: #666;">
+  <tr>
+    <th>Journal Name</th>
+    <th>Subject/Area</th>
+    <th>ISSN #</th>
+    <th>Country</th>
+    <th>Frequency</th>
+    <th>Impact Factor</th>
+    <th>Category</th>
+    <th>Publisher</th>
+    <th>Open Access</th>
+    <th>Accptance/Rejection Rate</th>
+    <th>Paper</th>
+  </tr>
+  <tr>
+    <td><strong>🌐1- Expert Systems with Applications</strong></td>
+    <td>Computer Science, Engineering</td>
+    <td>0957-4174</td>
+    <td>United Kingdom</td>
+    <td>8 Months</td>
+    <td>8.5</td>
+    <td>SCIE,W</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Enhanced deep learning algorithm development to detect pain intensity from facial expression images</td>
+  </tr>
+  <tr>
+    <td><strong>🌐2- IEEE Transactions on Cybernetics</strong></td>
+    <td>Computer Science, Engineering</td>
+    <td>2168-2275, 2168-2267</td>
+    <td>United States</td>
+    <td>NA</td>
+    <td>11.8</td>
+    <td>SCIE,W</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification</td>
+  </tr>
+</table>
 
 </details>
 
