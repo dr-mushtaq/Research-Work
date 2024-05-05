@@ -129,8 +129,6 @@ Star this repo if you find it useful ⭐
 |**🌐10-QAM: Question Answering System Based on Knowledge Graph in the Military** | 2020|How can a knowledge graph-based Question Answering System (QAM) be effectively designed to be used in the military domain?|N/A|Slice of words not included in the JIEBA will be divide, which cause that the following steps can’t accuracy judged. And some unclear words often led to the system failed to judge the right answer and return a wrong answer to the user.|Research used the tool of NEO4J to build the military KG as well python to construct QA system|
 
 
-
-
 ## 📚Chapter: 1  - **Thesis/Publication**
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
@@ -232,7 +230,7 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 3  - **Resources**
 -  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
--  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github)**](https://github.com/pathway-labs/realtime-indexer-qa-chat ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
+-  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github**](https://github.com/pathway-labs/realtime-indexer-qa-chat ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
 -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
 -  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
 -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
