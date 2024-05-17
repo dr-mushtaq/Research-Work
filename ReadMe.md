@@ -270,24 +270,27 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis- Afzaal Javaid</h2> </summary> 
+<summary> <h2>🔎Thesis - Afzaal Javaid</h2> </summary>
 
-  ## 📚Chapter: 1  - **Literature Review**
+## 📚Chapter: 1  - **Literature Review**
 
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
-|---|---|---|---|---|---|
-|[**🌐1- Why we used AI**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- What is machine learning?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
-|[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-|[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
-|[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+| Title | Citation | Objective | Strengths | Weaknesses | ML Techniques | Performance |
+|---|---|---|---|---|---|---|
+| [**🌐 1. Phishing website detection based on effective machine learning approach**](https://www.tandfonline.com/doi/full/10.1080/23742917.2020.1813396) | Harianalli Lokesh, G., & BoreGowda, G. (2021). Phishing website detection based on effective machine learning approach. Journal of Cyber Security Technology, 5(1), 1-14. | Developing a model that predicts whether the website is a phishing site or a legitimate website. | Effective at detecting phishing with a focus on user training and software detection. Random Forest gives the highest accuracy of 96.87%. | Low importance features are also used in the model training. Confusion Matrix not provided. Just Accuracy Taken into consideration, no precision and recall etc. | One Class SVM, Linear SVC, K-Nearest Neighbor, Decision Tree Classifier, Random Forest | One Class SVM - 48.56% Accuracy, Linear SVC - 92.69%, K-Nearest Neighbor - 93.53%, Decision Tree Classifier - 96.05%, Random Forest - 96.87% |
+| [**🌐 2. Phishing web site detection using diverse machine learning algorithms**](https://www.researchgate.net/profile/Hikmat-Khan-2/publication/338504707_Phishing_web_site_detection_using_diverse_machine_learning_algorithms/links/60b8becf299bf10dff8e76c6/Phishing-web-site-detection-using-diverse-machine-learning-algorithms.pdf) | Zamir, A., Khan, H. U., Iqbal, T., Yousef, N., Aslam, F., Aujam, A., & Hanaadi, M. (2020). Phishing web site detection using diverse machine learning algorithms. The Electronic Library, 38(1), 65-80. | Using Neural Networks to predict whether a website is phishing or not. | Receives 97.4% Accuracy. It removes least important features by Recursive Feature Elimination technique. | This is using just 1055 rows of dataset that is less. This is taking 105.32 seconds to predict the website. | NB, KNN, SVM, RF, Bagging, NN | Naive Bayes - 72.67%, KNN - 94.2%, SVM - 93.1%, RF - 96.9%, Bagging - 95.1%, NN - 95.8% |
+| [**🌐 3. Phishing Detection Using Machine Learning Techniques**](https://ieeexplore.ieee.org/document/9283771) | Shahrivari, V., Darabi, M. M., & Izadi, M. (2020). Phishing detection using machine learning techniques. arXiv preprint arXiv:2009.11116. | Building a best model using 12 ML models and selecting the best prediction model | High accuracy, detailed comparison across multiple ML techniques, considers recall, precision, and F-measure | Requires a large dataset, computationally intensive, feature selection is crucial | Logistic Regression, Decision Tree, Random Forest, AdaBoost, KNN, Neural Network, SVM, Gradient Boosting, XGBoost | Logistic Regression - 92.65%, Decision Tree - 96.60%, Random Forest - 97.26%, AdaBoost - 93.69%, KNN - 95.81%, Neural Network - 96.87%, SVM - 92.77%, Gradient Boosting - 94.86%, XGBoost - 98.23% |
+| [**🌐 4. Phishing URL detection using machine learning methods**](https://link.springer.com/article/10.1007/s11042-023-14731-4) | Jha, A. K., Muthalagu, R., & Pawar, P. M. (2023). Intelligent phishing website detection using machine learning. Multimedia Tools and Applications, 1-26. | Building a strong prediction model using ML for detecting phishing and legitimate sites | Achieves high accuracy with LightGBM, effectively uses a limited feature set, quick prediction times | Used only 15 features, which may miss some important indicators | LightGBM, Random Forest, Decision Tree, Logistic Regression, SVM | LightGBM - 86%, Random Forest - 85.3%, Decision Tree - 85%, Logistic Regression - 84.2%, SVM - 83.5% |
+| [**🌐 5. Intelligent phishing detection scheme using deep learning algorithms**](https://www.emerald.com/insight/content/doi/10.1108/JEIM-01-2020-0036/full/html/1000) | Adebowale, M. A., Lwin, K. T., & Hossain, M. A. (2023). Intelligent phishing detection scheme using deep learning algorithms. Journal of Enterprise Information Management, 36(3), 747-766. | Developing a real-time tool for detecting phishing websites | High true positive rate, handles large-scale datasets effectively, robust performance | Logistic regression may struggle with overfitting, linear assumptions, and scalability issues | ANN, Random Forest, SVM, Logistic Regression, MultinomialNB | ANN - 87.34%, Random Forest - 89.63%, SVM - 89.84%, Logistic Regression - 96.37%, MultinomialNB - 95.75% |
+| [**🌐 6. Intelligent phishing detection scheme using deep learning algorithms**](https://aru.figshare.com/articles/journal_contribution/Intelligent_Phishing_Detection_Scheme_Using_Deep_Learning_Algorithms/23764638/1/files/42200364.pdf) | Ahammad, S. H., Kale, S. D., Upadhye, G. D., Pande, S. D., Babu, E. V., Dhumane, A. V., & Bahadur, M. D. K. J. (2022). Phishing URL detection using machine learning methods. Advances in Engineering Software, 173, 103288. | Developed a deep learning-based phishing detection system combining CNN and LSTM algorithms with 25s detection time | Receive 93.28% accuracy. Recall,precision and Fmeasure take into consideration. | This is taking 50 seconds to predict the webiste. Time-consuming for image processing methods. The model requires a significant amount of data for training and may be computationally expensive. | CNN,LSTM,IPDS | CNN - 92.55, LSTM - 92.79, IPDS - 93.28 |
 
-## 📚Chapter: 1  - **Thesis/Publication**
+  
+## 📚Chapter: 2  - **Thesis/Publication**
  
-|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
-|---|---|---|---|---|---|---|---|---|
+|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
+|---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
 
 ## 📚Chapter: 3  - **Apps Details**
  
@@ -295,11 +298,17 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
-## 📚Chapter: 3  - **Important Links**
- 
-|Title| Public URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
-|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+
+## 📚Chapter: 4  - **🔎Resources**
+
+   - [**1. What is a Phishing Website Detection - Overview**](https://www.sciencedirect.com/topics/computer-science/phishing-detection#:~:text=It%20is%20a%20phishing%20detection,easily%20impersonating%20legitimate%20online%20entities.)
+   -  [**2. Phishing URL Detection with ML**](https://towardsdatascience.com/phishing-domain-detection-with-ml-5be9c99293e5)
+   -  [**3. Phishing Website Detection by Machine Learning Techniques Implementation Guide**](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques)
+   -  [**4. Phishing URL Detection with ML Dataset Exploration**](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset)
+   -  [**5. PhiUSIIL Phishing URL (Website)**](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
+   -  [**6. Phishtank Phishing webiste URL's dataset exploration**](https://phishtank.org/)
+   -  [**7. Datasets for phishing websites detection**](https://www.sciencedirect.com/science/article/pii/S2352340920313202)
+   -  [**8. Phishing Dataset by Canadian Institute for Cybersecurity**](https://www.unb.ca/cic/datasets/url-2016.html)
 
 </details>
 
