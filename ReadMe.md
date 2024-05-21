@@ -348,11 +348,11 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Citation SYle</h2> </summary>
+<summary> <h2>🔎Citation style</h2> </summary>
   
-## 📚Chapter: 1  - **Literature Review**
+## 📚**Citation style**
  
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
+|Style Name| Journal Articles(Reference)| Books(reference)| website (reference)|Journal Articles(Citation)|Books(cite)|
 |---|---|---|---|---|---|
 |**🌐1- The development of a chatbot using Convolutional Neural Networks**| 2022 |1.How do different CNN architectures impact chatbot performance?|1.Accuracy      2.Training Speed|Did author compared  CNN chatbot to simpler models or rule-based systems? How well does it handle complex or open ended questions?| |
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
