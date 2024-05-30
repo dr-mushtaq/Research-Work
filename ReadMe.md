@@ -80,8 +80,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal Category| Research Gap|
-|---|---|---|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal Category| 
+|---|---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
 |[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
 |[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
