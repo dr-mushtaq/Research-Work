@@ -80,8 +80,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| 
-|---|---|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| Limitations|Future Directions|
+|---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
 |[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
 |[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
@@ -116,8 +116,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|
-|---|---|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations|Future Directions| 
+|---|---|---|---|---|---|---|---|---|---|
 |**🌐1- The development of a chatbot using Convolutional Neural Networks**| 2022 |1.How do different CNN architectures impact chatbot performance?|1.Accuracy      2.Training Speed|Did author compared  CNN chatbot to simpler models or rule-based systems? How well does it handle complex or open ended questions?| |
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 |**🌐3- Personified Robotic Chatbot Based On Compositional Dialogues** | 2022 |Research likely doesn't focus on specific questions but rather explores how compositional dialogues (where conversations are built from smaller elements) can be used to create a personified robotic chatbot.|N/A|1. How effectively can the level of personality be measured in these chatbots?          2.Is user perception the only metric, or can objective measures be developed?| |
@@ -177,8 +177,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-| Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|
-| --- | --- | --- | --- | --- | --- |---|---|
+| Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|Limitations |Future Directions|
+| --- | --- | --- | --- | --- | --- |---|---|---|---|
 | Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
 | Development of Early Warning Systems to monitor e-learning progress | IOP Conference Series: Materials Science and Engineering 2021 | To predict whether students enrolled in a class will pass or fail and develop an early warning system to warn students and teachers about the possibility of students failing a course/class and suggest appropriate actions. | 95% Accuracy 4.9% Error | - | - |
 | Dropout early warning systems for high school students using machine learning | Children and Youth Services Review 2019 | To predict students at risk of dropping out using a Random forest classifier. | Accuracy=0.95 Sensitivity=0.85 Specificity=0.95 AUC of ROC = 0.97 | - | - |
@@ -210,8 +210,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal Category|
-|---|---|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal Category|Limitations|Future Directions| 
+|---|---|---|---|---|---|---|---|---|---|
 |[**1-Automatic Summarization of Russian Texts:Comparison of Extractive and Abstractive Methods/Computational Linguistics and Intellectual Technologies: Proceedings of the International Conference “Dialogue 2022”**| June 15–18, 2022 | the methods under investigation have been ranked based on the ROUGE-N, ROUGE-L, BLEU, METEOR and BERTScore quality metrics and the salient features of summaries obtained by different methods have been revealed. |  Gazeta=   mBART= 31.55 13.54 28.22 ruT5-base =30.45 12.63 27.41, MLSUM=mBART 11.48 1.95 10.26 ,ruT5-base 12.35 1.86 11.22, XLSUM=mBART 26.47 10.95 22.67 ,ruT5-base 26.52 10.67 22.79|for the first time, there has been carried a simultaneous comparison of extractive (TextRank and LexRank) and abstractive (mBART, ruGPT-3 and ruT5)summarization methods using three corpora of news articles: Gazeta, MLSUMand XL-Sum| results are compared graphically |
 |[**2-DACSA: A large-scale Dataset for Automatic summarization of Catalan and Spanish newspaper Articles**| 2022 | the construction of a corpus of Catalan and Spanish newspapers, the Dataset for Automatic summarization of Catalan and Spanish newspaper Articles (DACSA) corpus. |  Average F1 scores of the models in the summarization task in Spanish=mBART= 30.66 12.08 23.13 23.89 71.07, mT5= 30.61 12.36 23.53 24.05, Average F1 scores of the models in the summarization task in Catalan.=mBART 27.46 11.04 21.13 22.01 , mT5 27.00 11.28 21.27 22.01|The main objective of this work was to build a quality large-scale corpus that could be used to learn automatic summarization neural models for Catalan and Spanish. |
 |**3-Improving Abstractive Text Summarization with History Aggregation**| 2019 | a novel aggregation mechanism to redistribute context states of text with collected history information. Then we equip the Transformer model with the aggregation mechanism. |   model outperforms 1.01 ROUGE-1, 0.30 ROUGE-2 and 1.27 ROUGE-L scores on CNN/DailyMail dataset and 5.31 ROUGE-1, 4.56 ROUGE-2 and 5.19 ROUGE-L scores on our build Chinese news dataset compared to Transformer baseline model.|a novel aggregation mechanism to redistribute context states of text with collected history information. Then we equip the Transformer model with the aggregation mechanism. |
@@ -274,8 +274,8 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 1  - **Literature Review**
 
-| Title | Citation | Objective | Strengths | Weaknesses | ML Techniques | Models Performance |Research Gap|Taking Notes|Input/Target Features|Journal Category|
-|---|---|---|---|---|---|---|---|---|---|---|
+| Title | Citation | Objective | Strengths | Weaknesses | ML Techniques | Models Performance |Research Gap|Taking Notes|Input/Target Features|Journal Category|Limitations|Future Directions|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | [**🌐 1. Phishing website detection based on effective machine learning approach**](https://www.tandfonline.com/doi/full/10.1080/23742917.2020.1813396) | Harinahalli Lokesh, 2021 | Developing a model that predicts whether the website is a phishing site or a legitimate website. | Effective at detecting phishing with a focus on user training and software detection. Random Forest gives the highest accuracy of 96.87%. | Low importance features are also used in the model training. Confusion Matrix not provided. Just Accuracy Taken into consideration, no precision and recall etc. | One Class SVM, Linear SVC, K-Nearest Neighbor, Decision Tree Classifier, Random Forest | One Class SVM - 48.56% Accuracy, Linear SVC - 92.69%, K-Nearest Neighbor - 93.53%, Decision Tree Classifier - 96.05%, Random Forest - 96.87% |
 | [**🌐 2. Phishing web site detection using diverse machine learning algorithms**](https://www.researchgate.net/profile/Hikmat-Khan-2/publication/338504707_Phishing_web_site_detection_using_diverse_machine_learning_algorithms/links/60b8becf299bf10dff8e76c6/Phishing-web-site-detection-using-diverse-machine-learning-algorithms.pdf) | Zamir, 2020 | Using Neural Networks to predict whether a website is phishing or not. | Receives 97.4% Accuracy. It removes least important features by Recursive Feature Elimination technique. | This is using just 1055 rows of dataset that is less. This is taking 105.32 seconds to predict the website. | NB, KNN, SVM, RF, Bagging, NN | Naive Bayes - 72.67%, KNN - 94.2%, SVM - 93.1%, RF - 96.9%, Bagging - 95.1%, NN - 95.8% |
 | [**🌐 3. Phishing Detection Using Machine Learning Techniques**](https://ieeexplore.ieee.org/document/9283771) | Shahrivari, 2020 | Building a best model using 12 ML models and selecting the best prediction model | High accuracy, detailed comparison across multiple ML techniques, considers recall, precision, and F-measure | Requires a large dataset, computationally intensive, feature selection is crucial | Logistic Regression, Decision Tree, Random Forest, AdaBoost, KNN, Neural Network, SVM, Gradient Boosting, XGBoost | Logistic Regression - 92.65%, Decision Tree - 96.60%, Random Forest - 97.26%, AdaBoost - 93.69%, KNN - 95.81%, Neural Network - 96.87%, SVM - 92.77%, Gradient Boosting - 94.86%, XGBoost - 98.23% |
