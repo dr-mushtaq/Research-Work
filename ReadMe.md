@@ -80,7 +80,7 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal Category| 
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| 
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
 |[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
@@ -116,8 +116,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|
-|---|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|
+|---|---|---|---|---|---|---|---|
 |**🌐1- The development of a chatbot using Convolutional Neural Networks**| 2022 |1.How do different CNN architectures impact chatbot performance?|1.Accuracy      2.Training Speed|Did author compared  CNN chatbot to simpler models or rule-based systems? How well does it handle complex or open ended questions?| |
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 |**🌐3- Personified Robotic Chatbot Based On Compositional Dialogues** | 2022 |Research likely doesn't focus on specific questions but rather explores how compositional dialogues (where conversations are built from smaller elements) can be used to create a personified robotic chatbot.|N/A|1. How effectively can the level of personality be measured in these chatbots?          2.Is user perception the only metric, or can objective measures be developed?| |
@@ -177,8 +177,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-| Title/Journal Name | Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |
-| --- | --- | --- | --- | --- | --- |
+| Title/Journal Name | Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category
+| --- | --- | --- | --- | --- | --- |---|
 | Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
 | Development of Early Warning Systems to monitor e-learning progress | IOP Conference Series: Materials Science and Engineering 2021 | To predict whether students enrolled in a class will pass or fail and develop an early warning system to warn students and teachers about the possibility of students failing a course/class and suggest appropriate actions. | 95% Accuracy 4.9% Error | - | - |
 | Dropout early warning systems for high school students using machine learning | Children and Youth Services Review 2019 | To predict students at risk of dropping out using a Random forest classifier. | Accuracy=0.95 Sensitivity=0.85 Specificity=0.95 AUC of ROC = 0.97 | - | - |
