@@ -177,8 +177,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-| Title/Journal Name | Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category
-| --- | --- | --- | --- | --- | --- |---|
+| Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|
+| --- | --- | --- | --- | --- | --- |---|---|
 | Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
 | Development of Early Warning Systems to monitor e-learning progress | IOP Conference Series: Materials Science and Engineering 2021 | To predict whether students enrolled in a class will pass or fail and develop an early warning system to warn students and teachers about the possibility of students failing a course/class and suggest appropriate actions. | 95% Accuracy 4.9% Error | - | - |
 | Dropout early warning systems for high school students using machine learning | Children and Youth Services Review 2019 | To predict students at risk of dropping out using a Random forest classifier. | Accuracy=0.95 Sensitivity=0.85 Specificity=0.95 AUC of ROC = 0.97 | - | - |
