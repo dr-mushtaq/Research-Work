@@ -116,8 +116,8 @@ Star this repo if you find it useful ⭐
   
 ## 📚Chapter: 1  - **Literature Review**
  
-|Title/Journal Name| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|
-|---|---|---|---|---|---|
+|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|
+|---|---|---|---|---|---|---|
 |**🌐1- The development of a chatbot using Convolutional Neural Networks**| 2022 |1.How do different CNN architectures impact chatbot performance?|1.Accuracy      2.Training Speed|Did author compared  CNN chatbot to simpler models or rule-based systems? How well does it handle complex or open ended questions?| |
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 |**🌐3- Personified Robotic Chatbot Based On Compositional Dialogues** | 2022 |Research likely doesn't focus on specific questions but rather explores how compositional dialogues (where conversations are built from smaller elements) can be used to create a personified robotic chatbot.|N/A|1. How effectively can the level of personality be measured in these chatbots?          2.Is user perception the only metric, or can objective measures be developed?| |
