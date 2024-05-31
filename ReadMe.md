@@ -240,7 +240,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis- KHALID HUSSAIN(2024-)</h2> </summary>
+<summary> <h2>🔎Thesis-Khalid Hussain(2024-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
 |Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations |Future Directions|
