@@ -314,7 +314,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2002-4)-aaa</h2> </summary>
+<summary> <h2>🔎Thesis-(2024-)-Imran Yousaf</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -349,7 +349,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2002-4)-bbbb</h2> </summary>
+<summary> <h2>🔎Thesis-(2024-)- Nabila Rafique</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -384,7 +384,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2002-4)-cccc</h2> </summary>
+<summary> <h2>🔎Thesis-(2024-0)-Haris</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
