@@ -88,13 +88,13 @@ Star this repo if you find it useful ⭐
 |[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
 |[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
 
-## 📚Chapter: 1  - **Thesis/Publication**
+## 📚Chapter: 2  - **Thesis/Publication**
  
 | Final Synopsis| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|---|
 |[**🌐1-ROAD ACCIDENT ANALYSIS AND PREDICTION OF INJURY SEVERITY IN PEDESTRIANS USING MACHINE LEARNING PARADIGMS**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | June-14-2024 | Content 3 |--- |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
-###  📚Chapter: 2  **Model metrics benchmarks**
+##  📚Chapter: 3  **Model metrics benchmarks**
 
 |   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
 |---|---|---|---|---|---|---|
@@ -105,7 +105,7 @@ Star this repo if you find it useful ⭐
 | XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
 | RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
 
-## 📚Chapter: 3  - **Apps Details**
+## 📚Chapter: 4  - **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
