@@ -92,7 +92,7 @@ Star this repo if you find it useful ⭐
  
 | Final Synopsis| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Blog|Notebook|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|---|
-|[**🌐-Word File**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | **June-14-2024** | Research Questions|Model performance metrics |Model performance metrics|Research Gap|Dataset|[Notebook](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
+|[**🌐-Word File**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | **June-14-2024** | Research Questions|Model performance metrics |Model performance metrics|Research Gap|Dataset|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
 
 ##  📚Chapter: 3  **Model metrics benchmarks**
 
