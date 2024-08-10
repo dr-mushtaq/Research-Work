@@ -92,6 +92,7 @@ Star this repo if you find it useful ⭐
  
 | Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|---|
+
 |Synopis file| **June-14-2024** | Research Questions|Research Gap|Dataset|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
 
 ##  📚Chapter: 3  **Model metrics benchmarks**
