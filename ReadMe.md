@@ -103,7 +103,7 @@ Star this repo if you find it useful ⭐
  
 | Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
-|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| [Final Thesis Files](https://github.com/dr-mushtaq/Research-Work/blob/main/Final%20Thesis%203.1.docx)|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.png)[-2]([-2)](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.vsdx)| [Final Thesis Files](https://github.com/dr-mushtaq/Research-Work/blob/main/Final%20Thesis%203.1.docx)|
 
 ##  📚Chapter: 3  **Model metrics benchmarks**
 
