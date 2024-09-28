@@ -115,7 +115,7 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 2  - **Thesis/Publication**
  
-| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
+| 📰 Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|📔Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
 |[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | 1. Can ML algorithms effectively model the injury severity level resulting from collisions in road accidents, and if so, which ML classifier offers optimal performance in predicting the injury severity level across different geographic regions?  2- What are the underlying hidden factors that contribute to fatal or major injuries?  3- Given the differences in road safety regulations and enforcement between Pakistan and Canada, how do the identified risk factors and their impacts on injury severity differ between these two countries? What policy recommendations can be derived from these differences to enhance road safety initiatives in both regions?|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.png)[-2](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.vsdx)| [Final Thesis Files](https://github.com/dr-mushtaq/Research-Work/blob/main/Final%20Thesis%203.1.docx)|
 
