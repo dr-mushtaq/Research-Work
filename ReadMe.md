@@ -408,6 +408,20 @@ Star this repo if you find it useful ⭐
 <summary> <h2>🔎Thesis-(2024-0)-Haris</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
+
+| Person | Title | Journal | Year | Sub Domain | Problem Addressed | Proposed Solution | Data Set | Research Gap | Future Directions | One Paragraph Summary |
+|--------|-------|---------|------|------------|-------------------|-------------------|----------|--------------|-------------------|-----------------------|
+|        | Traffic Forecasting using Time-Series Analysis |         | 2021 | Time Series Analysis | To forecast traffic flow |  | Real World Traffic Data |  |  | The paper on traffic forecasting using time-series analysis... |
+|        | Forecasting Day-Ahead Traffic Flow Using Functional Data Analysis |         | 2022 | Traffic Forecasting, Functional Data Analysis | Accurately forecasting short term traffic |  | Busy highway (M01 Airport Link Road) in Dublin | Existing models typically forecast traffic flow using single approach | Incorporation of Exogenous Information | Functional Time Series Approach... |
+|        | Hybrid Time Series Forecasting Model for Traffic |         | 2022 | Time Series Forecasting | To accurately forecast traffic patterns |  | UK Highways dataset, MIDAS sensors | Study shows that integrating linear and non-linear models improves accuracy | Forecasting models with bio-inspired optimization techniques | The research paper is on "Hybrid Time-Series Forecasting Model for Traffic"... |
+
+
+
+
+
+
+
+
  
  
 |Year |Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| Limitations|Future Directions|
