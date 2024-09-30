@@ -442,26 +442,6 @@ Star this repo if you find it useful ⭐
 |QUANTUM-ENHANCED FORECASTING: LEVERAGING QUANTUM GRAMIAN ANGULAR FIELD AND CNNS FOR STOCK RETURN PREDICTIONS| |Arxiv|2023|Stock Prediction |Prediction of stocks using quantum enhanced forecasting| |Quantum Gramian Angular Field (QGAF) with CNN|Returns of Time series data from multiple stocks|Two dimensional images fed into CNN for prediction |China A-share Market: GASF MAE: 0.195, MSE: 0.032 QGASF MAE: 0.119, MSE: 0.015  Hong Kong Stock Market: GASF MAE: 0.115, MSE: 0.075 QGASF MAE: 0.092, MSE: 0.017  U.S. Stock Market: GASF MAE: 0.120, MSE: 0.009 QGASF MAE: 0.062, MSE: 0.005 | |China A Share Market,  Hong Kong Stock Market US Stock Market| |Generalization Across Different Datasets, Integration with Other Deep Learning Models, Quantum Hardware and Resource Optimization, Comparison with Other Hybrid Models|Broadening the Application of QGASF, Hybrid Model Development, Advancing Quantum Computing Techniques| | |
 |Linear-layer-enhanced quantum long short-term memory for carbon price forecasting| |Springer|2023|Price Prediction|To predict carbon price using  Linear Layered Enhanced Quantum Long Short-Term Memory| |Linear-layer-enhanced Quantum Long Short-Term Memory (L-QLSTM)|Volume and Price of the carbon|Forecasted Carbon price |RMSE (Root Mean Square Error):  L-QLSTM (Training Set): 0.0256 L-QLSTM (Test Set): 0.0436 QLSTM (Training Set): 0.2863 QLSTM (Test Set): 0.3024 LSTM (Training Set): 0.0188 LSTM (Test Set): 0.0297 MAE (Mean Absolute Error):  L-QLSTM (Training Set): 0.0170 L-QLSTM (Test Set): 0.0322 QLSTM (Training Set): 0.2563 QLSTM (Test Set): 0.2723 LSTM (Training Set): 0.0131 LSTM (Test Set): 0.0223| |European Union Emission Trading| |Quantum Computing in Time Series  Scalability and Implementation|Model Optimization  Hybrid Approaches  Real-world Applications| | |
 
-
-
-
-
-
-
-
-
-
-
- 
- 
-|Year |Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| Limitations|Future Directions|
-|---|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
-|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
-|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
-|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
-|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
-
 ## 📚Chapter: 1  - **Thesis/Publication**
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
