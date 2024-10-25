@@ -443,6 +443,11 @@ Star this repo if you find it useful ⭐
 |Linear-layer-enhanced quantum long short-term memory for carbon price forecasting| |Springer|2023|Price Prediction|To predict carbon price using  Linear Layered Enhanced Quantum Long Short-Term Memory| |Linear-layer-enhanced Quantum Long Short-Term Memory (L-QLSTM)|Volume and Price of the carbon|Forecasted Carbon price |RMSE (Root Mean Square Error):  L-QLSTM (Training Set): 0.0256 L-QLSTM (Test Set): 0.0436 QLSTM (Training Set): 0.2863 QLSTM (Test Set): 0.3024 LSTM (Training Set): 0.0188 LSTM (Test Set): 0.0297 MAE (Mean Absolute Error):  L-QLSTM (Training Set): 0.0170 L-QLSTM (Test Set): 0.0322 QLSTM (Training Set): 0.2563 QLSTM (Test Set): 0.2723 LSTM (Training Set): 0.0131 LSTM (Test Set): 0.0223| |European Union Emission Trading| |Quantum Computing in Time Series  Scalability and Implementation|Model Optimization  Hybrid Approaches  Real-world Applications| | |
 
 ## 📚Chapter: 1  - **Thesis/Publication**
+| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
+|---|---|---|---|---|---|---|---|---|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
+
+
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
 |---|---|---|---|---|---|---|---|---|---|
