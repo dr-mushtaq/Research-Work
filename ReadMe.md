@@ -541,7 +541,7 @@ Star this repo if you find it useful ⭐
 - **Step 3** - Sent [Thesis](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) for Rreviewer , Required Documents(final thesis,Plagiarism report (15% is acceptable and individuals source less than 2%), Ssynopsis notification, suggested as external examiners,[Annex F](https://github.com/hussain0048/Research-Work/blob/main/Annex%20F.pdf))
 - **Step 4** - Response To Extrnal Reviewer,Plagiarism report,Compliance [COMPLIANCE REPORT](https://github.com/hussain0048/Research-Work/blob/main/Compliance%20Report.docx)
 - **Step 5**-🎓 Final thesis defense
-- **Step 6**-🎓  Submit four hard copies of thesis with signature of student and supervisory committee 
+- **Step 6**-🎓  Submit four [Hard copies](https://github.com/dr-mushtaq/Research-Work/tree/main/Thesis%20Print%20Style) of thesis with signature of student and supervisory committee 
 
 >
 
