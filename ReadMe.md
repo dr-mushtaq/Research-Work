@@ -447,6 +447,10 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|---|
 |[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb](https://github.com/haris-lutafullah/Research-Work/blob/main/Traffic_Prediction_System.ipynb)|Medium|Diagram| Final Thesis|
 
+| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
+|---|---|---|---|---|---|---|---|---|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
+
 
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
