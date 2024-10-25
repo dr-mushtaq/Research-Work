@@ -445,7 +445,7 @@ Star this repo if you find it useful ⭐
 ## 📚Chapter: 1  - **Thesis/Publication**
 | Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
-|[Synopis file](xyz)| | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)](https://github.com/haris-lutafullah/Research-Work/blob/main/Traffic_Prediction_System.ipynb)|Medium|Diagram| Final Thesis|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb](https://github.com/haris-lutafullah/Research-Work/blob/main/Traffic_Prediction_System.ipynb)|Medium|Diagram| Final Thesis|
 
 
  
