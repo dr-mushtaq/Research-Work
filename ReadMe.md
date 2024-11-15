@@ -277,7 +277,7 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 3  - **Resources**
 -  [**Question Generation**](https://github.com/KristiyanVachev/Question-Generation/tree/master)
--  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github**](https://github.com/pathway-labs/realtime-indexer-qa-chat ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
+-  [**awesome-text-summarization**](https://github.com/icoxfog417/awesome-text-summarization)
 -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
 -  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
 -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
