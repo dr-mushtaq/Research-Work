@@ -443,9 +443,6 @@ Star this repo if you find it useful ⭐
 |Linear-layer-enhanced quantum long short-term memory for carbon price forecasting| |Springer|2023|Price Prediction|To predict carbon price using  Linear Layered Enhanced Quantum Long Short-Term Memory| |Linear-layer-enhanced Quantum Long Short-Term Memory (L-QLSTM)|Volume and Price of the carbon|Forecasted Carbon price |RMSE (Root Mean Square Error):  L-QLSTM (Training Set): 0.0256 L-QLSTM (Test Set): 0.0436 QLSTM (Training Set): 0.2863 QLSTM (Test Set): 0.3024 LSTM (Training Set): 0.0188 LSTM (Test Set): 0.0297 MAE (Mean Absolute Error):  L-QLSTM (Training Set): 0.0170 L-QLSTM (Test Set): 0.0322 QLSTM (Training Set): 0.2563 QLSTM (Test Set): 0.2723 LSTM (Training Set): 0.0131 LSTM (Test Set): 0.0223| |European Union Emission Trading| |Quantum Computing in Time Series  Scalability and Implementation|Model Optimization  Hybrid Approaches  Real-world Applications| | |
 
 ## 📚Chapter: 1  - **Thesis/Publication**
-| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
-|---|---|---|---|---|---|---|---|---|
-|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb](https://github.com/haris-lutafullah/Research-Work/blob/main/Traffic_Prediction_System.ipynb)|Medium|Diagram| Final Thesis|
 
 | Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
@@ -470,6 +467,7 @@ Star this repo if you find it useful ⭐
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
+   -  [**Time Series Classification using Gramian Angular Fields and FastAI**](https://github.com/mkwatson/fastai-dl-playground/blob/main/GAF.ipynb)
 
 </details>
 
