@@ -468,6 +468,12 @@ Star this repo if you find it useful ⭐
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
    -  [**Time Series Classification using Gramian Angular Fields and FastAI**](https://github.com/mkwatson/fastai-dl-playground/blob/main/GAF.ipynb)
+   -  [**Getting Started with Time Series**](https://otexts.com/fpp3/intro.html)
+   -  [**Time-Series-ARIMA-XGBOOST-RNN**](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN)
+   -  [**Time-Series-Textbooks**](https://github.com/MatthewK84/Time-Series-Textbooks)
+   -  [**TSMamba : Mamba based Time Series forecasting model**](https://www.youtube.com/watch?v=WvMDKCfJ4nM)
+   -  [**Best For ML Python**](https://github.com/ml-tooling/best-of-ml-python)
+   -  [**Time Series Forecasting: Step-by-Step Guide to Implementing ARIMA in Python**](https://www.youtube.com/watch?v=bAtgpOpAQS0&list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&index=7) 
 
 </details>
 
