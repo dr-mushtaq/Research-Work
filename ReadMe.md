@@ -67,7 +67,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Important Research Softwares, Websites, Article </h2> </summary>
 
-   - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
+   - [**Save Time and Improve Research Quality with These Top 25 Free Tools**](https://substack.com/home/post/p-155765886)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
@@ -76,6 +76,7 @@ Star this repo if you find it useful ⭐
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
    -  [**Mastering APA Style: A Guide to Research Paper Writing**](https://medium.com/@Coursesteach/mastering-apa-style-a-guide-to-research-paper-writing-bd4d42e14d87)
    -  [**Understanding Q1, Q4 Journals, SCI, SSCI, and EI: A Complete Guide for Researchers**](https://medium.com/@Coursesteach/understanding-q1-to-q4-journals-a-guide-to-academic-rankings-54d0bf331e5e)
+   -  [**Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help)
 </details>
 
 <details> 
