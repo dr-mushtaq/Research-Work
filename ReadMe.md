@@ -71,7 +71,7 @@ Star this repo if you find it useful ⭐
    -  [**How to respond to comments received in Peer Review**](https://open.substack.com/pub/mushtaqmsit/p/how-to-respond-to-comments-received?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://open.substack.com/pub/mushtaqmsit/p/a-comprehensive-guide-on-how-to-write?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://open.substack.com/pub/mushtaqmsit/p/finding-the-right-journal-for-your?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-   -  [**How To Read Research Papers**](https://medium.com/@Coursesteach/how-to-read-research-papers-8a0fbc242436)
+   -  [**How To Read Research Papers**](https://open.substack.com/pub/mushtaqmsit/p/how-to-read-research-papers?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
    -  [**Mastering APA Style: A Guide to Research Paper Writing**](https://medium.com/@Coursesteach/mastering-apa-style-a-guide-to-research-paper-writing-bd4d42e14d87)
