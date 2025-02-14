@@ -69,7 +69,7 @@ Star this repo if you find it useful ⭐
 
    - [**Save Time and Improve Research Quality with These Top 25 Free Tools**](https://substack.com/home/post/p-155765886)
    -  [**How to respond to comments received in Peer Review**](https://open.substack.com/pub/mushtaqmsit/p/how-to-respond-to-comments-received?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
-   -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
+   -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://open.substack.com/pub/mushtaqmsit/p/a-comprehensive-guide-on-how-to-write?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
    -  [**How To Read Research Papers**](https://medium.com/@Coursesteach/how-to-read-research-papers-8a0fbc242436)
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
