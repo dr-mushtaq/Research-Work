@@ -1,7 +1,7 @@
 
 ## **A-Z Guide to Research Work 👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Research-Work/blob/main/Research%20Work%20(1).png"></a>
+<img src="https://github.com/dr-mushtaq/Research-Work/blob/main/DALL%C2%B7E%202025-02-14%2013.28.02%20-%20A%20futuristic%20digital%20handshake%20where%20one%20hand%20is%20human%20and%20the%20other%20is%20a%20glowing%2C%20wireframe%20AI%20hand%20emerging%20from%20a%20laptop%20screen.%20The%20scene%20has%20a%20hi.webp"></a>
 </p>
 Welcome to the A-Z Guide to Research Work repository! This comprehensive supplement serves as your ultimate resource for navigating the world of research, offering a comprehensive guide to understanding and implementing research papers using Python.
 
