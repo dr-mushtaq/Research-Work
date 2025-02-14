@@ -75,7 +75,7 @@ Star this repo if you find it useful ⭐
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
    -  [**Mastering APA Style: A Guide to Research Paper Writing**](https://medium.com/@Coursesteach/mastering-apa-style-a-guide-to-research-paper-writing-bd4d42e14d87)
-   -  [**Understanding Q1, Q4 Journals, SCI, SSCI, and EI: A Complete Guide for Researchers**](https://medium.com/@Coursesteach/understanding-q1-to-q4-journals-a-guide-to-academic-rankings-54d0bf331e5e)
+   -  [**Understanding Q1, Q4 Journals, SCI, SSCI, and EI: A Complete Guide for Researchers**](https://open.substack.com/pub/mushtaqmsit/p/understanding-q1-q4-journals-sci?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help)
 </details>
 
