@@ -473,7 +473,8 @@ Star this repo if you find it useful ⭐
    -  [**Time-Series-Textbooks**](https://github.com/MatthewK84/Time-Series-Textbooks)
    -  [**TSMamba : Mamba based Time Series forecasting model**](https://www.youtube.com/watch?v=WvMDKCfJ4nM)
    -  [**Best For ML Python**](https://github.com/ml-tooling/best-of-ml-python)
-   -  [**Time Series Forecasting: Step-by-Step Guide to Implementing ARIMA in Python**](https://www.youtube.com/watch?v=bAtgpOpAQS0&list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&index=7) 
+   -  [**Time Series Forecasting: Step-by-Step Guide to Implementing ARIMA in Python**](https://www.youtube.com/watch?v=bAtgpOpAQS0&list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&index=7)
+   -  [**Time Series forcasting with pycaret building multistep prediction**](https://machinelearningmastery.com/time-series-forecasting-with-pycaret-building-multi-step-prediction-model)
 
 </details>
 
