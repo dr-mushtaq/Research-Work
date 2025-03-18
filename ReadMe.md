@@ -77,6 +77,7 @@ Star this repo if you find it useful ⭐
    -  [**Mastering APA Style: A Guide to Research Paper Writing**](https://medium.com/@Coursesteach/mastering-apa-style-a-guide-to-research-paper-writing-bd4d42e14d87)
    -  [**Understanding Q1, Q4 Journals, SCI, SSCI, and EI: A Complete Guide for Researchers**](https://open.substack.com/pub/mushtaqmsit/p/understanding-q1-q4-journals-sci?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help)
+   -  [**How to Find In-Depth Scientific Literature Reviews Faster with SciSpace**](https://mushtaqmsit.substack.com/p/how-to-find-in-depth-scientific-literature)
 </details>
 
 <details> 
