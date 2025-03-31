@@ -101,6 +101,9 @@ Star this repo if you find it useful ⭐
    -  [**How to Find In-Depth Scientific Literature Reviews Faster with SciSpace**](https://mushtaqmsit.substack.com/p/how-to-find-in-depth-scientific-literature)
    -  [**Plagiarism**](https://www.youtube.com/playlist?list=PL9G6ZLfYblGLx7kigXbIf78L9M8047a2z)
    -  [**How to identify suitable journals for submission**](https://researcheracademy.elsevier.com/publication-process/finding-right-journal/identify-suitable-journals-submission)
+   -  [**How to respond to reviewers' comments**](https://researcheracademy.elsevier.com/navigating-peer-review/going-peer-review/respond-reviewers-comments)
+   -  [**Generative AI in research evaluation**](https://researcheracademy.elsevier.com/navigating-peer-review/fundamentals-peer-review/generative-ai-research-evaluation)
+       -  
 </details>
 
 <details> 
