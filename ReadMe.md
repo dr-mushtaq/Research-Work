@@ -109,6 +109,8 @@ Star this repo if you find it useful ⭐
    - [**Generative AI: New policies, opportunities, and risks**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/generative-ai-new-policies-opportunities-risks)
    - [**Author policies on the use of Generative AI**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/author-policies-use-generative-ai)
    - [**How to Instruct the ChatGPT to write a manuscript? Research Manuscript a Scientific Article**](https://www.youtube.com/watch?v=tR8UbDM_0LQ)
+   - [**Structuring your article correctly**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/structuring-article-correctly)
+   - [**Manuscript Writing and High-quality Publishing**](https://www.youtube.com/playlist?list=PLTfj4qMbtEiqafRpVXD5ga5UFSo9BC19k)
 </details>
 
 <details> 
