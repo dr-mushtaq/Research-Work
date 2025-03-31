@@ -106,6 +106,7 @@ Star this repo if you find it useful ⭐
    -  [**How to review a manuscript**](https://researcheracademy.elsevier.com/navigating-peer-review/becoming-peer-reviewer/review-manuscript)
    -  [**How to write an abstract and improve your article**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/write-abstract-improve-article)
    -  [**Data visualization and choosing the right plot**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/data-visualization-choosing-right-plot)
+   - [**Generative AI: New policies, opportunities, and risks**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/generative-ai-new-policies-opportunities-risks)
 </details>
 
 <details> 
