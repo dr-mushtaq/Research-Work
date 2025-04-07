@@ -314,9 +314,9 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 3  - **Resources**
 -  [**Question Generation**](https://github.com/KristiyanVachev/Question-Generation/tree/master)
--  [**awesome-text-summarization**](https://github.com/icoxfog417/awesome-text-summarization)
+-  [**awesome-text-summarizatio**](https://github.com/icoxfog417/awesome-text-summarization)
 -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
--  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
+-  [**Question_generation-patil-suraj**](https://github.com/patil-suraj/question_generation)
 -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
 -  [**Getting Started with GitHub Pages**](https://www.youtube.com/watch?v=QyFcl_Fba-k&list=PL4cUxeGkcC9jjuXmnTyPSMo5NZ8dANHSW)
 
