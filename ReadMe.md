@@ -138,7 +138,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2022-24)-M Shujaat</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -245,7 +245,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎Thesis- Ahsan Saleem</h2> </summary>
+<summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)-Predicting Student Performance in e-learning system</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -289,7 +289,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Nabila Anum( 2023-</h2> </summary>
+<summary> <h2>🔎Thesis-Nabila Anum( 2023-2025)-Hybrid Approach for Text Summarization</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
