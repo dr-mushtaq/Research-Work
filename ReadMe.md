@@ -547,6 +547,49 @@ Star this repo if you find it useful ⭐
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 
 </details>
+<details> 
+<summary> <h2>📕 Research Resources </h2> </summary>
+
+## 👁️ Chapter1: - **Writing Tools**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅ 1-jenni.ai**](https://app.jenni.ai/editor/3164AXeap9DBCwUR4lvd)|Research paper writing tool| InProgress|
+|[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
+|[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+## 👁️ Chapter2: - **Important Website**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
+
+## 👁️ Chapter3: - **Important Social medica Groups**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+## 👁️ Chapter4: - **Free Books**
+| Title/link| Description | Code |
+|---|---|---|
+|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+
+## 👁️ Chapter5: - **Github Repository**
+| Title/link| Description | Status |
+|---|---|---|
+|[**✅ 1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+|[**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
+|[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
+|[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
+|[**✅ 5-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| collections of Generative AI (GenAI) agent tutorials and implementations | Pending|
+|[**✅ 6-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept , it is by nlptown | Pending|
+|[**✅ 7-NLP with Python**](https://github.com/susanli2016/NLP-with-Python/tree/master)| it implement nlp concept in python | Pending|
+|[**✅ 8-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept in python | Pending|
+
+
+
+## 👁️ Chapter1: - **Important Library and Packages**
+| Title/link| Description | Code |
+|---|---|---|
+|[**✅1- 10 Must-Know Python Libraries for LLMs in 2025**](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/)|It is Videos and github|---|
+</details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys)[-2](https://drive.google.com/file/d/1S3sV7Z0lXIJxjlCb_zeh8cpvC2qVMx5M/view?usp=sharing):
 
