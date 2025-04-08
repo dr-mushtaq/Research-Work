@@ -571,10 +571,10 @@ Star this repo if you find it useful ⭐
 |---|---|---|
 |[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
 
-## 👁️ Chapter5: - **Github Repository**
+## 👁️ Chapter5: - **OURNAL FINDER TOOLS**
 | Title/link| Description | Status |
 |---|---|---|
-|[**✅ 1- Computer Science courses with video lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn)|It is Videos and github| Pending|
+|[**✅ 1- GoogleScholar**](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Road+Safety%2C+machine+learning&btnG=)|Search topic and then you find journal| Pending|
 |[**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
 |[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
