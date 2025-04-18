@@ -550,8 +550,8 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📕 Research Resources </h2> </summary>
 
 ## 🔍  Chapter1: - **Literature Management and Search**
-| No. |             Tool                    |              Description                       |Feedback|
-|-----|-------------------------------------|------------------------------------------------|--------|
+| No. |             Tool                    |              Description                       |Resources| Feedback|
+|-----|-------------------------------------|------------------------------------------------|--------|----------|
 | 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network |
 | 2 | [Naimai - Tutorial 1](#) | Literature management tutorial |
 | 3 | [Docear](https://www.docear.org/) | Academic literature management tool |
