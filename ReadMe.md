@@ -645,6 +645,15 @@ Star this repo if you find it useful ⭐
 | [Okular](https://okular.kde.org/) | Research PDF annotation |
 | [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
 
+## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
+| Tool | Description |
+|------|-------------|
+| [HEC Journal Recognition System](https://hjrs.hec.gov.pk/) | Journal validation |
+| [Master Journal List](https://mjl.clarivate.com/) | Clarivate's journal index |
+| [Scimago Journal Rank](https://www.scimagojr.com/) | Journal ranking metrics |
+| [Scopus](https://www.scopus.com/) | Elsevier's citation index |
+| [Resurchify](https://www.resurchify.com/) | Impact factor and Q-ranks |
+| [Think. Check. Submit](https://thinkchecksubmit.org/) | Journal credibility checklist |
 
 
 
