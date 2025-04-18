@@ -114,7 +114,7 @@ Star this repo if you find it useful ⭐
    - [**How to write Research Paper**](https://mushtaqmsit.substack.com/p/how-to-write-paper)
 </details>
 
-<details> 
+<details>
 <summary> <h2>🔎 Find the Right Journal</h2> </summary>
 
 | # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | ✅ Recommendation |
@@ -122,12 +122,13 @@ Star this repo if you find it useful ⭐
 | 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
 | 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | ⚠️ **Selective** – Top-tier, highly competitive |
 | 3 | [🌐 **Iranian Journal of Science and Technology – Transactions of Electrical Engineering**](https://link.springer.com/journal/40996) | Electrical Engineering, Signal Processing, Machine Learning | Iran | Quarterly | 1.5 | SCIE, Q3 | Springer Nature | Subscription | N/A | Easy | ✅ **Recommended** – Suitable for regional research with moderate impact |
-| 4 | [🌐 **GeoJournal**](https://link.springer.com/journal/10708) | Geography, Planning and Development | Germany | Monthly | 2.0 (2023) | ESCI | Springer | Hybrid OA | Varies by region | Moderate | ✅ **Recommended** – Strong fit for spatial social sciences and interdisciplinary geography research |
 | 5 | [🌐 **Applied Spatial Analysis and Policy**](https://link.springer.com/journal/12061) | Human Geography, Urban Planning, Regional Science | Netherlands | Quarterly | 2.0 (2023) | SSCI, Q2 | Springer | Hybrid OA | Estimated at $1,500–$2,500 | Moderate | ✅ **Recommended** – Ideal for policy-oriented spatial analysis with strong academic standing |
 | 6 | [🌐 **Journal of Ambient Intelligence and Humanized Computing**](https://link.springer.com/journal/12652) | Ambient Intelligence, Human-Computer Interaction, AI | Germany | Monthly | 5.63 | Q1 | Springer Nature | Hybrid OA | 1,500–2,500 | ~30% | ✅ **Recommended** – Strong IF, moderate acceptance rate, great for AI-human interaction research |
-| 7 | [🌐 **Natural Hazards**](https://link.springer.com/journal/11069) | Natural Hazards, Risk Assessment, Geosciences | Netherlands | Quarterly | 3.90 |SCIE, Q2 | Springer | Hybrid OA | N/A | ~87.9% | ✅ **Recommended** – Solid IF, high acceptance rate, excellent for natural hazard research |
+| 7 | [🌐 **Natural Hazards**](https://link.springer.com/journal/11069) | Natural Hazards, Risk Assessment, Geosciences | Netherlands | Quarterly | 3.90 | Q2 | Springer | Hybrid OA | N/A | ~87.9% | ✅ **Recommended** – Solid IF, high acceptance rate, excellent for natural hazard research |
+| 9 | [🌐 **Environmental Monitoring and Assessment**](https://link.springer.com/journal/10661) | Environmental Monitoring, Pollution Risk Assessment, Toxicology | Netherlands | Weekly | 2.9 (2024) | Q2 | Springer | Hybrid OA | N/A | ~10.3% | ✅ **Recommended** – Broad coverage, high acceptance rate, suitable for environmental monitoring research |
 
 </details>
+
 
 
 
