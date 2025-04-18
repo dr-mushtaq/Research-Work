@@ -655,7 +655,49 @@ Star this repo if you find it useful ⭐
 | [Resurchify](https://www.resurchify.com/) | Impact factor and Q-ranks |
 | [Think. Check. Submit](https://thinkchecksubmit.org/) | Journal credibility checklist |
 
+## 🔍  Chapter7: - **📤 Deposit & Share Data**
+| Tool | Description |
+|------|-------------|
+| [Dataverse](https://dataverse.harvard.edu/) | Open data repository |
+| [Master Journal List](https://mjl.clarivate.com/) | May include repositories |
 
+## 🔍  Chapter8: - **🛡️ Plagiarism Checker**
+| Tool | Description |
+|------|-------------|
+| [Copyscape](https://www.copyscape.com/) | Plagiarism detection |
+| [Turnitin (via institutions)](https://www.turnitin.com/) | Academic integrity checker |
+
+## 🔍  Chapter9: - **🗒️ Note-Taking Tools**
+| Tool | Description |
+|------|-------------|
+| [AudioPen](https://audiopen.ai/) | Convert voice to structured notes |
+| [Google Keep](https://keep.google.com/) | Quick notes & ideas |
+
+## 🔍  Chapter10: - **⚙️ Planning and Task Management**
+| Tool | Description |
+|------|-------------|
+| [Focus To-Do](https://www.focustodo.cn/) | Pomodoro + task manager |
+
+## 🔍  Chapter11: - **📌 Journal Finder Tools**
+- [Elsevier Journal Finder](https://journalfinder.elsevier.com/)
+- [Web of Science](https://www.webofscience.com/)
+- [Wiley Journal Finder](https://journalfinder.wiley.com/)
+- [JANE (Journal Author Name Estimator)](https://jane.biosemantics.org/)
+- [IEEE Publication Recommender](https://journals.ieeeauthorcenter.ieee.org/)
+- [Springer Journal Suggester](https://journalsuggester.springer.com/)
+- [EDANZ Journal Selector](https://www.edanz.com/journal-selector)
+- [SAGE Journal Recommender](https://journals.sagepub.com/)
+- [MDPI Journal Finder](https://www.mdpi.com/journalfinder)
+- [Taylor & Francis Journal Suggester](https://authorservices.taylorandfrancis.com/)
+- [ENAGO Journal Finder](https://www.enago.com/)
+- [Researcher.Life Journal Recommender](https://researcher.life/)
+- [JournalGuide](https://www.journalguide.com/)
+
+## 🔍  Chapter12: - **📚 Free Paper Access**
+| Tool | Description |
+|------|-------------|
+| [Anna’s Archive](https://annas-archive.org/) | Open access to scientific papers |
+| [Unpaywall](https://unpaywall.org/) | Free versions of paywalled papers |
 
 
 ## 👁️ Chapter1: - **Writing Tools**
@@ -664,39 +706,7 @@ Star this repo if you find it useful ⭐
 |[**✅ 1-jenni.ai**](https://app.jenni.ai/editor/3164AXeap9DBCwUR4lvd)|Research paper writing tool| InProgress|
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
-## 👁️ Chapter2: - **Important Website**
-| Title/link| Description | Code |
-|---|---|---|
-|[**✅1- learngood**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is Videos and github|---|
 
-## 👁️ Chapter3: - **Important Social medica Groups**
-| Title/link| Description | Code |
-|---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
-
-## 👁️ Chapter4: - **Free Books**
-| Title/link| Description | Code |
-|---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
-
-## 👁️ Chapter5: - **OURNAL FINDER TOOLS**
-| Title/link| Description | Status |
-|---|---|---|
-|[**✅ 1- GoogleScholar**](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Road+Safety%2C+machine+learning&btnG=)|Search topic and then you find journal| Pending|
-|[**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
-|[**✅ 3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
-|[**✅ 4-courses & resources**](https://github.com/SkalskiP/courses)|It is course of all AI domain| Pending|
-|[**✅ 5-GenAI Agents: Comprehensive Repository for Development and Implementation**](https://github.com/NirDiamant/GenAI_Agents)| collections of Generative AI (GenAI) agent tutorials and implementations | Pending|
-|[**✅ 6-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept , it is by nlptown | Pending|
-|[**✅ 7-NLP with Python**](https://github.com/susanli2016/NLP-with-Python/tree/master)| it implement nlp concept in python | Pending|
-|[**✅ 8-nlp-notebooks**](https://github.com/nlptown/nlp-notebooks/tree/master)| it implement nlp concept in python | Pending|
-
-
-
-## 👁️ Chapter1: - **Important Library and Packages**
-| Title/link| Description | Code |
-|---|---|---|
-|[**✅1- 10 Must-Know Python Libraries for LLMs in 2025**](https://machinelearningmastery.com/10-must-know-python-libraries-for-llms-in-2025/)|It is Videos and github|---|
 </details>
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys)[-2](https://drive.google.com/file/d/1S3sV7Z0lXIJxjlCb_zeh8cpvC2qVMx5M/view?usp=sharing):
