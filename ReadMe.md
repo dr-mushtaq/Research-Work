@@ -117,12 +117,13 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>🔎 Find the Right Journal</h2> </summary>
 
-| # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | 📄 Relevant Paper | ✅ Recommendation |
-|---|------------------|------------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|----------------------|----------------------------|----------------------|
-| 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | *Enhanced deep learning algorithm development to detect pain intensity from facial expression images* | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
-| 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | *Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification* | ⚠️ **Selective** – Top-tier, highly competitive |
+| # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | ✅ Recommendation |
+|---|------------------|------------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|----------------------|----------------------|
+| 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
+| 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | ⚠️ **Selective** – Top-tier, highly competitive |
 
 </details>
+
 
 
 
