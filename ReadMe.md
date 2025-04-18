@@ -604,6 +604,14 @@ Star this repo if you find it useful ⭐
 | 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
 | 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
 
+## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
+| No. | Tool | Description |
+|-----|------|-------------|
+| 1 | [MyEssayWriter](https://myessaywriter.ai/) | Grammar fixing & paraphrasing |
+| 2 | [Khoj](https://www.khoj.app/) | Research grammar support |
+| 3 | [Hemingway App](https://hemingwayapp.com/) | Improve clarity and structure |
+
+
 
 ## 👁️ Chapter1: - **Writing Tools**
 | Title/link| Description | Reading Status |
