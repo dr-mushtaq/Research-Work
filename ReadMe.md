@@ -620,6 +620,17 @@ Star this repo if you find it useful ⭐
 | 4 | [Scimatic](https://www.scimatic.org/) | Citation & publishing assistant |
 | 5 | [Citation Generator](https://www.citationmachine.net/) | Easy citation creator |
 
+## 🔍  Chapter5: - **🖼️ Illustrations and Diagrams**
+| Tool | Description |
+|------|-------------|
+| [Processon](https://www.processon.com/) | Create academic diagrams |
+| [Creately](https://creately.com/) | Visual collaboration & diagramming |
+| [Flourish Studio](https://flourish.studio/) | Data visualization platform |
+| [Diagrams.net](https://www.diagrams.net/) | Free diagram tool |
+| [Coggle](https://coggle.it/) | Collaborative mind maps |
+| Paint | Manual image editing |
+| [Excalidraw](https://excalidraw.com/) | Real-time idea visualization |
+
 
 
 
