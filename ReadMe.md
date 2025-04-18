@@ -611,6 +611,17 @@ Star this repo if you find it useful ⭐
 | 2 | [Khoj](https://www.khoj.app/) | Research grammar support |
 | 3 | [Hemingway App](https://hemingwayapp.com/) | Improve clarity and structure |
 
+## 🔍  Chapter4: - **📝 🧠 📌 Citations**
+| No. | Tool | Description |
+|-----|------|-------------|
+| 1 | [Mendeley](https://www.mendeley.com/) | Reference manager |
+| 2 | [MyBib](https://www.mybib.com/) | Free citation generator |
+| 3 | [Qiqqa](https://www.qiqqa.com/) | Reference & research management |
+| 4 | [Scimatic](https://www.scimatic.org/) | Citation & publishing assistant |
+| 5 | [Citation Generator](https://www.citationmachine.net/) | Easy citation creator |
+
+
+
 
 
 ## 👁️ Chapter1: - **Writing Tools**
