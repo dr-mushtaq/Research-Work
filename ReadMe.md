@@ -124,8 +124,10 @@ Star this repo if you find it useful ⭐
 | 3 | [🌐 **Iranian Journal of Science and Technology – Transactions of Electrical Engineering**](https://link.springer.com/journal/40996) | Electrical Engineering, Signal Processing, Machine Learning | Iran | Quarterly | 1.5 | SCIE, Q3 | Springer Nature | Subscription | N/A | Easy | ✅ **Recommended** – Suitable for regional research with moderate impact |
 | 4 | [🌐 **GeoJournal**](https://link.springer.com/journal/10708) | Geography, Planning and Development | Germany | Monthly | 2.0 (2023) | ESCI | Springer | Hybrid OA | Varies by region | Moderate | ✅ **Recommended** – Strong fit for spatial social sciences and interdisciplinary geography research |
 | 5 | [🌐 **Applied Spatial Analysis and Policy**](https://link.springer.com/journal/12061) | Human Geography, Urban Planning, Regional Science | Netherlands | Quarterly | 2.0 (2023) | SSCI, Q2 | Springer | Hybrid OA | Estimated at $1,500–$2,500 | Moderate | ✅ **Recommended** – Ideal for policy-oriented spatial analysis with strong academic standing |
+| 6 | [🌐 **Journal of Ambient Intelligence and Humanized Computing**](https://link.springer.com/journal/12652) | Ambient Intelligence, Human-Computer Interaction, AI | Germany | Monthly | 5.63 | Q1 | Springer Nature | Hybrid OA | 1,500–2,500 | ~30% | ✅ **Recommended** – Strong IF, moderate acceptance rate, great for AI-human interaction research |
 
 </details>
+
 
 
 
