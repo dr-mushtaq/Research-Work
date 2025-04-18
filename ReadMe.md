@@ -711,7 +711,22 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>💻 Virtual University Thesis Workflow</h2> </summary>
+## 🎓 Virtual University Thesis Workflow
+## A step-by-step guide to completing your Final Year Project (Thesis) at Virtual University — including templates, documents, deadlines, and submission instructions.**
 
+| 🧭 Step | 📋 Task | 🗂️ Required Documents | 🔗 Resources |
+|--------|---------|------------------------|--------------|
+| **1** | **Internal Department Synopsis Presentation** | Presentation Slides | [📎 Presentation PPT](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20Presentation%20V%203.0%20.pptx) |
+| **2** | **GRC Synopsis Presentation** <br> *(Get approval from Graduate Research Committee)* | - [Synopsis Document](https://github.com/hussain0048/Research-Work/blob/main/Tempate%20for%20Synopsis.docx) <br> - [Annex A - Evaluation Form](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx) <br> - [Annex B - Consent Form](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx) <br> - Turnitin Report *(Max 15%, no individual source >2%)* | ✅ Submit to your department |
+| **3** | **Thesis Submission to Reviewer** | - [Final Thesis Template](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) <br> - Plagiarism Report *(Same rules apply)* <br> - GRC Approval Notification <br> - Suggested External Examiners <br> - [Annex F](https://github.com/hussain0048/Research-Work/blob/main/Annex%20F.pdf) | 📬 Send to assigned reviewer |
+| **📅 Deadline** | **Thesis Submission Deadline** | One week before End Semester Exams | ⏰ Late submission = Result in next semester |
+| **4** | **Response to Reviewer Comments** | - [Compliance Report](https://github.com/hussain0048/Research-Work/blob/main/Compliance%20Report.docx) <br> - Revised Thesis <br> - Reviewer Comments with Responses <br> - Updated Plagiarism Report | 📮 Resubmit revised thesis |
+| **5** | **Final Thesis Defense** | Final Viva Presentation | 🎤 Conducted by External/Internal Examiners |
+| **6** | **Final Submission of Hard Copies** | Submit **4 hard copies** signed by Supervisor & Student | [📚 Print Style Guide](https://github.com/dr-mushtaq/Research-Work/tree/main/Thesis%20Print%20Style) |
+
+📌 **Note:**  
+- All documents must follow Virtual University formatting and plagiarism policies.  
+- Ensure every step is completed before progressing to the next.
 </details>
 
 ## 🔍  Chapter1: - **Literature Management and Search**
