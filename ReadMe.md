@@ -631,6 +631,20 @@ Star this repo if you find it useful ⭐
 | Paint | Manual image editing |
 | [Excalidraw](https://excalidraw.com/) | Real-time idea visualization |
 
+## 🔍  Chapter5: - **📖 Paper Reading Tools**
+| Tool | Description |
+|------|-------------|
+| [Chat with PDF](https://www.chatpdf.com/) | Interact with research PDFs |
+| [PaperHive](https://paperhive.org/) | Collaborative paper reading |
+| [SciSpace Copilot](https://typeset.io/) | AI copilot for PDFs |
+| [Elicit](https://elicit.org/) | Ask questions about papers |
+| [Wiseone](https://www.wiseone.io/) | AI assistant for reading |
+| [Moonlight](#) | AI reader with tutorials |
+| [NotebookLM](https://notebooklm.google/) | Google’s research notebook |
+| [ExplainPaper](https://www.explainpaper.com/) | Simplifies complex papers |
+| [Okular](https://okular.kde.org/) | Research PDF annotation |
+| [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
+
 
 
 
