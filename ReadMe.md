@@ -711,7 +711,7 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>💻 Virtual University Thesis Workflow</h2> </summary>
-## 🎓 Virtual University Thesis Workflow
+   
 ## A step-by-step guide to completing your Final Year Project (Thesis) at Virtual University — including templates, documents, deadlines, and submission instructions.**
 
 | 🧭 Step | 📋 Task | 🗂️ Required Documents | 🔗 Resources |
