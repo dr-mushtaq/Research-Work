@@ -550,9 +550,7 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📕 Research Resources </h2> </summary>
 
-<details>
-<summary><h2>🔍 Literature Management and Search</h2></summary>
-
+## 🔍  Chapter1: - **Literature Management and Search**
 | No. | Tool | Description |Feedback|
 |-----|------|-------------|--------|-------|
 | 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network |
