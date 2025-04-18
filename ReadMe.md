@@ -115,14 +115,15 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Find Right Journal</h2> </summary>
- 
-|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| Paper |
-|---|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
-|[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+<summary> <h2>🔎 Find the Right Journal</h2> </summary>
+
+| # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | 📄 Relevant Paper | ✅ Recommendation |
+|---|------------------|------------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|----------------------|----------------------------|----------------------|
+| 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | *Enhanced deep learning algorithm development to detect pain intensity from facial expression images* | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
+| 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | *Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification* | ⚠️ **Selective** – Top-tier, highly competitive |
 
 </details>
+
 
 
 <details> 
