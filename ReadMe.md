@@ -121,7 +121,7 @@ Star this repo if you find it useful ⭐
 |---|------------------|------------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|----------------------|----------------------|
 | 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
 | 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | ⚠️ **Selective** – Top-tier, highly competitive |
-
+| 3 | [🌐 **Iranian Journal of Science and Technology – Transactions of Electrical Engineering**](https://link.springer.com/journal/40996) | Electrical Engineering, Signal Processing, Machine Learning | Iran | Quarterly | 1.5 | SCIE, Q3 | Springer Nature | Subscription | N/A | Easy | ✅ **Recommended** – Suitable for regional research with moderate impact |
 </details>
 
 
