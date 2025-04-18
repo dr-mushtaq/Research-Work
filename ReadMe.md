@@ -582,6 +582,29 @@ Star this repo if you find it useful ⭐
 | 28 | [ResearchPal](https://researchpal.ai/) | Refine and polish research drafts |
 | 29 | [Outread.ai](https://www.outread.ai/) | Find the perfect paper for your review |
 
+
+## 🔍  Chapter2: - **📝 Writing and Brainstorming**
+| No. | Tool | Description |
+|-----|------|-------------|
+| 1 | [Article Rewriter](https://articlerewriter.ai/) | Paraphrase research drafts |
+| 2 | [WordfixerBot](https://wordfixerbot.com/) | Grammar and sentence fixing |
+| 3 | [Voila](https://voila.ai/) | AI for academic brainstorming |
+| 4 | [QuillBot](https://quillbot.com/) | Rewriting, paraphrasing, summarizing |
+| 5 | [Overleaf](https://www.overleaf.com/) | LaTeX-based collaborative writing |
+| 6 | [Poe](https://poe.com/) | Multi-model AI chat |
+| 7 | [Gemini](https://gemini.google.com/) | Google’s AI tool |
+| 8 | [ChatGPT](https://chat.openai.com/) | General-purpose AI writing assistant |
+| 9 | [MyEssayWriter](https://myessaywriter.ai/) | Essay and academic writing |
+| 10 | [Groq](https://groq.com/) | Open-source writing tools |
+| 11 | [AI Humanizer](https://aihumanizer.ai/) | Humanize AI-generated content |
+| 12 | [Khoj](https://www.khoj.app/) | Research writing & idea manager |
+| 13 | [Storm](https://stormboard.com/) | Collaborative paper planning |
+| 14 | [Paperpal](https://paperpal.com/) | Academic writing tool |
+| 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
+| 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
+| 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
+
+
 ## 👁️ Chapter1: - **Writing Tools**
 | Title/link| Description | Reading Status |
 |---|---|---|
