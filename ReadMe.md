@@ -709,6 +709,13 @@ Star this repo if you find it useful ⭐
 
 </details>
 
+<details> 
+<summary> <h2>💻 Virtual University Thesis Workflow</h2> </summary>
+
+</details>
+
+## 🔍  Chapter1: - **Literature Management and Search**
+
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys)[-2](https://drive.google.com/file/d/1S3sV7Z0lXIJxjlCb_zeh8cpvC2qVMx5M/view?usp=sharing):
 
 - Fork the repository
