@@ -246,9 +246,8 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)-Predicting Student Performance in e-learning system</h2> </summary>
-  
+
 ## 📚Chapter: 1  - **Literature Review**
- 
 | Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|Limitations |Future Directions|
 | --- | --- | --- | --- | --- | --- |---|---|---|---|
 | Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
@@ -551,8 +550,8 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📕 Research Resources </h2> </summary>
 
 ## 🔍  Chapter1: - **Literature Management and Search**
-| No. | Tool | Description |Feedback|
-|-----|------|-------------|--------|-------|
+| No. |             Tool                    |              Description                       |Feedback|
+|-----|-------------------------------------|------------------------------------------------|--------|
 | 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network |
 | 2 | [Naimai - Tutorial 1](#) | Literature management tutorial |
 | 3 | [Docear](https://www.docear.org/) | Academic literature management tool |
