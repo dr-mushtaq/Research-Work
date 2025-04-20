@@ -717,6 +717,11 @@ Star this repo if you find it useful ⭐
 |[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
 |[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 
+## 👁️ Chapter1: - **Free Courses**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅ 1-ChatGPT Prompt Engineering for Researchersn**](https://www.coursera.org/specializations/natural-language-processing)|DeepLearning.AI	| InProgress|
+
 </details>
 
 <details> 
