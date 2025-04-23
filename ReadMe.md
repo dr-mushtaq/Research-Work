@@ -1,6 +1,5 @@
 
 ## **Research collaborate 📚🤝**
-[🔍 Search This Repo](https://github.com/dr-mushtaq/Research-Work/search?q=)
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Research-Work/blob/main/1742637451222.jpg"></a>
 </p>
