@@ -9,6 +9,10 @@ Welcome to the A-Z Guide to Research Work repository! This space is dedicated to
 
 [![Ask Question](https://img.shields.io/badge/Ask_Research_Questions-Here-blue?style=for-the-badge)](https://github.com/dr-mushtaq/Research-Work/discussions/new?category=q-a)
 
+## 🔗 Quick Access
+[🔍 Search Papers](https://github.com/dr-mushtaq/Research-Work/search?q=) | 
+[💬 Discussion Forum](https://github.com/dr-mushtaq/Research-Work/discussions/categories/q-a)
+
 ## **Overview👋🛒**
 
 This repository serves as a collaborative platform for:
