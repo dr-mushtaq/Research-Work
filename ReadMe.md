@@ -7,6 +7,8 @@
 
 Welcome to the A-Z Guide to Research Work repository! This space is dedicated to fostering collaboration among students, researchers, and professors in advancing academic research and projects. Whether you're looking to co-author a paper, contribute to a research project, or gain insights into cutting-edge methodologies, this repository is your go-to resource.
 
+[![Ask Question](https://img.shields.io/badge/Ask_Research_Questions-Here-blue?style=for-the-badge)](https://github.com/dr-mushtaq/Research-Work/discussions/new?category=q-a)
+
 ## **Overview👋🛒**
 
 This repository serves as a collaborative platform for:
