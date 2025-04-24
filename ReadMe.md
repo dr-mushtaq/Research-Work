@@ -381,6 +381,15 @@ Star this repo if you find it useful ⭐
 | [**🌐 5. Intelligent phishing detection scheme using deep learning algorithms**](https://www.emerald.com/insight/content/doi/10.1108/JEIM-01-2020-0036/full/html/1000) | Adebowale, 2023 | Developing a real-time tool for detecting phishing websites | High true positive rate, handles large-scale datasets effectively, robust performance | Logistic regression may struggle with overfitting, linear assumptions, and scalability issues | ANN, Random Forest, SVM, Logistic Regression, MultinomialNB | ANN - 87.34%, Random Forest - 89.63%, SVM - 89.84%, Logistic Regression - 96.37%, MultinomialNB - 95.75% |
 | [**🌐 6. Intelligent phishing detection scheme using deep learning algorithms**](https://aru.figshare.com/articles/journal_contribution/Intelligent_Phishing_Detection_Scheme_Using_Deep_Learning_Algorithms/23764638/1/files/42200364.pdf) | Ahammad, 2022 | Developed a deep learning-based phishing detection system combining CNN and LSTM algorithms with 25s detection time | Receive 93.28% accuracy. Recall,precision and Fmeasure take into consideration. | This is taking 50 seconds to predict the webiste. Time-consuming for image processing methods. The model requires a significant amount of data for training and may be computationally expensive. | CNN,LSTM,IPDS | CNN - 92.55, LSTM - 92.79, IPDS - 93.28 |
 
+Title: Literature Review - Chatbot Summarization
+- [ ] Collect 10 recent papers (2021-2024)
+- [ ] Identify research gaps
+- [ ] Fill out Lit Review Table
+Assigned to: @username  
+Deadline: May 10, 2025
+Labels: `NLP`, `Chatbot`, `In Progress`
+
+
   
 ## 📚Chapter: 2  - **Thesis/Publication**
  
