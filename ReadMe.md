@@ -335,9 +335,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |---|---|---|---|---|---|---|
 | BERT (baseline)	| 41.45	| N/A	|N/A| Moderate| N/A| N/A|
 | T5 (50 epochs)	| 53.13| 41.03|		50.85|	Coherent but long	| 0.0972669124603271|
-| T5 (250 epochs)	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
-| XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
-| RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
+| T5 (250 epochs)	| 59.41	| 47.93	| 56.16	| Best overall| 0.0274648666381835	| 0.0030479431152343|
 
 ## 🧠 Novel Contributions
 - Developed a hybrid architecture combining T5 and BERT for summarization.
