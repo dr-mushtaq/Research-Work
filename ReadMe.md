@@ -311,6 +311,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 
 ### 🎯 Research Questions
 1- How to implement a hybrid method for text summarization that combines the Word Frequency Algorithm with transformer models like T5 and BART?
+
 2- How to enhance the accuracy of abstractive models T5 and BART by fine-tuning on a self-created dataset?
   
 ## 📚Chapter: 1  - **Literature Review**
