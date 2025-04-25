@@ -304,7 +304,11 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization</h2> </summary>
+<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization</h2> </summary>
+
+### 🎯 Research Objective
+This thesis proposes a hybrid text summarization model combining T5 and BERT to enhance summary coherence and factual accuracy, benchmarked on a custom dataset.
+
   
 ## 📚Chapter: 1  - **Literature Review**
  
