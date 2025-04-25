@@ -349,7 +349,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) |---|---|Streamlit,T5, BART,NLTK|[Notbook](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila-app5.py)|
 
-## 📋 Student Task Tracker – [Student Name] ([Year-Year])
+## 📋 Student Task Tracker 
 
 ### 🎯 Thesis Title: *[Enter title here]*
 
@@ -383,7 +383,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Khalid Hussain(2024-)</h2> </summary>
+<summary> <h2>🔎Thesis-Muhammad Usaman(2024-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
 |Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations |Future Directions|
@@ -393,6 +393,28 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
 |[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+
+## 📋 Student Task Tracker 
+
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| Topic Dataset updattion                | YYYY-MM-DD       | 🟡 In Progress     | — |
+| Literature Review Table                | YYYY-MM-DD       | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🟡 In Progress    | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 
 ## 📚Chapter: 1  - **Thesis/Publication**
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
