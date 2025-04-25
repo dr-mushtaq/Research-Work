@@ -329,6 +329,16 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |[**🌐1- Final Synopsis**](https://github.com/dr-mushtaq/Research-Work/blob/main/Synopsis/NABILA%20ANUM_Synopsis_ms220400077.docx) | 22 Aprile 2025 | Content 3 |---|---|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Dataset/Nabila_dataset.xlsx)|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_T5.ipynb)[-2](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_bert.ipynb)|
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
+##  📚Chapter: 3  **🔍 Benchmark Comparison Table**
+
+| Model  | ROUGE-1 | ROUGE-2  |  ROUGE-L |  Summary Quality | training_time  |  inference_time |
+|---|---|---|---|---|---|---|
+| BERT (baseline)	| 41.45	| N/A	| Moderate| N/A| N/A| N/A|
+| T5 (50 epochs)	| 0.7058823529411765| 0.6923076923076923| 0.72|	0.6808510638297872|	0.0005688667297363	| 0.0972669124603271|
+| T5 (250 epochs)	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
+| XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
+| RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
+
 ## 🧠 Novel Contributions
 - Developed a hybrid architecture combining T5 and BERT for summarization.
 - Created a custom annotated dataset (Nabila_dataset.xlsx).
