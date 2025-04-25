@@ -399,9 +399,9 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 
 | ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
 |----------------------------------------|------------------|------------------|--------------------|
-| Topic Dataset updattion                | YYYY-MM-DD       | 🟡 In Progress     | — |
+| Topic Dataset updattion                | 2025-04-25       | 🟡 In Progress     | — |
 | Literature Review Table                | YYYY-MM-DD       | 🟡 In Progress     |       | [Lit Table](#) |
-| Dataset Collection                     | YYYY-MM-DD       | 🟡 In Progress    | [Dataset.xlsx](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
 | Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
 | Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
 | Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
