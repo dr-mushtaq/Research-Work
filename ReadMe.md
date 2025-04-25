@@ -349,6 +349,29 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) |---|---|Streamlit,T5, BART,NLTK|[Notbook](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila-app5.py)|
 
+## 📋 Student Task Tracker – [Student Name] ([Year-Year])
+
+### 🎯 Thesis Title: *[Enter title here]*
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| Topic Finalization                     | YYYY-MM-DD       | ✅ Completed      | — |
+| Literature Review Table                | YYYY-MM-DD       | ✅ Completed      | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🟡 In Progress    | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
+
 ## 📚Chapter: 3  - **Resources**
 -  [**Question Generation**](https://github.com/KristiyanVachev/Question-Generation/tree/master)
 -  [**awesome-text-summarizatio**](https://github.com/icoxfog417/awesome-text-summarization)
