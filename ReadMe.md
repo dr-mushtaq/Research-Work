@@ -623,7 +623,7 @@ Labels: `NLP`, `Chatbot`, `In Progress`
 | 10 | [Groq](https://groq.com/) | Open-source writing tools |
 | 11 | [AI Humanizer](https://aihumanizer.ai/) | Humanize AI-generated content |
 | 12 | [Khoj](https://www.khoj.app/) | Research writing & idea manager |
-| 13 | [Storm](https://stormboard.com/) | Collaborative paper planning |
+| 13 | [✅Storm](https://storm.genie.stanford.edu/) | Paper writing |
 | 14 | [Paperpal](https://paperpal.com/) | Academic writing tool |
 | 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
 | 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
