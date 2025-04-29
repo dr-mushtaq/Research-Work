@@ -784,6 +784,7 @@ Labels: `NLP`, `Chatbot`, `In Progress`
 - [ENAGO Journal Finder](https://www.enago.com/)
 - [Researcher.Life Journal Recommender](https://researcher.life/)
 - [JournalGuide](https://www.journalguide.com/)
+- [trinka](https://www.trinka.ai/)
 
 ## 🔍  Chapter12: - **📚 Free Paper Access**
 | Tool | Description |
