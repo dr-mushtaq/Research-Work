@@ -459,8 +459,8 @@ Title: Literature Review - Chatbot Summarization
 
 | ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
 |----------------------------------------|------------------|------------------|--------------------|
-| 1- Prepare all your Docuemtns  (Literature Reveiwer Table, Thesis, Synposes, Senero Diagram             | 2025-05-23       | 🟡 In Progress           |  Go to Section 💻 Virtual University Thesis Workflow |
-| 2-  Topic Finlized                |  2025-05-23      | 🟡 In Progress     |       | [Lit Table](#) |
+| 1- Prepare all your documents: Literature Review Table, Thesis, Synopsis, Scenario Diagram.             | 2025-05-23       | 🟡 In Progress           |  Go to Section 💻 Virtual University Thesis Workflow |
+| 2- Finalize the research topic               |  2025-05-23      | 🟡 In Progress     |       | [Lit Table](#) |
 | Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
 | Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
 | Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
