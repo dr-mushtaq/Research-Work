@@ -543,7 +543,7 @@ Title: Literature Review - Chatbot Summarization
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2024-)- nabila Rafique</h2> </summary>
+<summary> <h2>🔎Thesis-Shakeel Ahmed (2025-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -555,12 +555,40 @@ Title: Literature Review - Chatbot Summarization
 |[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
 |[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
 
+Title: Literature Review - Chatbot Summarization
+- [ ] Collect 150 recent papers (2021-2025)
+- [ ] Identify research gaps
+- [ ] Fill out Lit Review Table
+- [ ] Write a short paragraph in the Literature Review section of the thesis for each paper you have read."
+
+## 📋 Student Task Tracker 
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| 1- Prepare all your documents: Literature Review Table, Thesis, Synopsis, Scenario Diagram.             | 2025-05-23       | 🟡 In Progress           |  Go to Section 💻 Virtual University Thesis Workflow |
+| 2- Finalize the research topic               |  2025-05-23      | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 ## 📚Chapter: 1  - **Thesis/Publication**
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
 |---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
+
 
 ## 📚Chapter: 3  - **Apps Details**
  
