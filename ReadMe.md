@@ -446,7 +446,9 @@ Star this repo if you find it useful ⭐
 
 | Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
-|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/haris-lutafullah/Research-Work/blob/main/Metro_Interstate_Traffic_Volume.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/haris-lutafullah/Research-Work/blob/main/traffic_prediction_system.ipynb)|Medium|Diagram| Final Thesis|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Q1: How to road traffic prediction can be enhanced by using the Hybrid approach of Deep Learning time series model and temporal features?
+Q1.1: How does combining Time Series Analysis along with Deep Learning models and incorporation of temporal features impact the forecasting accuracy of the model?
+|Research Gap|[1](https://github.com/haris-lutafullah/Research-Work/blob/main/Metro_Interstate_Traffic_Volume.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/haris-lutafullah/Research-Work/blob/main/traffic_prediction_system.ipynb)|Medium|Diagram| Final Thesis|
 
 
  
