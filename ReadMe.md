@@ -437,7 +437,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis - Afzaal Javaid</h2> </summary>
+<summary> <h2>🔎Thesis - Kashif Latif(2025-)</h2> </summary>
 
 ## 📚Chapter: 1  - **Literature Review**
 
@@ -457,6 +457,26 @@ Title: Literature Review - Chatbot Summarization
 Assigned to: @username  
 Deadline: May 10, 2025
 Labels: `NLP`, `Chatbot`, `In Progress`
+
+## 📋 Student Task Tracker 
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| Prepare all your Docuemtns              | 2025-04-25       | 🟡 In Progress           | — |
+| 1- Literature Review Table                | YYYY-MM-DD       | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
 
 
   
