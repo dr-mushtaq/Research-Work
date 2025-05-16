@@ -847,7 +847,7 @@ Labels: `NLP`, `Chatbot`, `In Progress`
 >
 ## ⚙️ Things to Note
 
-* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* 📅 Weekly Thesis Discussions:🕒 Every Friday | 3:00 PM – 5:00 PM|📍 Platform: Skype or team (ID: themushtaq48)
 *  Plagiarism rules: For synopsis: 15% is acceptable as HEC rule and individuals source less than 2% 
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
