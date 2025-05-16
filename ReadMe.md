@@ -462,7 +462,7 @@ Labels: `NLP`, `Chatbot`, `In Progress`
 
 | ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
 |----------------------------------------|------------------|------------------|--------------------|
-| Prepare all your Docuemtns              | 2025-04-25       | 🟡 In Progress           | — |
+| 1- Prepare all your Docuemtns  (Literature Reveiwer Table, Thesis, Synposes, Senero Diagram             | 2025-04-25       | 🟡 In Progress           | — |
 | 1- Literature Review Table                | YYYY-MM-DD       | 🟡 In Progress     |       | [Lit Table](#) |
 | Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
 | Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
