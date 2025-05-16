@@ -454,7 +454,17 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+##  📚Chapter: 2  **Model metrics benchmarks**
 
+| Model               | MSE     | RMSE    | MAE     | MAPE     | R²      |
+|---------------------|---------|---------|---------|----------|---------|
+| LSTM                | 0.00337 | 0.05808 | 0.03912 | 15.31766 | 0.95382 |
+| ARIMA               | 0.07302 | 0.27022 | 0.23653 | 171.01253| 0.00044 |
+| TSMixer             | 0.00910 | 0.09539 | 0.07183 | 30.15966 | 0.87543 |
+| DasNet              | 0.00462 | 0.06796 | 0.04793 | 181.96070| 0.93678 |
+| TimeMixer           | 0.00494 | 0.07026 | 0.04956 | 21.14279 | 0.93243 |
+| Hybrid LSTM-TSMixer | 0.00323 | 0.05680 | 0.03807 | 14.18662 | 0.95584 |
+| MSTIM (Quin et al., 2025) | 0.10480 | 0.32370 | 0.21200 | N/A      | N/A     |
 ## 📚Chapter: 3  - **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
