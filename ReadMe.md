@@ -454,6 +454,7 @@ Title: Literature Review - Chatbot Summarization
 - [ ] Collect 150 recent papers (2021-2025)
 - [ ] Identify research gaps
 - [ ] Fill out Lit Review Table
+- [ ] Write a short paragraph in the Literature Review section of the thesis for each paper you have read."
 
 ## 📋 Student Task Tracker 
 
