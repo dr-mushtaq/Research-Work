@@ -451,12 +451,9 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 | [**🌐 6. Intelligent phishing detection scheme using deep learning algorithms**](https://aru.figshare.com/articles/journal_contribution/Intelligent_Phishing_Detection_Scheme_Using_Deep_Learning_Algorithms/23764638/1/files/42200364.pdf) | Ahammad, 2022 | Developed a deep learning-based phishing detection system combining CNN and LSTM algorithms with 25s detection time | Receive 93.28% accuracy. Recall,precision and Fmeasure take into consideration. | This is taking 50 seconds to predict the webiste. Time-consuming for image processing methods. The model requires a significant amount of data for training and may be computationally expensive. | CNN,LSTM,IPDS | CNN - 92.55, LSTM - 92.79, IPDS - 93.28 |
 
 Title: Literature Review - Chatbot Summarization
-- [ ] Collect 10 recent papers (2021-2024)
+- [ ] Collect 150 recent papers (2021-2025)
 - [ ] Identify research gaps
 - [ ] Fill out Lit Review Table
-Assigned to: @username  
-Deadline: May 10, 2025
-Labels: `NLP`, `Chatbot`, `In Progress`
 
 ## 📋 Student Task Tracker 
 
