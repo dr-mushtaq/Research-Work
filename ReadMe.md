@@ -833,6 +833,7 @@ Title: Literature Review - Chatbot Summarization
 - [Researcher.Life Journal Recommender](https://researcher.life/)
 - [JournalGuide](https://www.journalguide.com/)
 - [trinka](https://www.trinka.ai/)
+- [ExCITATION journal ranking in Google Scholar](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia/support?pli=1)
 
 ## 🔍  Chapter12: - **📚 Free Paper Access**
 | Tool | Description |
