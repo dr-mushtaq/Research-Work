@@ -118,6 +118,7 @@ Star this repo if you find it useful ⭐
    - [**Structuring your article correctly**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/structuring-article-correctly)
    - [**Manuscript Writing and High-quality Publishing**](https://www.youtube.com/playlist?list=PLTfj4qMbtEiqafRpVXD5ga5UFSo9BC19k)
    - [**How to write Research Paper**](https://mushtaqmsit.substack.com/p/how-to-write-paper)
+   - [**𝐇𝐨𝐰 𝐭𝐨 𝐖𝐫𝐢𝐭𝐞 𝐚 𝐋𝐢𝐭 𝐑𝐞𝐯𝐢𝐞𝐰 𝐢𝐧 6 𝐒𝐭𝐞𝐩𝐬**](https://drive.google.com/file/d/1PoGtyclFZsRq-1BSal9eFXHuFd1nSJ-N/view?usp=sharing)
 </details>
 
 <details>
