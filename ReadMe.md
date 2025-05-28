@@ -844,6 +844,12 @@ Title: Literature Review - Chatbot Summarization
 | [Unpaywall](https://unpaywall.org/) | Free versions of paywalled papers |
 
 
+## 🔍  Chapter12: - **📚 Mind Map**
+| Tool | Description |
+|------|-------------|
+| [✅Mind Map Wizard](https://mindmapwizard.com/) | Create Mind of any topic |
+
+
 ## 👁️ Chapter1: - **Writing Tools**
 | Title/link| Description | Reading Status |
 |---|---|---|
