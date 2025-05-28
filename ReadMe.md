@@ -785,6 +785,7 @@ Title: Literature Review - Chatbot Summarization
 | [ExplainPaper](https://www.explainpaper.com/) | Simplifies complex papers |
 | [Okular](https://okular.kde.org/) | Research PDF annotation |
 | [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
+| [✅ Consensus](https://consensus.app/) |Consensus is an AI-powered search engine designed to help users find and understand scientific research papers quickly and efficiently|
 
 ## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
 | Tool | Description |
