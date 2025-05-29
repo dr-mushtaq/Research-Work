@@ -722,6 +722,7 @@ Title: Literature Review - Chatbot Summarization
 | 27 | [Phind](https://www.phind.com/) | AI for developer-oriented search |
 | 28 | [ResearchPal](https://researchpal.ai/) | Refine and polish research drafts |
 | 29 | [Outread.ai](https://www.outread.ai/) | Find the perfect paper for your review |
+| 30 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
 
 
 ## 🔍  Chapter2: - **📝 Writing and Brainstorming**
@@ -744,6 +745,7 @@ Title: Literature Review - Chatbot Summarization
 | 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
 | 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
 | 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
+| 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
 
 ## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
 | No. | Tool | Description |
