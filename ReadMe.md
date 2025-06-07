@@ -726,8 +726,8 @@ Title: Literature Review - Chatbot Summarization
 
 
 ## 🔍  Chapter2: - **📝 Writing and Brainstorming**
-| No. | Tool | Description |
-|-----|------|-------------|
+| No. | Tool | Description | Paid/Unp|
+|-----|------|-------------|-----|
 | 1 | [Article Rewriter](https://articlerewriter.ai/) | Paraphrase research drafts |
 | 2 | [WordfixerBot](https://wordfixerbot.com/) | Grammar and sentence fixing |
 | 3 | [Voila](https://voila.ai/) | AI for academic brainstorming |
@@ -745,7 +745,9 @@ Title: Literature Review - Chatbot Summarization
 | 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
 | 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
 | 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
-| 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
+| 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |Unpaid|
+| 19 | [✅answerthis](https://answerthis.io/?fpr=razia18) | Answers your research questions with citations |Freemium|
+
 
 ## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
 | No. | Tool | Description |
