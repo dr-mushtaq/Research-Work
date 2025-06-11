@@ -120,6 +120,7 @@ Star this repo if you find it useful ⭐
    - [**How to write Research Paper**](https://mushtaqmsit.substack.com/p/how-to-write-paper)
    - [**𝐇𝐨𝐰 𝐭𝐨 𝐖𝐫𝐢𝐭𝐞 𝐚 𝐋𝐢𝐭 𝐑𝐞𝐯𝐢𝐞𝐰 𝐢𝐧 6 𝐒𝐭𝐞𝐩𝐬**](https://drive.google.com/file/d/1PoGtyclFZsRq-1BSal9eFXHuFd1nSJ-N/view?usp=sharing)
    - [**Understanding different types of academic papers: What, Why, and When**](https://www.teachjourney.com/understanding-different-types-of-academic-papers-what-why-and-when/)
+   - [**Indexing to Impact: Tracking Journal Progress with the Help of Journal Metrics**](https://blog.mdpi.com/2025/06/10/indexing-to-impact/?utm_source=facebook&utm_medium=social_corp&utm_campaign=majorcampaign_if25_interview_lucablog&fbclid=IwY2xjawK2PEpleHRuA2FlbQIxMQBicmlkETFzd0JpRHNTQmlBODFpV3c1AR4JFGnY9mbTFdTDLfcWQ0iBO-1ilGGqBWnwpWquF61G-CDk0lM7IQT4TpFT4A_aem_dlVQk8XeStVScLbSIOlIWQ)
 </details>
 
 <details>
