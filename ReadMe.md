@@ -511,7 +511,7 @@ Title: Literature Review - Chatbot Summarization
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2024-)-Imran Yousaf</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-)-Haleema Inam Paracha</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
