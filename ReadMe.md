@@ -725,6 +725,8 @@ Title: Literature Review - Chatbot Summarization
 | 28 | [ResearchPal](https://researchpal.ai/) | Refine and polish research drafts |
 | 29 | [Outread.ai](https://www.outread.ai/) | Find the perfect paper for your review |
 | 30 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
+| 31 | [✅Researchrabbitapp](https://researchrabbitapp.com/home) | Find and Manage literature Review |
+
 
 
 ## 🔍  Chapter2: - **📝 Writing and Brainstorming**
