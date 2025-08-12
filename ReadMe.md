@@ -760,6 +760,7 @@ Title: Literature Review - Chatbot Summarization
 | 2 | [Khoj](https://www.khoj.app/) | Research grammar support |
 | 3 | [Hemingway App](https://hemingwayapp.com/) | Improve clarity and structure |
 
+
 ## 🔍  Chapter4: - **📝 🧠 📌 Citations**
 | No. | Tool | Description |
 |-----|------|-------------|
@@ -816,6 +817,9 @@ Title: Literature Review - Chatbot Summarization
 |------|-------------|
 | [Copyscape](https://www.copyscape.com/) | Plagiarism detection |
 | [Turnitin (via institutions)](https://www.turnitin.com/) | Academic integrity checker |
+| ✅[walterwrites.ai](https://walterwrites.ai/) | most accurate one i tested. catches ai from all the big models without throwing false positives on my own writing. |
+| [✅Proofademic.ai](https://proofademic.ai/) | Built for educators students and researchers so you this one is going to make this list |
+| [✅originality.ai](https://originality.ai/)) | aid tool, but it does ai detection + plagiarism in one scan. good for long-form seo or agency work |
 
 ## 🔍  Chapter9: - **🗒️ Note-Taking Tools**
 | Tool | Description |
@@ -939,6 +943,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
