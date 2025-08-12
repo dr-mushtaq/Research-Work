@@ -743,7 +743,7 @@ Title: Literature Review - Chatbot Summarization
 | 9 | [MyEssayWriter](https://myessaywriter.ai/) | Essay and academic writing |
 | 10 | [Groq](https://groq.com/) | Open-source writing tools |
 | 11 | [AI Humanizer](https://aihumanizer.ai/) | Humanize AI-generated content |
-| 12 | [Khoj](https://www.khoj.app/) | Research writing & idea manager |
+| 12 | [✅Khoj](https://khoj.dev/) | Research writing & idea manager |
 | 13 | [✅Storm](https://storm.genie.stanford.edu/) | Paper writing |
 | 14 | [Paperpal](https://paperpal.com/) | Academic writing tool |
 | 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
@@ -939,6 +939,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
