@@ -612,34 +612,120 @@ Title: Literature Review - Chatbot Summarization
 <summary> <h2>🔎Thesis-(2024-0)-Haris</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
- 
-|Title| Published Date| Research Questions| Model performance metrics|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category| Limitations|Future Directions|
-|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Identifying Interrelated Factors of Fatal and Injury Traffic Accidents Using Association Rules**](https://dergipark.org.tr/en/download/article-file/3379204) | 2023  | What are the Interrelated Factors of Fatal Injury | Apriori algorithm (Support=0.05,  Confidence=0.70 and Lift >1) | NA | Introduction, Methodology and the description of confidence, support and lift  |
-|[**🌐2- Road traffic accidents analysis using association rule mining and descriptive analytics**](https://pubs.aip.org/aip/acp/article-abstract/2508/1/020003/2878852)| 2023 | What are the characteristics of road traffic accidents | FP Growth Algorithm (Support=0.45,  Confidence=0.95 and Lift >1) | NA | Introduction|
-|[**🌐3- A Novel Approach to Avoid Road Traffic Accidents and Develop Safety Rules for Traffic Using Crash Prediction Model Technique**](https://link.springer.com/chapter/10.1007/978-981-19-9512-5_34) | 2023  | How can Crash Prediction Models (CPMs) developed through machine learning approaches contribute to minimizing road traffic accidents and developing effective safety rules for traffic? | Random Forest achieves the highest values of accuracy and precision of around 60% | NA | Introduction, Related work | 
-|[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
-|[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
 
-## 📚Chapter: 1  - **Thesis/Publication**
- 
-|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
-|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
-|[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+| Title | Category | Journal / Conf. | Year | Sub-domain | Problem Addressed | Proposed Solution | Techniques Used | Input Features | Output Variables | Evaluation Metrics | Dataset Used | Analysis / Comparison | Research Gap | Future Directions | Summary / Notes |
+|-------|----------|------------------|------|-------------|--------------------|--------------------|------------------|------------------|-------------------|---------------------|----------------|------------------------|----------------|---------------------|------------------|
+| Short Term Traffic Flow Forecasting by Time Series Analysis | Time Series | ICTE | 2019 | Urban Traffic Forecasting | Limited use of statistical models in urban traffic | Seasonal ARIMA for short-term prediction | ARIMA, SARIMA, decomposition | Timestamped traffic volume | Short-term traffic flow | MAE, RMSE | Urban road dataset | ARIMA vs SARIMA | Ignores weather/holiday data | Use deep learning with external features | Basic SARIMA-based forecast |
+| Short-Term Traffic Flow Prediction Using LSTM BiLSTM Method | Deep Learning | IEEE Access | 2021 | Highway Traffic | Missing directional and temporal context | Hybrid LSTM-BiLSTM approach | LSTM, BiLSTM, sequence learning | Historical traffic, timestamps | Traffic flow prediction | RMSE, MAPE | UCI Traffic Dataset | Compared RNN variants | No weather or spatial factors | Include spatial & weather-aware models | Direction-aware sequence model |
+| Flophet: A Novel Prophet-Based Model for Traffic Flow Prediction in VANETs | Hybrid Model | Wireless Networks | 2022 | VANET Traffic | Prophet lacks flexibility for traffic trends | Enhanced Prophet with tuning | Prophet + trend/seasonality tuning | Temporal inputs (week/day) | Flow rate per time window | RMSE, MAE | Simulated VANET dataset | Compared with Prophet, ARIMA | Lacks external feature modeling | Add mobility and real-time signals | Tuned Prophet variant |
+| Hyper-Flophet: A Neural Prophet-Based Model for Traffic Flow Forecasting | Hybrid Model | Neural Comp. & Apps | 2023 | Urban Road Forecasting | Handling nonlinear patterns and fluctuations | Neural Prophet + GRU + Decomposition | Neural Prophet, GRU | Historical + holiday + weather | Traffic volume forecast | RMSE, MAE, R² | Metro Interstate Dataset | Compared LSTM, ARIMA, TimeMixer | Needs generalization to other sets | Generalize & extend multi-step | Statistical + neural hybrid |
+| Machine Learning and Statistical Predictive Modeling for Road Traffic Flow | ML + Statistics | Procedia CS | 2020 | Urban Roads | ML vs statistical performance comparison | Evaluated RF, SVM, ARIMA | RF, SVM, DT, ARIMA | Hourly traffic data | Future traffic volume | MAE, RMSE | PeMS dataset | Multi-model benchmark | No deep learning used | Explore hybrid DL + ML | Classic vs ML benchmarking |
+| Hybrid Time-Series Forecasting Models for Traffic Flow Prediction | Hybrid Deep Learning | Sensors (MDPI) | 2022 | Urban Traffic | Small data, need accurate predictions | Hybrid ARIMA + LSTM + Prophet | ARIMA, LSTM, Prophet | Lagged traffic data | Short-term flow | MAE, RMSE, MAPE | UCI Traffic Dataset | Compared hybrid vs solo models | No external data used | Add weather, events, lag features | Multimodel fusion |
+| Long-Short-Combination (LSC) Framework | Deep Learning | IEEE T-ITS | 2021 | Spatiotemporal | Long vs short-term dependency handling | LSC with fusion of CNN and GRU | CNN, BiLSTM, GRU, attention | Spatial + temporal patterns | Flow at given interval | RMSE, MAE | Beijing ring road | Compared DeepST, ST-ResNet | High computational load | Use lighter attention methods | Spatiotemporal fusion |
+| TimeMixer for Long-Term Traffic Forecasting | Transformer-Based | arXiv | 2023 | Transformer | Capturing long-term dependencies | MLP-based TimeMixer model | TimeMixer (token mixing) | Historical traffic, holidays | Long-term forecast | RMSE, MAE, R² | Metr-LA, PeMS-BAY | Compared Informer, Autoformer | No spatial encoding | Add spatial components | Fast token-based encoder |
+| TSMixer: Temporal MLP for Time-Series Forecasting | Transformer-Variant | NeurIPS | 2023 | Uni/Multivariate Time Series | Light MLP-based forecasting | TSMixer with instance mixing | Temporal MLP | Historical features | Multi-step forecast | MAPE, MAE, RMSE | ETT, M4, PeMS | Compared LSTM, DLinear | No spatial context | Integrate spatial graph model | Efficient MLP traffic model |
+| DASNet: Dual-Attention Spatiotemporal Network | Spatiotemporal DL | IEEE T-ITS | 2023 | Urban Traffic | Long-term spatiotemporal learning | Dual attention on space/time | CNN, LSTM, attention | Sensor time & location data | Multi-location traffic flow | RMSE, MAE, R² | PeMSD7, METR-LA | Compared ST-GCN, ASTGCN | High computation | Edge device optimization | Dual-attention for sensors |
+| Hybrid Model Using XGBoost and LSTM for Traffic Forecasting | Hybrid ML-DL | Elsevier | 2023 | Urban Highways | Combine external + sequential data | Hybrid XGBoost + LSTM | LSTM, XGBoost | Weather, holiday, timestamp | Short-term traffic volume | RMSE, MAE, MAPE, R² | Metro Interstate Dataset | Hybrid vs standalone models | Overfitting issues | Tune with XAI & feature tools | Sequential + tabular fusion |
+| Ablation Study on Traffic Forecasting Techniques | Comparative Study | Internal | 2024 | General Forecasting | Compare hybrid and single models | Layerwise comparison of models | LSTM, ARIMA, TSMixer, DASNet | Historical, holidays, weather | Traffic prediction | MAE, RMSE, MAPE, R² | Metro Interstate Dataset | Ablation on models/features | Needs interpretability | Use XAI and distillation | Evaluates forecasting stack |
+---
+## 📚Chapter: 2  - **Thesis/Publication**
 
-## 📚Chapter: 3  - **Apps Details**
+| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
+|---|---|---|---|---|---|---|---|---|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Q1: How to road traffic prediction can be enhanced by using the Hybrid approach of Deep Learning time series model and temporal features? Q1.1: How does combining Time Series Analysis along with Deep Learning models and incorporation of temporal features impact the forecasting accuracy of the model?|Research Gap|[1](https://github.com/haris-lutafullah/Research-Work/blob/main/Metro_Interstate_Traffic_Volume.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/haris-lutafullah/Research-Work/blob/main/traffic_prediction_system.ipynb)|Medium|Diagram| Final Thesis|
+---
+##  📚Chapter: 3  **Model Comparisions**
+| Model                   | MSE     | RMSE    | MAE     | MAPE      | R²      |
+|-------------------------|---------|---------|---------|-----------|---------|
+| LSTM                    | 0.00337 | 0.05808 | 0.03912 | 15.31766  | 0.95382 |
+| ARIMA                   | 0.07302 | 0.27022 | 0.23653 | 171.01253 | 0.00044 |
+| TSMixer                 | 0.00910 | 0.09539 | 0.07183 | 30.15966  | 0.87543 |
+| Hybrid LSTM-TSMixer     | 0.00323 | 0.05680 | 0.03807 | 14.18662  | 0.95584 |
+| Hybrid KNN-LSTM         | 0.00439 | 0.06627 | 0.04615 | 188.48302 | 0.93989 |
+| DasNet                  | 0.00462 | 0.06796 | 0.04793 | 181.96070 | 0.93678 |
+| Hybrid DasNet-LSTM      | 0.00578 | 0.07601 | 0.05473 | 187.07074 | 0.92091 |
+| TimeMixer               | 0.00494 | 0.07026 | 0.04956 | 21.14279  | 0.93243 |
+| Hybrid TimeMixer-LSTM   | 0.00494 | 0.07026 | 0.04956 | 21.14279  | 0.93243 |
+---
+##  📚Chapter: 4  **Ablation Study**
+
+### Evaluation Metrics of All Implemented Models after Removing `weather_main`
+
+| Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
+|-------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00368 | 0.06069 | 0.04304 | 17.82413  | 0.94958  |
+| SARIMA                  | 0.24817 | 0.49817 | 0.41801 | 103.82133 | -2.39711 |
+| TSMixer                 | 0.01005 | 0.10023 | 0.07584 | 31.32346  | 0.86247  |
+| Hybrid LSTM-TSMixer     | 0.00344 | 0.05868 | 0.03991 | 16.01496  | 0.95286  |
+| Hybrid KNN-LSTM         | 0.00432 | 0.06572 | 0.04549 | 189.59894 | 0.94088  |
+| DasNet                  | 0.00463 | 0.06802 | 0.04851 | 193.08089 | 0.93666  |
+| Hybrid DasNet-LSTM      | 0.00609 | 0.07806 | 0.05670 | 188.33041 | 0.91659  |
+| TimeMixer               | 0.00449 | 0.06701 | 0.04619 | 16.53425  | 0.93853  |
+| Hybrid TimeMixer-LSTM   | 0.00449 | 0.06701 | 0.04619 | 16.53425  | 0.93853  |
+
+
+
+### Evaluation Metrics of All Implemented Models after Removing `weather_description`
+
+| Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
+|-------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00347 | 0.05892 | 0.04012 | 15.83537  | 0.95248  |
+| SARIMA                  | 0.24843 | 0.49843 | 0.41826 | 103.91815 | -2.40065 |
+| TSMixer                 | 0.00896 | 0.09468 | 0.07112 | 30.78347  | 0.87730  |
+| Hybrid LSTM-TSMixer     | 0.00326 | 0.05708 | 0.03832 | 14.54455  | 0.95540  |
+| Hybrid KNN-LSTM         | 0.00425 | 0.06519 | 0.04551 | 189.02622 | 0.94183  |
+| DasNet                  | 0.00445 | 0.06674 | 0.04772 | 186.18647 | 0.93903  |
+| Hybrid DasNet-LSTM      | 0.00556 | 0.07454 | 0.05424 | 187.06973 | 0.92394  |
+| TimeMixer               | 0.00448 | 0.06693 | 0.04703 | 18.01305  | 0.93868  |
+| Hybrid TimeMixer-LSTM   | 0.00448 | 0.06693 | 0.04703 | 18.01305  | 0.93868  |
+
+
+### Evaluation Metrics of All Implemented Models after Removing `holiday` Feature
+
+| Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
+|-------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00373 | 0.06107 | 0.04125 | 14.85783  | 0.94895  |
+| SARIMA                  | 0.24817 | 0.49817 | 0.41801 | 103.82133 | -2.39711 |
+| TSMixer                 | 0.00914 | 0.09561 | 0.07159 | 29.92967  | 0.87486  |
+| Hybrid LSTM-TSMixer     | 0.00328 | 0.05731 | 0.03875 | 14.94852  | 0.95504  |
+| Hybrid KNN-LSTM         | 0.00440 | 0.06636 | 0.04621 | 186.37025 | 0.93972  |
+| DasNet                  | 0.00432 | 0.06570 | 0.04550 | 189.46190 | 0.94092  |
+| Hybrid DasNet-LSTM      | 0.00550 | 0.07413 | 0.05349 | 187.33961 | 0.92478  |
+| TimeMixer               | 0.00460 | 0.06786 | 0.04691 | 16.19087  | 0.93697  |
+| Hybrid TimeMixer-LSTM   | 0.00460 | 0.06786 | 0.04691 | 16.19087  | 0.93697  |
+---
+##  📚Chapter: 5  **Model metrics benchmarks**
+
+| Model               | MSE     | RMSE    | MAE     | MAPE     | R²      |
+|---------------------|---------|---------|---------|----------|---------|
+| LSTM                | 0.00337 | 0.05808 | 0.03912 | 15.31766 | 0.95382 |
+| ARIMA               | 0.07302 | 0.27022 | 0.23653 | 171.01253| 0.00044 |
+| TSMixer             | 0.00910 | 0.09539 | 0.07183 | 30.15966 | 0.87543 |
+| DasNet              | 0.00462 | 0.06796 | 0.04793 | 181.96070| 0.93678 |
+| TimeMixer           | 0.00494 | 0.07026 | 0.04956 | 21.14279 | 0.93243 |
+| Hybrid LSTM-TSMixer | 0.00323 | 0.05680 | 0.03807 | 14.18662 | 0.95584 |
+| MSTIM (Quin et al., 2025) | 0.10480 | 0.32370 | 0.21200 | N/A      | N/A     |
+---
+## 📚Chapter: 6  - **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
-
-## 📚Chapter: 3  - **🔎Resources**
+---
+## 📚Chapter: 7  - **🔎Resources**
 
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
    -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
    -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
+   -  [**Time Series Classification using Gramian Angular Fields and FastAI**](https://github.com/mkwatson/fastai-dl-playground/blob/main/GAF.ipynb)
+   -  [**Getting Started with Time Series**](https://otexts.com/fpp3/intro.html)
+   -  [**Time-Series-ARIMA-XGBOOST-RNN**](https://github.com/Jenniferz28/Time-Series-ARIMA-XGBOOST-RNN)
+   -  [**Time-Series-Textbooks**](https://github.com/MatthewK84/Time-Series-Textbooks)
+   -  [**TSMamba : Mamba based Time Series forecasting model**](https://www.youtube.com/watch?v=WvMDKCfJ4nM)
+   -  [**Best For ML Python**](https://github.com/ml-tooling/best-of-ml-python)
+   -  [**Time Series Forecasting: Step-by-Step Guide to Implementing ARIMA in Python**](https://www.youtube.com/watch?v=bAtgpOpAQS0&list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&index=7)
+   -  [**Time Series forcasting with pycaret building multistep prediction**](https://machinelearningmastery.com/time-series-forecasting-with-pycaret-building-multi-step-prediction-model)
 
 </details>
 
