@@ -1,13 +1,40 @@
 
-## **A-Z Guide to Research Work 👋🛒**
+## **Research collaborate 📚🤝**
 <p align="center">
-<img src="https://github.com/hussain0048/Research-Work/blob/main/Research%20Work%20(1).png"></a>
+<img src="https://github.com/dr-mushtaq/Research-Work/blob/main/1742637451222.jpg"></a>
 </p>
-Welcome to the A-Z Guide to Research Work repository! This comprehensive supplement serves as your ultimate resource for navigating the world of research, offering a comprehensive guide to understanding and implementing research papers using Python.
+
+Welcome to the A-Z Guide to Research Work repository! This space is dedicated to fostering collaboration among students, researchers, and professors in advancing academic research and projects. Whether you're looking to co-author a paper, contribute to a research project, or gain insights into cutting-edge methodologies, this repository is your go-to resource.
+
+[![Ask Question](https://img.shields.io/badge/Ask_Research_Questions-Here-blue?style=for-the-badge)](https://github.com/dr-mushtaq/Research-Work/discussions/new?category=q-a)
+
+## 🔗 Quick Access
+[🔍 Search Papers](https://github.com/dr-mushtaq/Research-Work/search?q=) | 
+[💬 Discussion Forum](https://github.com/dr-mushtaq/Research-Work/discussions/categories/q-a)
 
 ## **Overview👋🛒**
 
-The A-Z Guide to Research Work is designed to provide researchers, academics, and enthusiasts with a roadmap for conducting research and implementing findings in Python. Whether you're a novice researcher looking to learn the ropes or an experienced practitioner seeking to expand your skill set, this repository offers a wealth of resources to support your research endeavors.
+This repository serves as a collaborative platform for:
+
+1. Research Paper Collaboration – Find like-minded researchers and professors to co-author impactful research papers.
+
+2. Research Project Development – Work on real-world projects across multiple disciplines, including AI, Machine Learning, and Data Science.
+
+3. Guidance & Resources – Access tutorials, datasets, and best practices for conducting and publishing research.
+
+4. Networking Opportunities – Connect with professors, industry experts, and fellow researchers to expand your professional reach.
+
+## **Why Join This Collaboration? 🤔👋🛒**
+
+✅ Get Published – Collaborate with experienced researchers to publish in top-tier journals.
+
+✅ Enhance Your Research Skills – Gain hands-on experience with real-world projects.
+
+✅ Expand Your Network – Connect with professors, researchers, and students worldwide.
+
+✅ Access Exclusive Resources – Get step-by-step guides, datasets, and implementation notebooks.
+
+✅ Boost Your Career – Strengthen your academic and professional profile with high-impact research.
 
 ## **Features👋🛒**
 
@@ -28,6 +55,20 @@ Implementation of Research Papers: Demonstrating practical implementations of re
 ## **Usag👋🛒**
 
 Explore the repository's contents, delve into research methodologies and implementations, and leverage the provided code examples, projects, and resources to enhance your research skills and proficiency.
+
+## **Contributing🙌**
+We believe that the most effective learning and growth happen when people come together to exchange knowledge and ideas. Whether you're an experienced professional or just beginning your machine learning Research  journey, your input can be valuable to the community.
+We welcome contributions from the community! Whether it's fixing a bug, adding a new Research ideas implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
+
+**Why Contribute?**
+
+1- **Share Your Expertise**: If you have knowledge or insights in machine learning or Research, your contributions can assist others in learning and applying these concepts.
+
+2- **Enhance Your Skills**: Contributing to this project offers a great opportunity to deepen your understanding of machine learning Research paper. Writing, coding, or reviewing content will reinforce your knowledge while uncovering new areas of the field.
+
+3- **Collaborate and Connect**: Join a community of like-minded individuals committed to advancing AI education. Work with peers, receive feedback, and build connections that may open up new opportunities.
+
+4- **Make a Difference**: Your contributions can shape how others learn and engage with machine learning. By refining and expanding content, you help shape the education of future engineers and AI experts.
 
 ## **📬Contact**
    
@@ -53,25 +94,56 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Important Research Softwares, Websites, Article </h2> </summary>
 
-   - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
-   -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
-   -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://medium.com/@Coursesteach/a-comprehensive-guide-on-how-to-write-a-research-proposal-be5eb50b8fb7)
-   -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/finding-the-right-journal-for-your-research-paper-a-comprehensive-guide-1ce3665111d)
-   -  [**How To Read Research Papers**](https://medium.com/@Coursesteach/how-to-read-research-papers-8a0fbc242436)
+   - [**Save Time and Improve Research Quality with These Top 25 Free Tools**](https://substack.com/home/post/p-155765886)
+   -  [**How to respond to comments received in Peer Review**](https://open.substack.com/pub/mushtaqmsit/p/how-to-respond-to-comments-received?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+   -  [**A Comprehensive Guide on How to Write a Research Proposal**](https://open.substack.com/pub/mushtaqmsit/p/a-comprehensive-guide-on-how-to-write?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+   -  [**Finding the Right Journal for Your Research Paper: A Comprehensive Guide**](https://open.substack.com/pub/mushtaqmsit/p/finding-the-right-journal-for-your?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+   -  [**How To Read Research Papers**](https://open.substack.com/pub/mushtaqmsit/p/how-to-read-research-papers?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
    -  [**Mastering the Art of Writing a Research Paper: A Comprehensive Guide**](https://medium.com/@Coursesteach/how-to-write-research-paper-4694f855483b)
    -  [**Virtual University Thesis Tempalate**](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx)
    -  [**Mastering APA Style: A Guide to Research Paper Writing**](https://medium.com/@Coursesteach/mastering-apa-style-a-guide-to-research-paper-writing-bd4d42e14d87)
+   -  [**Understanding Q1, Q4 Journals, SCI, SSCI, and EI: A Complete Guide for Researchers**](https://open.substack.com/pub/mushtaqmsit/p/understanding-q1-q4-journals-sci?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+   -  [**Top 34 AI Free tools that can help save your time and add some creativity**](https://mushtaqmsit.substack.com/p/top-34-ai-free-tools-that-can-help)
+   -  [**How to Find In-Depth Scientific Literature Reviews Faster with SciSpace**](https://mushtaqmsit.substack.com/p/how-to-find-in-depth-scientific-literature)
+   -  [**Plagiarism**](https://www.youtube.com/playlist?list=PL9G6ZLfYblGLx7kigXbIf78L9M8047a2z)
+   -  [**How to identify suitable journals for submission**](https://researcheracademy.elsevier.com/publication-process/finding-right-journal/identify-suitable-journals-submission)
+   -  [**How to respond to reviewers' comments**](https://researcheracademy.elsevier.com/navigating-peer-review/going-peer-review/respond-reviewers-comments)
+   -  [**Generative AI in research evaluation**](https://researcheracademy.elsevier.com/navigating-peer-review/fundamentals-peer-review/generative-ai-research-evaluation)
+   -  [**How to review a manuscript**](https://researcheracademy.elsevier.com/navigating-peer-review/becoming-peer-reviewer/review-manuscript)
+   -  [**How to write an abstract and improve your article**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/write-abstract-improve-article)
+   -  [**Data visualization and choosing the right plot**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/data-visualization-choosing-right-plot)
+   - [**Generative AI: New policies, opportunities, and risks**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/generative-ai-new-policies-opportunities-risks)
+   - [**Author policies on the use of Generative AI**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/author-policies-use-generative-ai)
+   - [**How to Instruct the ChatGPT to write a manuscript? Research Manuscript a Scientific Article**](https://www.youtube.com/watch?v=tR8UbDM_0LQ)
+   - [**Structuring your article correctly**](https://researcheracademy.elsevier.com/writing-research/fundamentals-manuscript-preparation/structuring-article-correctly)
+   - [**Manuscript Writing and High-quality Publishing**](https://www.youtube.com/playlist?list=PLTfj4qMbtEiqafRpVXD5ga5UFSo9BC19k)
+   - [**How to write Research Paper**](https://mushtaqmsit.substack.com/p/how-to-write-paper)
+   - [**𝐇𝐨𝐰 𝐭𝐨 𝐖𝐫𝐢𝐭𝐞 𝐚 𝐋𝐢𝐭 𝐑𝐞𝐯𝐢𝐞𝐰 𝐢𝐧 6 𝐒𝐭𝐞𝐩𝐬**](https://drive.google.com/file/d/1PoGtyclFZsRq-1BSal9eFXHuFd1nSJ-N/view?usp=sharing)
+   - [**Understanding different types of academic papers: What, Why, and When**](https://www.teachjourney.com/understanding-different-types-of-academic-papers-what-why-and-when/)
+   - [**Indexing to Impact: Tracking Journal Progress with the Help of Journal Metrics**](https://blog.mdpi.com/2025/06/10/indexing-to-impact/?utm_source=facebook&utm_medium=social_corp&utm_campaign=majorcampaign_if25_interview_lucablog&fbclid=IwY2xjawK2PEpleHRuA2FlbQIxMQBicmlkETFzd0JpRHNTQmlBODFpV3c1AR4JFGnY9mbTFdTDLfcWQ0iBO-1ilGGqBWnwpWquF61G-CDk0lM7IQT4TpFT4A_aem_dlVQk8XeStVScLbSIOlIWQ)
 </details>
 
-<details> 
-<summary> <h2>🔎Find Right Journal</h2> </summary>
- 
-|Journal Name| Subject\Area| ISSN #| Country |Frequency |Impact Factor|Category|Publisher|Open Access|Accptance/Rejection Rate| Paper |
-|---|---|---|---|---|---|---|---|---|---|---|
-|[**🌐1- Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering  | 0957-4174 | United Kingdom | 8 Months | 8.5  | SCIE,W | | |  | Enhanced deep learning algorithm development to detect pain intensity from facial expression images |
-|[**🌐2- IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering  | 2168-2275,2168-2267 | United States | NA | 11.8 | SCIE,W | | | | Deep Pain: Exploiting Long Short-Term Memory Networks for Facial Expression Classification |
+<details>
+<summary> <h2>🔎 Find the Right Journal</h2> </summary>
+
+| # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | ✅ Recommendation |
+|---|------------------|------------------|-------------|------------------|------------------|------------------|------------------|------------------|------------------|----------------------|----------------------|
+| 1 | [🌐 **Expert Systems with Applications**](https://www.sciencedirect.com/journal/expert-systems-with-applications) | Computer Science, Engineering | United Kingdom | ~8 Months | 8.5 | SCIE, W | Elsevier | Hybrid OA | 3,450 (optional) | Moderate | ✅ **Recommended** – Relevant, good IF, moderate acceptance |
+| 2 | [🌐 **IEEE Transactions on Cybernetics**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036) | Computer Science, Engineering | United States | NA | 11.8 | SCIE, W | IEEE | Hybrid OA | 2,195 (optional) | Very Low | ⚠️ **Selective** – Top-tier, highly competitive |
+| 3 | [🌐 **Iranian Journal of Science and Technology – Transactions of Electrical Engineering**](https://link.springer.com/journal/40996) | Electrical Engineering, Signal Processing, Machine Learning | Iran | Quarterly | 1.5 | SCIE, Q3 | Springer Nature | Subscription | N/A | Easy | ✅ **Recommended** – Suitable for regional research with moderate impact |
+| 5 | [🌐 **Applied Spatial Analysis and Policy**](https://link.springer.com/journal/12061) | Human Geography, Urban Planning, Regional Science | Netherlands | Quarterly | 2.0 (2023) | SSCI, Q2 | Springer | Hybrid OA | Estimated at $1,500–$2,500 | Moderate | ✅ **Recommended** – Ideal for policy-oriented spatial analysis with strong academic standing |
+| 6 | [🌐 **Journal of Ambient Intelligence and Humanized Computing**](https://link.springer.com/journal/12652) | Ambient Intelligence, Human-Computer Interaction, AI | Germany | Monthly | 5.63 | Q1 | Springer Nature | Hybrid OA | 1,500–2,500 | ~30% | ✅ **Recommended** – Strong IF, moderate acceptance rate, great for AI-human interaction research |
+| 7 | [🌐 **Natural Hazards⭐️**](https://link.springer.com/journal/11069) | Natural Hazards, Risk Assessment, Geosciences | Netherlands | Quarterly | 3.90 | SCIE, Q2 | Springer | Hybrid OA | N/A | ~87.9% | ✅ **Recommended** – Solid IF, high acceptance rate, excellent for natural hazard research |
+| 9 | [🌐 **Environmental Monitoring and Assessment⭐️**](https://link.springer.com/journal/10661) | Environmental Monitoring, Pollution Risk Assessment, Toxicology | Netherlands | Weekly | 2.9 (2024) | SCIE, Q2 | Springer | Hybrid OA | N/A | ~10.3% | ✅ **Recommended** – Broad coverage, high acceptance rate, suitable for environmental monitoring research |
+13 | [🌐 **Journal of Loss Prevention in the Process Industries⭐️**](https://www.sciencedirect.com/journal/journal-of-loss-prevention-in-the-process-industries) | Process Safety, Chemical Engineering, Risk Management | Netherlands | Bi-monthly | 3.6 (2023) |SCIE, Q1 | Elsevier | Hybrid OA | Varies by region | Moderate | ✅ **Recommended** – Strong IF, reputable publisher, suitable for process safety research |
+| 14 | [🌐 **Transportation Research Record⭐️⭐️⭐️**](https://us.sagepub.com/en-us/nam/transportation-research-record/journal203503) | Transportation Science, Civil Engineering | United States | Periodic (~Monthly/Quarterly) | 1.6 | SCIE, Q3 | SAGE (TRB) | Hybrid OA | ~3,000 (optional) | Moderate | ✅ **Recommended** – Ideal for transportation research, SCIE-indexed |
+| 15  | [🌐 **Transportation Research Part F: Traffic Psychology and Behaviour ⭐️⭐️⭐**](https://www.sciencedirect.com/journal/transportation-research-part-f-traffic-psychology-and-behaviour) | Transportation Science, Traffic Psychology | Elsevier (Netherlands) | **Monthly** (12/year) | **3.5** (2023) | **SSCI, Q1 (Psychology Applied)**        | Elsevier  | **Hybrid OA** | ~$2,780 (optional) | Moderate    | ✅ **Recommended** – Strong for traffic psychology research; SSCI-indexed          |
 
 </details>
+
+
+
+
 
 
 <details> 
@@ -87,7 +159,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2022-24)-M Shujaat</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -101,9 +173,9 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 2  - **Thesis/Publication**
  
-| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
+| 📰 Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|📔Notebook|Blog|Diagram| Final Thesis|
 |---|---|---|---|---|---|---|---|---|
-|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Research Questions|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|Diagram| Final Thesis|
+|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** |---|Research Gap|[1](https://github.com/hussain0048/Research-Work/blob/main/KSILatest.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/RTA_Analysis.ipynb)|Medium|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.png)[-2](https://github.com/dr-mushtaq/Research-Work/blob/main/Drawing1.vsdx)| [Final Thesis Files](https://github.com/dr-mushtaq/Research-Work/blob/main/Final%20Thesis%203.1.docx)|
 
 ##  📚Chapter: 3  **Model metrics benchmarks**
 
@@ -118,7 +190,7 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter: 4  - **Apps Details**
  
-|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+|Title| 📰 Project Page| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
@@ -194,10 +266,9 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎Thesis- Ahsan Saleem</h2> </summary>
-  
+<summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)-Predicting Student Performance in e-learning system</h2> </summary>
+
 ## 📚Chapter: 1  - **Literature Review**
- 
 | Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|Limitations |Future Directions|
 | --- | --- | --- | --- | --- | --- |---|---|---|---|
 | Predicting at-Risk Students at Different Percentages of Course Length for Early Intervention Using Machine Learning Models | IEEE Access. 2021 | To predict at-risk students at 0 to 100% of course length | "Accuracy at 20,40,60,80,100 was 0.59%, 0.79%, 0.84%, 0.88%, 0.90% and 0.91%" | - | - |
@@ -213,6 +284,16 @@ Star this repo if you find it useful ⭐
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
 
+##  📚Chapter: 3  **🔍 Benchmark Comparison Table**
+
+| Model  | ROUGE-1 | ROUGE-2  |  ROUGE-L |  Summary Quality | training_time  |  inference_time |
+|---|---|---|---|---|---|---|
+| BERT (baseline)	| 41.45	| N/A	| N/A| Moderate| N/A| N/A|
+| T5 (50 epochs)	|53.13 | 41.03|50.85 |	Coherent but long|	0.0005688667297363	| 0.0972669124603271|
+| T5 (250 epochs)	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
+| XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
+| RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
+
 ## 📚Chapter: 3  - **Apps Details**
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
@@ -227,7 +308,15 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Nabila Anum( 2023-</h2> </summary>
+<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization</h2> </summary>
+
+### 🎯 Research Objective
+This thesis proposes a hybrid text summarization model combining T5 and BERT to enhance summary coherence and factual accuracy, benchmarked on a custom dataset.
+
+### 🎯 Research Questions
+1- How to implement a hybrid method for text summarization that combines the Word Frequency Algorithm with transformer models like T5 and BART?
+
+2- How to enhance the accuracy of abstractive models T5 and BART by fine-tuning on a self-created dataset?
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -240,28 +329,66 @@ Star this repo if you find it useful ⭐
 |**5-T5-Based Model for Abstractive Summarization: A Semi-Supervised Learning Approach with Consistency Loss Functions**| 6/14/2023 |a novel semi-supervised learning method for abstractive summarization. To achieve this, a T5-based model to process texts and utilized an identity mapping constraint and a cycle consistency constraint to exploit the information contained in unlabeled data is employed. | BERT-base 63.83 51.29 59.76 41.45 , T5 50 with CL (ours) 53.13 41.03 50.85 33.95 , T5 250 with CL (ours) 59.41 47.93 56.16 38.91|  successful application of CycleGAN’s training process and loss functions to NLP tasks, particularly text summarization.|
 
 ## 📚Chapter: 1  - **Thesis/Publication**
-|Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
+|📰 Final Synopsis| Defance Date/Published Date| 📰Final thesis| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
+|[**🌐1- Final Synopsis**](https://github.com/dr-mushtaq/Research-Work/blob/main/Synopsis/NABILA%20ANUM_Synopsis_ms220400077.docx) | 22 Aprile 2025 | [ Final thesis](https://github.com/dr-mushtaq/Research-Work/blob/main/Thesis/Nabila_MS(220400077)_%20Final%20THESIS1docx.docx) |---|---|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Dataset/Nabila_dataset.xlsx)|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_T5.ipynb)[-2](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_bert.ipynb)|
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
+##  📚Chapter: 3  **🔍 Benchmark Comparison Table**
+
+| Model  | ROUGE-1 | ROUGE-2  |  ROUGE-L |  Summary Quality | training_time  |  inference_time |
+|---|---|---|---|---|---|---|
+| BERT (baseline)	| 41.45	| N/A	|N/A| Moderate| N/A| N/A|
+| T5 (50 epochs)	| 53.13| 41.03|		50.85|	Coherent but long	| 0.0972669124603271|
+| T5 (250 epochs)	| 59.41	| 47.93	| 56.16	| Best overall| 0.0274648666381835	| 0.0030479431152343|
+
+## 🧠 Novel Contributions
+- Developed a hybrid architecture combining T5 and BERT for summarization.
+- Created a custom annotated dataset (Nabila_dataset.xlsx).
+- Achieved X% improvement over baseline models on ROUGE metrics.
+- Deployed an interactive Streamlit app for demo purposes.
+
 
 ## 📚Chapter: 3  - **Apps Details**
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) |---|---|Streamlit,T5, BART,NLTK|[Notbook](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila-app5.py)|
+
+## 📋 Student Task Tracker 
+
+### 🎯 Thesis Title: *[Enter title here]*
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| Topic Finalization                     | YYYY-MM-DD       | ✅ Completed      | — |
+| Literature Review Table                | YYYY-MM-DD       | ✅ Completed      | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🟡 In Progress    | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 
 ## 📚Chapter: 3  - **Resources**
--  [**Advanced RAG 08: Self-RAG**](https://ai.gopubby.com/advanced-rag-08-self-rag-c0c5b5952e0e)
--  [**Build a chatbot with always updated data sources using Pathway + LlamaIndex + Streamlit(Github**](https://github.com/pathway-labs/realtime-indexer-qa-chat ref=blog.streamlit.io&fbclid=IwAR0HkaSIQTDCTL7Vw-V6sUMjR1L4vT9movAm3bCfX3ctqLTeALSPkmLMLRY)
+-  [**Question Generation**](https://github.com/KristiyanVachev/Question-Generation/tree/master)
+-  [**awesome-text-summarizatio**](https://github.com/icoxfog417/awesome-text-summarization)
 -  [**Practical NLP Code Chatbot-BERT(github)**](https://github.com/practical-nlp/practical-nlp-code/tree/master/Ch6)
--  [**Anaconda and Vscode configuration for Python**](https://medium.com/@Coursesteach/anaconda-and-vscode-configuration-b353db76165d)
+-  [**Question_generation-patil-suraj**](https://github.com/patil-suraj/question_generation)
 -  [**Get started with conda environments**](https://www.dataschool.io/intro-to-conda-environments/)
 -  [**Getting Started with GitHub Pages**](https://www.youtube.com/watch?v=QyFcl_Fba-k&list=PL4cUxeGkcC9jjuXmnTyPSMo5NZ8dANHSW)
 
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Khalid Hussain(2024-)</h2> </summary>
+<summary> <h2>🔎Thesis-Muhammad Usaman(2024-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
 |Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations |Future Directions|
@@ -271,6 +398,28 @@ Star this repo if you find it useful ⭐
 |[**🌐3-Types of Machine Learning?**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
 |[**🌐4-Steps involved in Building a Machine Learning Model**](https://medium.com/@Coursesteach/machine-learning-part-4-9066ce55708b)|[1](https://www.youtube.com/watch?v=vfA1ZKN4Y40)|---
 |[**🌐5-Best Free Resources to Learn Machine Learning**](https://medium.com/@Coursesteach/best-free-resources-to-learn-machine-learning-3d49ab970e0f)|---|--
+
+## 📋 Student Task Tracker 
+
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| Topic Dataset updattion                | 2025-04-25       | 🟡 In Progress     | — |
+| Literature Review Table                | YYYY-MM-DD       | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 
 ## 📚Chapter: 1  - **Thesis/Publication**
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
@@ -291,7 +440,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis - Afzaal Javaid</h2> </summary>
+<summary> <h2>🔎Thesis - Kashif Latif(2025-)</h2> </summary>
 
 ## 📚Chapter: 1  - **Literature Review**
 
@@ -303,6 +452,33 @@ Star this repo if you find it useful ⭐
 | [**🌐 4. Phishing URL detection using machine learning methods**](https://link.springer.com/article/10.1007/s11042-023-14731-4) | Jha, 2023 | Building a strong prediction model using ML for detecting phishing and legitimate sites | Achieves high accuracy with LightGBM, effectively uses a limited feature set, quick prediction times | Used only 15 features, which may miss some important indicators | LightGBM, Random Forest, Decision Tree, Logistic Regression, SVM | LightGBM - 86%, Random Forest - 85.3%, Decision Tree - 85%, Logistic Regression - 84.2%, SVM - 83.5% |
 | [**🌐 5. Intelligent phishing detection scheme using deep learning algorithms**](https://www.emerald.com/insight/content/doi/10.1108/JEIM-01-2020-0036/full/html/1000) | Adebowale, 2023 | Developing a real-time tool for detecting phishing websites | High true positive rate, handles large-scale datasets effectively, robust performance | Logistic regression may struggle with overfitting, linear assumptions, and scalability issues | ANN, Random Forest, SVM, Logistic Regression, MultinomialNB | ANN - 87.34%, Random Forest - 89.63%, SVM - 89.84%, Logistic Regression - 96.37%, MultinomialNB - 95.75% |
 | [**🌐 6. Intelligent phishing detection scheme using deep learning algorithms**](https://aru.figshare.com/articles/journal_contribution/Intelligent_Phishing_Detection_Scheme_Using_Deep_Learning_Algorithms/23764638/1/files/42200364.pdf) | Ahammad, 2022 | Developed a deep learning-based phishing detection system combining CNN and LSTM algorithms with 25s detection time | Receive 93.28% accuracy. Recall,precision and Fmeasure take into consideration. | This is taking 50 seconds to predict the webiste. Time-consuming for image processing methods. The model requires a significant amount of data for training and may be computationally expensive. | CNN,LSTM,IPDS | CNN - 92.55, LSTM - 92.79, IPDS - 93.28 |
+
+Title: Literature Review - Chatbot Summarization
+- [ ] Collect 150 recent papers (2021-2025)
+- [ ] Identify research gaps
+- [ ] Fill out Lit Review Table
+- [ ] Write a short paragraph in the Literature Review section of the thesis for each paper you have read."
+
+## 📋 Student Task Tracker 
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| 1- Prepare all your documents: Literature Review Table, Thesis, Synopsis, Scenario Diagram.             | 2025-05-23       | 🟡 In Progress           |  Go to Section 💻 Virtual University Thesis Workflow |
+| 2- Finalize the research topic               |  2025-05-23      | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 
   
 ## 📚Chapter: 2  - **Thesis/Publication**
@@ -335,7 +511,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2024-)-Imran Yousaf</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-)-Haleema Inam Paracha</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -370,7 +546,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2024-)- Nabila Rafique</h2> </summary>
+<summary> <h2>🔎Thesis-Shakeel Ahmed (2025-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -382,12 +558,40 @@ Star this repo if you find it useful ⭐
 |[**🌐4- A NOVEL ROAD TRAFFIC ACCIDENTS PREDICTION MODEL WITH RANDOM CLASSIFIER AFTER HYPER-PARAMETER TUNED USING GRIDSEARCHCV**](https://www.eurchembull.com/uploads/paper/1a4bc2dcfa31b2381eb6ea59eb782581.pdf) | 2023  | How can we effectively predict road traffic accidents using a novel prediction model incorporating Random Forest Classifier after hyper-parameter tuning with GridsearchCV? | Gradient Boosting Classifier (84.9 Accuracy) | NA | Future work | 
 |[**🌐5- Fatality Prediction for Motor Vehicle Collisions: Mining Big Data Using Deep Learning and Ensemble Methods**](https://ieeexplore.ieee.org/abstract/document/9737563/) | 2023  | How effective are deep learning and ensemble methods in predicting the fatality outcome of motor vehicle collisions using large-scale datasets? | Neural Network (75% Accuracy) | NA | Introduction  | 
 
+Title: Literature Review - Chatbot Summarization
+- [ ] Collect 150 recent papers (2021-2025)
+- [ ] Identify research gaps
+- [ ] Fill out Lit Review Table
+- [ ] Write a short paragraph in the Literature Review section of the thesis for each paper you have read."
+
+## 📋 Student Task Tracker 
+
+| ✅ Task Description                     | 📅 Deadline      | 🔄 Status        | 📁 Resources/Links |
+|----------------------------------------|------------------|------------------|--------------------|
+| 1- Prepare all your documents: Literature Review Table, Thesis, Synopsis, Scenario Diagram.             | 2025-05-23       | 🟡 In Progress           |  Go to Section 💻 Virtual University Thesis Workflow |
+| 2- Finalize the research topic               |  2025-05-23      | 🟡 In Progress     |       | [Lit Table](#) |
+| Dataset Collection                     | YYYY-MM-DD       | 🔲 Not Started   | [Dataset.xlsx](#) |
+| Model Implementation (Baseline)        | YYYY-MM-DD       | 🟡 In Progress     |   | — |
+| Model Implementation (Proposed Model)  | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Evaluation (ROUGE, BERTScore)          | YYYY-MM-DD       | 🔲 Not Started    | — |
+| Write-up (Ch. 1–4)                     | YYYY-MM-DD       | 🟡 In Progress    | [Thesis Draft](#) |
+| Thesis Formatting + APA Styling        | YYYY-MM-DD       | 🔲 Not Started    | [APA Guide](#) |
+| Slide Deck & Defense Preparation       | YYYY-MM-DD       | 🔲 Not Started    | [Presentation](#) |
+| Final Submission (Soft + Hard Copy)    | YYYY-MM-DD       | 🔲 Not Started    | — |
+
+### ✅ Status Key
+- ✅ Completed  
+- 🟡 In Progress  
+- 🔲 Not Started
+
 ## 📚Chapter: 1  - **Thesis/Publication**
  
 |Title| Defance Date/Published Date| Research Questions| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram| To Do List|
 |---|---|---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
+
 
 ## 📚Chapter: 3  - **Apps Details**
  
@@ -571,6 +775,216 @@ Star this repo if you find it useful ⭐
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 
 </details>
+<details> 
+<summary> <h2>📕 Research Resources </h2> </summary>
+
+## 🔍  Chapter1: - **Literature Management and Search**
+| No. |             Tool                    |              Description                       |Resources| Feedback|
+|-----|-------------------------------------|------------------------------------------------|--------|----------|
+| 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network |
+| 2 | [Naimai - Tutorial 1](#) | Literature management tutorial |
+| 3 | [Docear](https://www.docear.org/) | Academic literature management tool |
+| 4 | [Connected Papers](https://www.connectedpapers.com/) | Visualize relationships between papers |
+| 5 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered research assistant |
+| 6 | [Catalyzex](https://www.catalyzex.com/) | AI research discovery with browser extensions |
+| 7 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
+| 8 | [Content Mine](http://contentmine.org/) | Open access text mining |
+| 9 | [Elicit](https://elicit.org/) | AI tool for literature reviews |
+| 10 | [Paper Digest](https://www.paperdigest.org/) | Auto-summary of research papers |
+| 11 | [Papers with Code](https://paperswithcode.com/) | Papers + Code + evaluation tables |
+| 12 | [arXiv](https://arxiv.org/) | Preprint server for scientific papers |
+| 13 | [Research Rabbit](https://www.researchrabbit.ai/) | Visual citation exploration tool |
+| 14 | [Litmaps](https://www.litmaps.com/) | Track, correlate, and monitor research |
+| 15 | [Scinapse](https://www.scinapse.io/) | Academic search engine |
+| 16 | [PaperAI](https://www.paperai.tech/) | AI assistant for academic research |
+| 17 | [LabML Papers](https://papers.labml.ai/) | Track trending ML papers |
+| 18 | [AI Paper Club](https://aipaperclub.com/) | Community-driven paper highlights |
+| 19 | [Paper Parrot](https://paperparrot.com/) | Literature summarizer |
+| 20 | [Consensus](https://consensus.app/) | AI answers from research papers |
+| 21 | [Bing](https://www.bing.com/) | Web & scholarly search |
+| 22 | [Komo AI](https://www.komo.ai/) | AI-powered search engine |
+| 23 | [You.com](https://you.com/) | Personalized AI search |
+| 24 | [Yep](https://yep.com/) | Search engine supporting content creators |
+| 25 | [Andi Search](https://andisearch.com/) | Visual and conversational search |
+| 26 | [Trending AI Papers](https://trendingpapers.com/) | ML paper trends tracker |
+| 27 | [Phind](https://www.phind.com/) | AI for developer-oriented search |
+| 28 | [ResearchPal](https://researchpal.ai/) | Refine and polish research drafts |
+| 29 | [Outread.ai](https://www.outread.ai/) | Find the perfect paper for your review |
+| 30 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
+| 31 | [✅Researchrabbitapp](https://researchrabbitapp.com/home) | Find and Manage literature Review |
+| 32 | [✅Research GAP Chatgpt](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find Research Gap with Chatgpt |
+
+
+
+
+## 🔍  Chapter2: - **📝 Writing and Brainstorming**
+| No. | Tool | Description | Paid/Unp|
+|-----|------|-------------|-----|
+| 1 | [Article Rewriter](https://articlerewriter.ai/) | Paraphrase research drafts |
+| 2 | [WordfixerBot](https://wordfixerbot.com/) | Grammar and sentence fixing |
+| 3 | [Voila](https://voila.ai/) | AI for academic brainstorming |
+| 4 | [QuillBot](https://quillbot.com/) | Rewriting, paraphrasing, summarizing |
+| 5 | [Overleaf](https://www.overleaf.com/) | LaTeX-based collaborative writing |
+| 6 | [Poe](https://poe.com/) | Multi-model AI chat |
+| 7 | [Gemini](https://gemini.google.com/) | Google’s AI tool |
+| 8 | [ChatGPT](https://chat.openai.com/) | General-purpose AI writing assistant |
+| 9 | [MyEssayWriter](https://myessaywriter.ai/) | Essay and academic writing |
+| 10 | [Groq](https://groq.com/) | Open-source writing tools |
+| 11 | [AI Humanizer](https://aihumanizer.ai/) | Humanize AI-generated content |
+| 12 | [✅Khoj](https://khoj.dev/) | Research writing & idea manager |
+| 13 | [✅Storm](https://storm.genie.stanford.edu/) | Paper writing |
+| 14 | [Paperpal](https://paperpal.com/) | Academic writing tool |
+| 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
+| 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
+| 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
+| 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |Unpaid|
+| 19 | [✅answerthis](https://answerthis.io/?fpr=razia18) | Answers your research questions with citations |Freemium|
+
+
+## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
+| No. | Tool | Description |
+|-----|------|-------------|
+| 1 | [MyEssayWriter](https://myessaywriter.ai/) | Grammar fixing & paraphrasing |
+| 2 | [Khoj](https://www.khoj.app/) | Research grammar support |
+| 3 | [Hemingway App](https://hemingwayapp.com/) | Improve clarity and structure |
+
+
+## 🔍  Chapter4: - **📝 🧠 📌 Citations**
+| No. | Tool | Description |
+|-----|------|-------------|
+| 1 | [Mendeley](https://www.mendeley.com/) | Reference manager |
+| 2 | [MyBib](https://www.mybib.com/) | Free citation generator |
+| 3 | [Qiqqa](https://www.qiqqa.com/) | Reference & research management |
+| 4 | [Scimatic](https://www.scimatic.org/) | Citation & publishing assistant |
+| 5 | [Citation Generator](https://www.citationmachine.net/) | Easy citation creator |
+
+## 🔍  Chapter5: - **🖼️ Illustrations and Diagrams**
+| Tool | Description |
+|------|-------------|
+| [Processon](https://www.processon.com/) | Create academic diagrams |
+| [Creately](https://creately.com/) | Visual collaboration & diagramming |
+| [Flourish Studio](https://flourish.studio/) | Data visualization platform |
+| [Diagrams.net](https://www.diagrams.net/) | Free diagram tool |
+| [Coggle](https://coggle.it/) | Collaborative mind maps |
+| Paint | Manual image editing |
+| [Excalidraw](https://excalidraw.com/) | Real-time idea visualization |
+
+## 🔍  Chapter5: - **📖 Paper Reading Tools**
+| Tool | Description |
+|------|-------------|
+| [Chat with PDF](https://www.chatpdf.com/) | Interact with research PDFs |
+| [PaperHive](https://paperhive.org/) | Collaborative paper reading |
+| [SciSpace Copilot](https://typeset.io/) | AI copilot for PDFs |
+| [Elicit](https://elicit.org/) | Ask questions about papers |
+| [Wiseone](https://www.wiseone.io/) | AI assistant for reading |
+| [Moonlight](#) | AI reader with tutorials |
+| [NotebookLM](https://notebooklm.google/) | Google’s research notebook |
+| [ExplainPaper](https://www.explainpaper.com/) | Simplifies complex papers |
+| [Okular](https://okular.kde.org/) | Research PDF annotation |
+| [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
+| [✅ Consensus](https://consensus.app/) |Consensus is an AI-powered search engine designed to help users find and understand scientific research papers quickly and efficiently|
+
+## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
+| Tool | Description |
+|------|-------------|
+| [HEC Journal Recognition System](https://hjrs.hec.gov.pk/) | Journal validation |
+| [Master Journal List](https://mjl.clarivate.com/) | Clarivate's journal index |
+| [Scimago Journal Rank](https://www.scimagojr.com/) | Journal ranking metrics |
+| [Scopus](https://www.scopus.com/) | Elsevier's citation index |
+| [Resurchify](https://www.resurchify.com/) | Impact factor and Q-ranks |
+| [Think. Check. Submit](https://thinkchecksubmit.org/) | Journal credibility checklist |
+
+## 🔍  Chapter7: - **📤 Deposit & Share Data**
+| Tool | Description |
+|------|-------------|
+| [Dataverse](https://dataverse.harvard.edu/) | Open data repository |
+| [Master Journal List](https://mjl.clarivate.com/) | May include repositories |
+
+## 🔍  Chapter8: - **🛡️ Plagiarism Checker**
+| Tool | Description |
+|------|-------------|
+| [Copyscape](https://www.copyscape.com/) | Plagiarism detection |
+| [Turnitin (via institutions)](https://www.turnitin.com/) | Academic integrity checker |
+| ✅[walterwrites.ai](https://walterwrites.ai/) | most accurate one i tested. catches ai from all the big models without throwing false positives on my own writing. |
+| [✅Proofademic.ai](https://proofademic.ai/) | Built for educators students and researchers so you this one is going to make this list |
+| [✅originality.ai](https://originality.ai/)) | aid tool, but it does ai detection + plagiarism in one scan. good for long-form seo or agency work |
+
+## 🔍  Chapter9: - **🗒️ Note-Taking Tools**
+| Tool | Description |
+|------|-------------|
+| [AudioPen](https://audiopen.ai/) | Convert voice to structured notes |
+| [Google Keep](https://keep.google.com/) | Quick notes & ideas |
+
+## 🔍  Chapter10: - **⚙️ Planning and Task Management**
+| Tool | Description |
+|------|-------------|
+| [Focus To-Do](https://www.focustodo.cn/) | Pomodoro + task manager |
+
+## 🔍  Chapter11: - **📌 Journal Finder Tools**
+- [Elsevier Journal Finder](https://journalfinder.elsevier.com/)
+- [Web of Science](https://www.webofscience.com/)
+- [Wiley Journal Finder](https://journalfinder.wiley.com/)
+- [JANE (Journal Author Name Estimator)](https://jane.biosemantics.org/)
+- [IEEE Publication Recommender](https://journals.ieeeauthorcenter.ieee.org/)
+- [Springer Journal Suggester](https://journalsuggester.springer.com/)
+- [EDANZ Journal Selector](https://www.edanz.com/journal-selector)
+- [SAGE Journal Recommender](https://journals.sagepub.com/)
+- [MDPI Journal Finder](https://www.mdpi.com/journalfinder)
+- [Taylor & Francis Journal Suggester](https://authorservices.taylorandfrancis.com/)
+- [ENAGO Journal Finder](https://www.enago.com/)
+- [Researcher.Life Journal Recommender](https://researcher.life/)
+- [JournalGuide](https://www.journalguide.com/)
+- [trinka](https://www.trinka.ai/)
+- [ExCITATION journal ranking in Google Scholar](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia/support?pli=1)
+
+## 🔍  Chapter12: - **📚 Free Paper Access**
+| Tool | Description |
+|------|-------------|
+| [Anna’s Archive](https://annas-archive.org/) | Open access to scientific papers |
+| [Unpaywall](https://unpaywall.org/) | Free versions of paywalled papers |
+
+
+## 🔍  Chapter12: - **📚 Mind Map**
+| Tool | Description |
+|------|-------------|
+| [✅Mind Map Wizard](https://mindmapwizard.com/) | Create Mind of any topic |
+
+
+## 👁️ Chapter1: - **Writing Tools**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅ 1-jenni.ai**](https://app.jenni.ai/editor/3164AXeap9DBCwUR4lvd)|Research paper writing tool| InProgress|
+|[**✅ 2-Applied Language Technology**](https://applied-language-technology.mooc.fi/html/index.html)|It is free course and it contain notes and video| Pending|
+|[**✅ 3-Large Language Models for the General Audience**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Large%20Language%20Models%20for%20the%20General%20Audience)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+
+## 👁️ Chapter1: - **Free Courses**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅ 1-ChatGPT Prompt Engineering for Researchersn**](https://www.coursera.org/specializations/natural-language-processing)|DeepLearning.AI	| InProgress|
+
+</details>
+
+<details> 
+<summary> <h2>💻 Virtual University Thesis Workflow</h2> </summary>
+   
+## A step-by-step guide to completing your Final Year Project (Thesis) at Virtual University — including templates, documents, deadlines, and submission instructions.**
+
+| 🧭 Step | 📋 Task | 🗂️ Required Documents | 🔗 Resources |
+|--------|---------|------------------------|--------------|
+| **1** | **Internal Department Synopsis Presentation** | Presentation Slides | [📎 Presentation PPT](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20Presentation%20V%203.0%20.pptx)[-📎GUIDELINES FOR THESIS WRITING (SAMPLE)](https://github.com/dr-mushtaq/Research-Work/blob/main/GUIDELINES%20FOR%20THESIS%20WRITING.docx)[-📎Template for Synipsis ](https://github.com/dr-mushtaq/Research-Work/blob/main/Template%20for%20Synopsis.docx) |
+| **2** | **GRC Synopsis Presentation** <br> *(Get approval from Graduate Research Committee)* | - Synopsis Document<br> -Annex A - Evaluation Form <br> - Annex B - Consent Form <br> - Turnitin Report *(Max 15%, no individual source >2%)* | [Synopsis Document](https://github.com/hussain0048/Research-Work/blob/main/Tempate%20for%20Synopsis.docx) <br> - [Annex A - Evaluation Form](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx) <br> - [Annex B - Consent Form](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx) <br>* |
+| **3** | **Thesis Submission to Reviewer** | - [Final Thesis Template](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) <br> - Plagiarism Report *(Same rules apply)* <br> - GRC Approval Notification <br> - Suggested External Examiners <br> - [Annex F](https://github.com/hussain0048/Research-Work/blob/main/Annex%20F.pdf) | 📬 Send to assigned reviewer |
+| **📅 Deadline** | **Thesis Submission Deadline** | One week before End Semester Exams | ⏰ Late submission = Result in next semester |
+| **4** | **Response to Reviewer Comments** | - [Compliance Report](https://github.com/hussain0048/Research-Work/blob/main/Compliance%20Report.docx) <br> - Revised Thesis <br> - Reviewer Comments with Responses <br> - Updated Plagiarism Report | 📮 Resubmit revised thesis |
+| **5** | **Final Thesis Defense** | Final Viva Presentation | 🎤 Conducted by External/Internal Examiners |
+| **6** | **Final Submission of Hard Copies** | Submit **4 hard copies** signed by Supervisor & Student | [📚 Print Style Guide](https://github.com/dr-mushtaq/Research-Work/tree/main/Thesis%20Print%20Style) |
+
+📌 **Note:**  
+- All documents must follow Virtual University formatting and plagiarism policies.  
+- Ensure every step is completed before progressing to the next.
+</details>
+
+## 🔍  Chapter1: - **Literature Management and Search**
 
 ## 💻 [Workflow](https://www.youtube.com/watch?v=LuWAw-RBPys)[-2](https://drive.google.com/file/d/1S3sV7Z0lXIJxjlCb_zeh8cpvC2qVMx5M/view?usp=sharing):
 
@@ -588,7 +1002,7 @@ Star this repo if you find it useful ⭐
 >
 ## ⚙️ Things to Note
 
-* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* 📅 Weekly Thesis Discussions:🕒 Every Friday | 3:00 PM – 5:00 PM|📍 Platform: Skype or team (ID: themushtaq48)
 *  Plagiarism rules: For synopsis: 15% is acceptable as HEC rule and individuals source less than 2% 
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
@@ -600,9 +1014,10 @@ Star this repo if you find it useful ⭐
 
 - **Step 2**- Synopsis Presention For GRC, Required Documents(PPT,[Synopsis File](https://github.com/hussain0048/Research-Work/blob/main/Tempate%20for%20Synopsis.docx),[AnnexB](https://github.com/hussain0048/Research-Work/blob/main/AnnexB.docx),[AnnexA](https://github.com/hussain0048/Research-Work/blob/main/Annexure-A_Evaluation%20Form%20Said%20Nabi.docx),Turnitin Report(15% is acceptable and individuals source less than 2%)).
 - **Step 3** - Sent [Thesis](https://github.com/hussain0048/Research-Work/blob/main/Thesis%20Template.docx) for Rreviewer , Required Documents(final thesis,Plagiarism report (15% is acceptable and individuals source less than 2%), Ssynopsis notification, suggested as external examiners,[Annex F](https://github.com/hussain0048/Research-Work/blob/main/Annex%20F.pdf))
+-  Last date for Research Thesis submission in each semester will be one week before the commencement of End Semester Examination of that particular semester.However, if student fails to submit his/her Research Thesis within due date, the result will be notified in the semester in which the student submits the final Research Thesis
 - **Step 4** - Response To Extrnal Reviewer,Plagiarism report,Compliance [COMPLIANCE REPORT](https://github.com/hussain0048/Research-Work/blob/main/Compliance%20Report.docx)
 - **Step 5**-🎓 Final thesis defense
-- **Step 6**-🎓  Submit four hard copies of thesis with signature of student and supervisory committee 
+- **Step 6**-🎓  Submit four [Hard copies](https://github.com/dr-mushtaq/Research-Work/tree/main/Thesis%20Print%20Style) of thesis with signature of student and supervisory committee 
 
 >
 
@@ -616,6 +1031,9 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
+
+
 
 
 
