@@ -138,43 +138,38 @@ Star this repo if you find it useful ⭐
 13 | [🌐 **Journal of Loss Prevention in the Process Industries⭐️**](https://www.sciencedirect.com/journal/journal-of-loss-prevention-in-the-process-industries) | Process Safety, Chemical Engineering, Risk Management | Netherlands | Bi-monthly | 3.6 (2023) |SCIE, Q1 | Elsevier | Hybrid OA | Varies by region | Moderate | ✅ **Recommended** – Strong IF, reputable publisher, suitable for process safety research |
 | 14 | [🌐 **Transportation Research Record⭐️⭐️⭐️**](https://us.sagepub.com/en-us/nam/transportation-research-record/journal203503) | Transportation Science, Civil Engineering | United States | Periodic (~Monthly/Quarterly) | 1.6 | SCIE, Q3 | SAGE (TRB) | Hybrid OA | ~3,000 (optional) | Moderate | ✅ **Recommended** – Ideal for transportation research, SCIE-indexed |
 | 15  | [🌐 **Transportation Research Part F: Traffic Psychology and Behaviour ⭐️⭐️⭐**](https://www.sciencedirect.com/journal/transportation-research-part-f-traffic-psychology-and-behaviour) | Transportation Science, Traffic Psychology | Elsevier (Netherlands) | **Monthly** (12/year) | **3.5** (2023) | **SSCI, Q1 (Psychology Applied)**        | Elsevier  | **Hybrid OA** | ~$2,780 (optional) | Moderate    | ✅ **Recommended** – Strong for traffic psychology research; SSCI-indexed          |
-| **IEEE** |
-| 1 | IEEE Transactions on Instrumentation and Measurement | Instrumentation, sensors, measurement techniques | United States | Data not available | Data not available | Data not available | IEEE | Hybrid / Subscription | Data not available | Data not available | ✅ Recommended (strong in instrumentation) |
-| 2 | IEEE Transactions on Emerging Topics in Computational Intelligence | Emerging computational intelligence topics | United States | Data not available | Data not available | Data not available | IEEE | Hybrid / Subscription | Data not available | Data not available | ⚠️ Good for emerging CI research |
-| **Elsevier** |
-| 3 | Engineering Applications of Artificial Intelligence | AI applications in engineering | Netherlands / UK | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Strong for engineering-AI |
-| 4 | Computers in Biology and Medicine | Computational biology, biomedical informatics | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for biomedical-computational work |
-| 5 | Applied Energy | Energy systems, energy engineering | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Highly regarded in energy research |
-| 6 | Applied Soft Computing | Soft computing, fuzzy systems, neural networks | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for soft-computing work |
-| 7 | Ad Hoc Networks | Wireless networks, ad hoc and sensor networks | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Recommended for networking papers |
-| 8 | Computer Networks | Networking, internet systems, protocols | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Strong networking venue |
-| 9 | Computers & Security | Cybersecurity, computer security | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for security research |
-| 10 | Computers & Industrial Engineering | Industrial engineering, computational methods | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good fit for industrial engineering |
-| 11 | Energy Reports | Energy policy, systems, and applications | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid / Gold options | Data not available | Data not available | ✅ Good for broad energy studies |
-| 12 | Pattern Recognition | Pattern recognition, computer vision, ML | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Top journal for PR / CV / ML |
-| 13 | Digital Signal Processing | Signal processing theory & applications | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for DSP research |
-| 14 | Measurement | Measurement science & instrumentation | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for measurement-focused research |
-| 15 | Computers & Electrical Engineering | Interdisciplinary computer & electrical engineering | Netherlands | Data not available | Data not available | Data not available | Elsevier | Hybrid | Data not available | Data not available | ✅ Good for cross-disciplinary engineering |
-| **Springer** |
-| 16 | The Visual Computer | Computer graphics, visualization | Germany / Netherlands | Data not available | Data not available | Data not available | Springer | Hybrid / Subscription | Data not available | Data not available | ✅ Recommended for graphics/visualization |
-| 17 | Computing | Computer science theory & applications | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Broad CS journal |
-| 18 | Pattern Analysis and Applications | Pattern analysis, applied PR | Germany / Netherlands | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Good for applied pattern analysis |
-| 19 | Multimedia Systems | Multimedia computing, systems, streaming | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Good for multimedia systems work |
-| 20 | Applied Intelligence | Applied AI, computational intelligence | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Good interdisciplinary AI outlet |
-| 21 | Cognitive Computation | Cognitive computing, neuro-inspired AI | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Fit for cognitive AI research |
-| 22 | Biomedical Engineering Letters | Short communications in biomedical engineering | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ For short biomedical engineering reports |
-| 23 | Medical & Biological Engineering & Computing | Medical engineering, bioengineering | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Established biomedical engineering venue |
-| 24 | Health Information Science and Systems | Health informatics, HIS systems | Germany | Data not available | Data not available | Data not available | Springer | Hybrid / OA options | Data not available | Data not available | ✅ Good for health informatics |
-| 25 | Personal and Ubiquitous Computing | Ubiquitous computing, HCI, pervasive systems | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Good for ubicomp / HCI |
-| 26 | Electrical Engineering | Electrical engineering research & applications | Germany | Data not available | Data not available | Data not available | Springer | Hybrid | Data not available | Data not available | ✅ Broad EE scope |
-| 27 | Journal of Electrical Engineering & Technology | Electrical engineering & technology (society journal) | Korea / Germany (society/publisher) | Data not available | Data not available | Data not available | Springer / Society | Hybrid | Data not available | Data not available | ✅ Good regional/global EE outlet |
-| **Wiley** |
-| 28 | Color Research & Application | Color science, imaging, material appearance | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Good for color science papers |
-| 29 | International Journal of Imaging Systems and Technology | Imaging systems, sensors, image processing | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Good for imaging systems research |
-| 30 | Expert Systems | Expert systems, applied AI, rule-based systems | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Good for applied expert systems research |
-| 31 | Computational Intelligence | Computational intelligence, neural nets, fuzzy logic | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Good for CI research |
-| 32 | Software: Practice and Experience | Software engineering practice, empirical studies | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Strong for software practice & tools |
-
+| IEEE Transactions on Instrumentation and Measurement | Measurement systems, sensors, instrumentation | 5.6 | Q1 | ~8–10 weeks |
+| IEEE Transactions on Emerging Topics in Computational Intelligence | New methods in CI, ML, DL, bio-inspired computing | 4.3 | Q1 | ~10–12 weeks |
+| Engineering Applications of Artificial Intelligence (Elsevier) | AI applications in engineering | 8.0 | Q1 | ~6–8 weeks |
+| Computers in Biology and Medicine (Elsevier) | Biomedical computing, ML in healthcare | 7.7 | Q1 | ~6–10 weeks |
+| Applied Energy (Elsevier) | Renewable energy, power systems | 11.4 | Q1 | ~10–12 weeks |
+| Applied Soft Computing (Elsevier) | Fuzzy, neural, soft computing applications | 8.7 | Q1 | ~8 weeks |
+| Adhoc Networks (Elsevier) | Wireless & mobile ad hoc networks | 5.0 | Q2 | ~8–12 weeks |
+| Computer Networks (Elsevier) | Networking, protocols, distributed systems | 6.0 | Q1 | ~10 weeks |
+| Computers & Security (Elsevier) | Cybersecurity, network security | 5.3 | Q1 | ~12 weeks |
+| Computers & Industrial Engineering (Elsevier) | Optimization, industrial AI | 7.0 | Q1 | ~8–10 weeks |
+| Energy Reports (Elsevier) | Energy engineering, open access | 4.5 | Q2 | ~6–8 weeks |
+| Pattern Recognition (Elsevier) | CV, ML, pattern analysis | 8.0 | Q1 | ~90 days |
+| Digital Signal Processing (Elsevier) | DSP theory, ML-based signal processing | 4.9 | Q2 | ~8–12 weeks |
+| Measurement (Elsevier) | Sensors, measurement, instrumentation | 5.1 | Q1 | ~8 weeks |
+| Computers & Electrical Engineering (Elsevier) | Electrical, computer engineering applications | 4.6 | Q2 | ~10 weeks |
+| The Visual Computer (Springer) | Computer graphics, vision, VR | 3.5 | Q2 | ~8–12 weeks |
+| Computing (Springer) | Theoretical and applied computing | 2.7 | Q3 | ~10 weeks |
+| Pattern Analysis and Applications (Springer) | ML, CV, pattern analysis | 3.0 | Q3 | ~12 weeks |
+| Multimedia Systems (Springer) | Multimedia, CV, AI applications | 3.2 | Q2 | ~8 weeks |
+| Applied Intelligence (Springer) | AI methods and applications | 5.3 | Q2 | ~8–10 weeks |
+| Cognitive Computation (Springer) | Cognitive computing, neuro-inspired AI | 5.2 | Q2 | ~10 weeks |
+| Biomedical Engineering Letters (Springer) | Biomedical, medical imaging | 2.1 | Q3 | ~12 weeks |
+| Medical & Biological Engineering & Computing (Springer) | Biomedical engineering, computing | 2.9 | Q3 | ~12 weeks |
+| Health Information Science and Systems (Springer) | Health informatics, AI in healthcare | 4.0 | Q2 | ~10 weeks |
+| Personal and Ubiquitous Computing (Springer) | IoT, pervasive computing | 3.1 | Q3 | ~12 weeks |
+| Electrical Engineering (Springer) | Electrical engineering, systems | 2.4 | Q3 | ~12 weeks |
+| Journal of Electrical Engineering & Technology (Springer) | Electrical & power engineering | 1.8 | Q4 | ~12 weeks |
+| Color Research & Application (Wiley) | Color science, vision, imaging | 1.5 | Q4 | ~12 weeks |
+| International Journal of Imaging Systems and Technology (Wiley) | Imaging systems, CV | 2.0 | Q3 | ~12 weeks |
+| Expert Systems (Wiley) | Expert systems, AI applications | 2.4 | Q3 | ~8 weeks |
+| Computational Intelligence (Wiley) | Neural, fuzzy, evolutionary systems | 2.6 | Q3 | ~10 weeks |
+| Software: Practice and Experience (Wiley) | Software engineering, systems | 3.0 | Q2 | ~12 weeks |
 
 </details>
 
@@ -1068,6 +1063,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
