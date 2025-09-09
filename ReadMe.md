@@ -138,11 +138,6 @@ Star this repo if you find it useful ⭐
 13 | [🌐 **Journal of Loss Prevention in the Process Industries⭐️**](https://www.sciencedirect.com/journal/journal-of-loss-prevention-in-the-process-industries) | Process Safety, Chemical Engineering, Risk Management | Netherlands | Bi-monthly | 3.6 (2023) |SCIE, Q1 | Elsevier | Hybrid OA | Varies by region | Moderate | ✅ **Recommended** – Strong IF, reputable publisher, suitable for process safety research |
 | 14 | [🌐 **Transportation Research Record⭐️⭐️⭐️**](https://us.sagepub.com/en-us/nam/transportation-research-record/journal203503) | Transportation Science, Civil Engineering | United States | Periodic (~Monthly/Quarterly) | 1.6 | SCIE, Q3 | SAGE (TRB) | Hybrid OA | ~3,000 (optional) | Moderate | ✅ **Recommended** – Ideal for transportation research, SCIE-indexed |
 | 15  | [🌐 **Transportation Research Part F: Traffic Psychology and Behaviour ⭐️⭐️⭐**](https://www.sciencedirect.com/journal/transportation-research-part-f-traffic-psychology-and-behaviour) | Transportation Science, Traffic Psychology | Elsevier (Netherlands) | **Monthly** (12/year) | **3.5** (2023) | **SSCI, Q1 (Psychology Applied)**        | Elsevier  | **Hybrid OA** | ~$2,780 (optional) | Moderate    | ✅ **Recommended** – Strong for traffic psychology research; SSCI-indexed          |
-<details>
-<summary> <h2>🔎 Find the Right Journal — Full List</h2> </summary>
-
-| # | 📝 Journal Name | 🧪 Subject/Area | 🌍 Country (Publisher HQ) | 🔁 Frequency | 🌟 Impact Factor | 🏷️ Category / Indexing | 🏢 Publisher | 🔓 Open Access | 💸 APC (USD) | 📉 Acceptance Rate | ✅ Recommendation |
-|---|---|---|---|---|---|---|---|---|---|---|---|
 | **IEEE** |
 | 1 | IEEE Transactions on Instrumentation and Measurement | Instrumentation, sensors, measurement techniques | United States | Data not available | Data not available | Data not available | IEEE | Hybrid / Subscription | Data not available | Data not available | ✅ Recommended (strong in instrumentation) |
 | 2 | IEEE Transactions on Emerging Topics in Computational Intelligence | Emerging computational intelligence topics | United States | Data not available | Data not available | Data not available | IEEE | Hybrid / Subscription | Data not available | Data not available | ⚠️ Good for emerging CI research |
@@ -181,11 +176,6 @@ Star this repo if you find it useful ⭐
 | 32 | Software: Practice and Experience | Software engineering practice, empirical studies | United States | Data not available | Data not available | Data not available | Wiley | Hybrid | Data not available | Data not available | ✅ Strong for software practice & tools |
 
 </details>
-
-
-
-
-
 
 <details> 
 <summary> <h2>📚Published Works </h2> </summary>
@@ -1072,6 +1062,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
