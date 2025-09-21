@@ -190,6 +190,9 @@ Star this repo if you find it useful ⭐
 |[**20121-Student Next Assignment Submission Prediction Using a Machine Learning Approach**](https://link.springer.com/chapter/10.1007/978-3-030-71119-1_38)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Work/blob/main/PredictNextAssigment.ipynb)|[**Dataset**](https://github.com/hussain0048/Research-Work/blob/main/StudentNextSessionf.csv)|[**Paper**](https://github.com/hussain0048/Research-Work/blob/main/Salal2021_Chapter_StudentNextAssignmentSubmissio.pdf)|
 </details>
 
+<details>
+<summary> <h2>📚 MS student Thesis</h2> </summary>
+
 <details> 
 <summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity✅ Completed</h2> </summary>
   
@@ -761,6 +764,7 @@ Title: Literature Review - Chatbot Summarization
 
 </details>
 
+</details>
 
 <details> 
 <summary> <h2>🔎 Research Paper:Patient Pain Detection from Facial Expressions </h2> </summary>
@@ -807,6 +811,7 @@ Title: Literature Review - Chatbot Summarization
 |**🌐2- Machine learning algorithms for teaching AI chat bots** | 2021 |1. Which machine learning algorithms are most successful in training AI chatbots for various tasks?|N/A|The paper does not cover various methods for evaluating the effectiveness of chatbot training algorithms. How can we measure a chatbot's ability to hold natural conversations, understand user intent, and generate appropriate responses?|Microservice architecture is used and the speed of message processing and preparation of responses by the chatbot will not change depending on the load on the server and the number of incoming messages. |
 
 </details>
+
 <details> 
 <summary> <h2>📕 Research Resources </h2> </summary>
 
@@ -1063,6 +1068,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
