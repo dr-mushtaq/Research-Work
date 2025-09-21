@@ -192,6 +192,11 @@ Star this repo if you find it useful ⭐
 
 <details>
 <summary> <h2>📚 MS student Thesis</h2> </summary>
+This section showcases MS students' thesis work supervised and contributed to within this repository.  
+Each thesis includes literature reviews, research questions, datasets, implementation notebooks,  
+performance benchmarks, and final thesis documents. These projects highlight real-world applications  
+of machine learning, deep learning, computer vision, NLP, and e-learning systems, serving as  
+valuable references for future researchers.
 
 <details> 
 <summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity✅ Completed</h2> </summary>
@@ -1068,6 +1073,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
