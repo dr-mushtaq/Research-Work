@@ -198,9 +198,22 @@ real-world applications of AI, ML, CV, NLP, and E-Learning.
 <details> 
 <summary> <h2>🔎Thesis-(2022-24)-M Shujaat✅ Completed</h2> </summary>
 
-  ### Descripton: Focused on applying ML and deep learning models for road traffic accident analysis, injury severity prediction, and safety insights.
+# 🚦 Road Accident Analysis and Prediction of Injury Severity
 
-#### Title:-Road accident Analysis and prediction of injury severity
+## 📌 Description
+This project focuses on applying **machine learning (ML)** and **deep learning (DL)** models to analyze road traffic accidents, predict **injury severity**, and generate actionable **safety insights**.  
+By leveraging data-driven techniques, the goal is to support **traffic safety management, accident prevention strategies, and informed policy-making**.  
+
+## 🎯 Key Objectives
+- 📊 Accident data preprocessing & visualization  
+- 🏗️ Feature engineering for traffic & injury patterns  
+- 🤖 ML/DL models for injury severity prediction  
+- ⚖️ Comparative analysis of traditional vs. deep learning methods  
+- 🚧 Insights to improve road safety and reduce fatalities
+- 
+## 💡 Impact
+This project contributes to building **smarter, safer transportation systems** by combining **AI-powered prediction** with **real-world accident data**.
+
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -1078,6 +1091,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
