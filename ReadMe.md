@@ -190,7 +190,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-24)-M Shujaat-Road accident Analysis and prediction of injury severity✅ Completed</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -236,7 +236,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎Thesis-Samman Arooj</h2> </summary>
+<summary> <h2>🔎Thesis-Samman Arooj🟡 In Progress</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -297,7 +297,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)-Predicting Student Performance in e-learning system</h2> </summary>
+<summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)-Predicting Student Performance in e-learning system✅ Completed</h2> </summary>
 
 ## 📚Chapter: 1  - **Literature Review**
 | Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|Limitations |Future Directions|
@@ -339,7 +339,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization</h2> </summary>
+<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization✅ Completed</h2> </summary>
 
 ### 🎯 Research Objective
 This thesis proposes a hybrid text summarization model combining T5 and BERT to enhance summary coherence and factual accuracy, benchmarked on a custom dataset.
@@ -419,7 +419,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Muhammad Usaman(2024-)</h2> </summary>
+<summary> <h2>🔎Thesis-Muhammad Usaman🟡 In Progress(2024-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
 |Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations |Future Directions|
@@ -471,7 +471,7 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis - Kashif Latif(2025-)</h2> </summary>
+<summary> <h2>🔎Thesis - Kashif Latif🟡 In Progress(2025-)</h2> </summary>
 
 ## 📚Chapter: 1  - **Literature Review**
 
@@ -542,7 +542,7 @@ Title: Literature Review - Chatbot Summarization
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2022-)-Haleema Inam Paracha</h2> </summary>
+<summary> <h2>🔎Thesis-(2022-)-Haleema Inam Paracha✅ Completed</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -577,7 +577,7 @@ Title: Literature Review - Chatbot Summarization
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Shakeel Ahmed (2025-)</h2> </summary>
+<summary> <h2>🔎Thesis-Shakeel Ahmed🟡 In Progress (2025-)</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
  
@@ -640,7 +640,7 @@ Title: Literature Review - Chatbot Summarization
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-(2024-0)-Haris</h2> </summary>
+<summary> <h2>🔎Thesis-(2024-0)-Haris🟡 In Progress</h2> </summary>
   
 ## 📚Chapter: 1  - **Literature Review**
 
@@ -1062,6 +1062,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
