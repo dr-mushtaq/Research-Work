@@ -349,7 +349,9 @@ Title :-Predicting Student Performance in e-learning system
 </details>
 
 <details> 
-<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)-Hybrid Approach for Text Summarization✅ Completed</h2> </summary>
+<summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)✅ Completed</h2> </summary>
+
+## Title:-Hybrid Approach for Text Summarization
 
 ### 🎯 Research Objective
 This thesis proposes a hybrid text summarization model combining T5 and BERT to enhance summary coherence and factual accuracy, benchmarked on a custom dataset.
@@ -1074,6 +1076,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
