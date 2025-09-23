@@ -943,6 +943,8 @@ Title: Literature Review - Chatbot Summarization
 | [Okular](https://okular.kde.org/) | Research PDF annotation |
 | [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
 | [✅ Consensus](https://consensus.app/) |Consensus is an AI-powered search engine designed to help users find and understand scientific research papers quickly and efficiently|
+| [✅ Research Paper Video Generator](https://researchpapervideos.com/) |Transform complex research papers into engaging educational videos in minutes|
+
 
 ## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
 | Tool | Description |
@@ -1091,6 +1093,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
