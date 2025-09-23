@@ -873,6 +873,8 @@ Title: Literature Review - Chatbot Summarization
 | 30 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |
 | 31 | [✅Researchrabbitapp](https://researchrabbitapp.com/home) | Find and Manage literature Review |
 | 32 | [✅Research GAP Chatgpt](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find Research Gap with Chatgpt |
+| 33 | [✅Context-Aware Literature Engine]| Comming soon |
+
 
 
 
@@ -1093,6 +1095,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
