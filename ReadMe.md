@@ -1001,6 +1001,7 @@ Title: Literature Review - Chatbot Summarization
 - [JournalGuide](https://www.journalguide.com/)
 - [trinka](https://www.trinka.ai/)
 - [ExCITATION journal ranking in Google Scholar](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia/support?pli=1)
+- [ScienceGate](https://www.sciencegate.app/app/journal-finder)
 
 ## 🔍  Chapter12: - **📚 Free Paper Access**
 | Tool | Description |
@@ -1096,6 +1097,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
