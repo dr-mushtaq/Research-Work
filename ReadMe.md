@@ -410,7 +410,21 @@ This project contributes to **personalized learning** and **student support syst
 <details> 
 <summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)✅ Completed</h2> </summary>
 
-## Title:-Hybrid Approach for Text Summarization
+    # 📖 Hybrid Approach for Text Summarization
+
+## 📌 Description
+This thesis develops a **hybrid model for text summarization** by combining **T5** and **BERT** architectures. The approach improves **coherence, factual accuracy, and evaluation scores** compared to baseline transformer models.  
+The study also introduces a **custom dataset** and benchmarks performance with standard metrics such as ROUGE and BERTScore.
+
+## 🎯 Key Objectives
+- ⚙️ Implement a hybrid method integrating Word Frequency Algorithm with transformer models (T5, BART).  
+- 🧠 Fine-tune T5 and BART on a custom dataset to enhance abstractive summarization quality.  
+- 📊 Compare hybrid and baseline models using ROUGE and BERTScore metrics.  
+- 🛠️ Deploy an interactive application to demonstrate real-world usability.  
+
+## 💡 Impact
+This research contributes to **Natural Language Processing (NLP)** by proposing a hybrid summarization approach that bridges the gap between extractive and abstractive methods.  
+It enhances **summary quality and factual consistency**, and provides an **open-source dataset, code, and application** for future research in automated text summarization.  
 
 ### 🎯 Research Objective
 This thesis proposes a hybrid text summarization model combining T5 and BERT to enhance summary coherence and factual accuracy, benchmarked on a custom dataset.
@@ -1144,6 +1158,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
