@@ -353,8 +353,21 @@ This project contributes to building **smarter, safer transportation systems** b
 <details> 
 <summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)✅ Completed</h2> </summary>
 
-Title :-Predicting Student Performance in e-learning system
+# 🎓 Predicting Student Performance in E-Learning Systems
 
+## 📌 Description
+This project focuses on predicting **student performance in e-learning platforms** using **machine learning (ML)** and **deep learning (DL)** models.  
+The aim is to develop an **early warning system** that helps instructors identify at-risk students, provide timely interventions, and enhance overall learning outcomes.  
+
+## 🎯 Key Objectives
+- 📊 Analyze student behavioral and academic data from LMS platforms  
+- 🏗️ Apply supervised and unsupervised ML algorithms for performance prediction  
+- 🤖 Benchmark ML/DL models (RF, CNN, etc.) for accuracy and reliability  
+- ⚠️ Develop early-warning mechanisms for dropout risk detection  
+- 🚀 Provide actionable insights to improve student retention and success  
+
+## 💡 Impact
+This project contributes to **personalized learning** and **student support systems**, enabling universities to better predict outcomes and take **data-driven decisions** to improve retention and academic performance.  
 ## 📚Chapter: 1  - **Literature Review**
 | Title| Published Date | Research Questions | Model Performance Metrics | Research Gap | Taking Notes |Input/Target Features|Journal name/ Category|Limitations |Future Directions|
 | --- | --- | --- | --- | --- | --- |---|---|---|---|
@@ -1131,6 +1144,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
