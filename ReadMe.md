@@ -1005,6 +1005,7 @@ Title: Literature Review - Chatbot Summarization
 - [Global Journal Database (Editage)](https://researcher.life/journal/search?requestId=626565e3-381a-4de3-b3d6-23dda876cf81)
 - [Journal Searche](https://journalsearches.com/scopus.php)
 - [Think. Check.Submit](https://thinkchecksubmit.org/journals/)
+- [Clarivate Master Journal List](https://mjl.clarivate.com/manuscript-matcher)
 
 ## 🔍  Chapter12: - **📚 Free Paper Access**
 | Tool | Description |
@@ -1100,6 +1101,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
