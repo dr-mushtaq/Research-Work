@@ -12,6 +12,36 @@ Welcome to the A-Z Guide to Research Work repository! This space is dedicated to
 [🔍 Search Papers](https://github.com/dr-mushtaq/Research-Work/search?q=) | 
 [💬 Discussion Forum](https://github.com/dr-mushtaq/Research-Work/discussions/categories/q-a)
 
+# 📚 A-Z Guide to Research Work  
+
+Welcome to the **A-Z Guide to Research Work** repository!  
+This space is dedicated to fostering collaboration among students, researchers, and professors in advancing academic research and projects.  
+
+---
+
+## 📑 Table of Contents  
+
+1. [Research Collaborate 🤝](#-research-collaborate-)  
+2. [Quick Access](#-quick-access)  
+3. [Overview](#-overview)  
+4. [Why Join This Collaboration?](#-why-join-this-collaboration-)  
+5. [Features](#-features)  
+6. [Contents](#-contents)  
+7. [Usage](#-usage)  
+8. [Contributing](#-contributing)  
+9. [Join Our Community](#-join-our-community)  
+10. [Important Research Softwares, Websites, Articles](#-important-research-softwares-websites-article)  
+11. [Find the Right Journal](#-find-the-right-journal)  
+12. [Published Works](#-published-works)  
+13. [MS Student Thesis](#-ms-student-thesis)  
+    - [Thesis (2022–24) – M Shujaat ✅ Completed](#-thesis-2022-24--m-shujaat-completed)  
+    - [Thesis – Samman Arooj 🟡 In Progress](#-thesis--samman-arooj-in-progress)  
+    - [Thesis (2021–24) – Ahsan Saleem ✅ Completed](#-thesis-2021-2024--ahsan-saleem-completed)  
+    - [Thesis (2023–25) – Nabila Anum ✅ Completed](#-thesis-2023-2025--nabila-anum-completed)  
+    - [Thesis – Muhammad Usaman 🟡 In Progress](#-thesis--muhammad-usaman-in-progress)  
+14. [Student Task Tracker](#-student-task-tracker)  
+15. [Additional Resources](#-resources)  
+
 ## **Overview👋🛒**
 
 This repository serves as a collaborative platform for:
@@ -1101,6 +1131,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
