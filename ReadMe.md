@@ -353,7 +353,7 @@ This project contributes to building **smarter, safer transportation systems** b
 <details> 
 <summary> <h2>🔎Thesis- Ahsan Saleem(2021-2024)✅ Completed</h2> </summary>
 
-# 🎓 Predicting Student Performance in E-Learning Systems
+#🎓 Predicting Student Performance in E-Learning Systems
 
 ## 📌 Description
 This project focuses on predicting **student performance in e-learning platforms** using **machine learning (ML)** and **deep learning (DL)** models.  
@@ -410,7 +410,7 @@ This project contributes to **personalized learning** and **student support syst
 <details> 
 <summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)✅ Completed</h2> </summary>
 
-    # 📖 Hybrid Approach for Text Summarization
+    #📖 Hybrid Approach for Text Summarization
 
 ## 📌 Description
 This thesis develops a **hybrid model for text summarization** by combining **T5** and **BERT** architectures. The approach improves **coherence, factual accuracy, and evaluation scores** compared to baseline transformer models.  
@@ -1158,6 +1158,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
