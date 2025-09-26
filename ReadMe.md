@@ -410,7 +410,7 @@ This project contributes to **personalized learning** and **student support syst
 <details> 
 <summary> <h2>🔎Thesis-Nabil Anum( 2023-2025)✅ Completed</h2> </summary>
 
-    #📖 Hybrid Approach for Text Summarization
+# 🚦  Hybrid Approach for Text Summarization
 
 ## 📌 Description
 This thesis develops a **hybrid model for text summarization** by combining **T5** and **BERT** architectures. The approach improves **coherence, factual accuracy, and evaluation scores** compared to baseline transformer models.  
@@ -726,6 +726,26 @@ Title: Literature Review - Chatbot Summarization
 
 <details> 
 <summary> <h2>🔎Thesis-(2024-0)-Haris🟡 In Progress</h2> </summary>
+
+# 🚦 Hybrid Deep Learning for Traffic Flow Forecasting
+
+## 📌 Description
+This ongoing thesis focuses on **short-term and long-term road traffic flow prediction** using **hybrid deep learning and time-series models**.  
+The study explores advanced architectures (LSTM, TSMixer, DASNet, Neural Prophet) and their combinations, while incorporating **temporal and external features** such as weather, holidays, and timestamps.  
+
+## 🎯 Key Objectives
+- ⚙️ Review existing ML, DL, and hybrid models for traffic forecasting  
+- 🧠 Implement hybrid architectures (e.g., LSTM + TSMixer, LSTM + DASNet)  
+- 🌦️ Investigate the role of external features (weather, holidays, events) in model accuracy  
+- 📊 Perform ablation studies to evaluate feature contributions  
+- 🛠️ Benchmark models with RMSE, MAE, MAPE, and R² across public datasets  
+- 🚀 Develop an interactive prototype for real-time traffic flow prediction  
+
+## 💡 Impact
+The research aims to improve **urban mobility planning** and **intelligent transport systems** by building models that are:  
+- ✅ More accurate than traditional ARIMA/SARIMA baselines  
+- ✅ Capable of handling nonlinear, spatiotemporal traffic patterns  
+- ✅ Interpretable for policy-makers using explainable AI (XAI)  
   
 ## 📚Chapter: 1  - **Literature Review**
 
@@ -1158,6 +1178,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
