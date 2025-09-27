@@ -505,6 +505,28 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 
 <details> 
 <summary> <h2>🔎Thesis-Muhammad Usaman🟡 In Progress(2024-)</h2> </summary>
+
+
+# 💬 Comparative Analysis of Deep Learning Models for Educational Chatbots
+
+## 📌 Description
+This study addresses the growing challenge of providing **timely academic and administrative support** in universities due to rising student numbers and increased faculty workload.  
+The research proposes a **comparative evaluation of deep learning models** to develop an educational chatbot that delivers fast and accurate responses.  
+Models will be trained on a **Frequently Asked Questions (FAQs) dataset** collected from the Virtual University of Pakistan.  
+
+## 🎯 Key Objectives
+- 🧠 Investigate multiple deep learning models for chatbot development  
+- ⚙️ Train and evaluate models on the Virtual University FAQs dataset  
+- 📊 Compare models in terms of accuracy, response time, and robustness  
+- 🚀 Identify the most effective model for scalable educational chatbot systems  
+
+## 💡 Impact
+The project aims to build an **intelligent, reliable, and scalable educational chatbot** that:  
+- ✅ Provides instant academic and administrative support to students  
+- ✅ Reduces faculty workload in digital and distance education  
+- ✅ Contributes to **Natural Language Understanding (NLU)** research through structured performance evaluation  
+
+**Keywords**: Rasa, BERT, FAISS, educational chatbot, chatbot performance evaluation, natural language understanding  
   
 ## 📚Chapter: 1  - **Literature Review**
 |Title| Published Date| Research Questions| Models performance|Research Gap|Taking Notes|Input/Target Features|Journal name/ Category|Limitations |Future Directions|
@@ -1178,6 +1200,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
