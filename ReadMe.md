@@ -629,90 +629,111 @@ Title: Literature Review - Chatbot Summarization
 | Ablation Study on Traffic Forecasting Techniques | Comparative Study | Internal | 2024 | General Forecasting | Compare hybrid and single models | Layerwise comparison of models | LSTM, ARIMA, TSMixer, DASNet | Historical, holidays, weather | Traffic prediction | MAE, RMSE, MAPE, R² | Metro Interstate Dataset | Ablation on models/features | Needs interpretability | Use XAI and distillation | Evaluates forecasting stack |
 ---
 ## 📚Chapter: 2  - **Thesis/Publication**
+**Research Questions:**
+- **RQ1:** How can road traffic prediction be enhanced by using a hybrid approach combining Deep Learning time series models and temporal features?  
+- **RQ1.1:** How does combining Time Series Analysis with Deep Learning models and incorporating temporal features impact forecasting accuracy?  
 
-| Final Synopsis| Defance Date| Research Questions|Research Gap|Dataset|Notebook|Blog|Diagram| Final Thesis|
-|---|---|---|---|---|---|---|---|---|
-|[Synopis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx)| **June-14-2024** | Q1: How to road traffic prediction can be enhanced by using the Hybrid approach of Deep Learning time series model and temporal features? Q1.1: How does combining Time Series Analysis along with Deep Learning models and incorporation of temporal features impact the forecasting accuracy of the model?|Research Gap|[1](https://github.com/haris-lutafullah/Research-Work/blob/main/Metro_Interstate_Traffic_Volume.csv)-2|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/haris-lutafullah/Research-Work/blob/main/traffic_prediction_system.ipynb)|Medium|Diagram| Final Thesis|
+
+| Final Synopsis | Defance Date | Research Gap | Dataset | Notebook | Blog | Diagram | Final Thesis |
+|----------------|---------------|---------------|----------|-----------|--------|-----------|---------------|
+| [Synopsis file](https://github.com/hussain0048/Research-Work/blob/main/Synopsis%20V%202.0%20.docx) | **June-14-2024** | Research Gap | [1](https://github.com/haris-lutafullah/Research-Work/blob/main/Metro_Interstate_Traffic_Volume.csv)-2 | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/haris-lutafullah/Research-Work/blob/main/traffic_prediction_system.ipynb) | Medium | Diagram | Final Thesis |
+
 ---
 ##  📚Chapter: 3  **Model Comparisions**
-| Model                   | MSE     | RMSE    | MAE     | MAPE      | R²      |
-|-------------------------|---------|---------|---------|-----------|---------|
-| LSTM                    | 0.00337 | 0.05808 | 0.03912 | 15.31766  | 0.95382 |
-| ARIMA                   | 0.07302 | 0.27022 | 0.23653 | 171.01253 | 0.00044 |
-| TSMixer                 | 0.00910 | 0.09539 | 0.07183 | 30.15966  | 0.87543 |
-| Hybrid LSTM-TSMixer     | 0.00323 | 0.05680 | 0.03807 | 14.18662  | 0.95584 |
-| Hybrid KNN-LSTM         | 0.00439 | 0.06627 | 0.04615 | 188.48302 | 0.93989 |
-| DasNet                  | 0.00462 | 0.06796 | 0.04793 | 181.96070 | 0.93678 |
-| Hybrid DasNet-LSTM      | 0.00578 | 0.07601 | 0.05473 | 187.07074 | 0.92091 |
-| TimeMixer               | 0.00494 | 0.07026 | 0.04956 | 21.14279  | 0.93243 |
-| Hybrid TimeMixer-LSTM   | 0.00494 | 0.07026 | 0.04956 | 21.14279  | 0.93243 |
+| Model                     | MSE     | RMSE    | MAE     | MAPE      | R²       |
+|----------------------------|---------|---------|---------|-----------|----------|
+| LSTM                      | 0.00396 | 0.06292 | 0.04345 | 16.28731  | 0.94582  |
+| ARIMA                     | 0.07302 | 0.27022 | 0.23653 | 171.01306 | 0.00044  |
+| TSMixer                   | 0.01091 | 0.10446 | 0.07621 | 35.99764  | 0.85062  |
+| **Hybrid LSTM–TSMixer**   | **0.00331** | **0.05755** | **0.03826** | **14.28339** | **0.95467** |
+| Hybrid KNN–LSTM           | 0.00620 | 0.07872 | 0.05428 | 184.69833 | 0.91517  |
+| Graph Convolution Network | 0.00714 | 0.08448 | 0.06221 | 185.53578 | 0.90230  |
+| DasNet                    | 0.00391 | 0.06254 | 0.04371 | 187.29918 | 0.94645  |
+| Hybrid DasNet–LSTM        | 0.01133 | 0.10646 | 0.08462 | 60.27530  | 0.84487  |
+| TimeMixer                 | 0.00606 | 0.07783 | 0.05583 | 21.19308  | 0.91709  |
+| Hybrid TimeMixer–LSTM     | 0.00606 | 0.07783 | 0.05583 | 21.19308  | 0.91709  |
+
 ---
 ##  📚Chapter: 4  **Ablation Study**
 
 ### Evaluation Metrics of All Implemented Models after Removing `weather_main`
 
 | Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
-|-------------------------|---------|---------|---------|-----------|----------|
-| LSTM                    | 0.00368 | 0.06069 | 0.04304 | 17.82413  | 0.94958  |
-| SARIMA                  | 0.24817 | 0.49817 | 0.41801 | 103.82133 | -2.39711 |
-| TSMixer                 | 0.01005 | 0.10023 | 0.07584 | 31.32346  | 0.86247  |
-| Hybrid LSTM-TSMixer     | 0.00344 | 0.05868 | 0.03991 | 16.01496  | 0.95286  |
-| Hybrid KNN-LSTM         | 0.00432 | 0.06572 | 0.04549 | 189.59894 | 0.94088  |
-| DasNet                  | 0.00463 | 0.06802 | 0.04851 | 193.08089 | 0.93666  |
-| Hybrid DasNet-LSTM      | 0.00609 | 0.07806 | 0.05670 | 188.33041 | 0.91659  |
-| TimeMixer               | 0.00449 | 0.06701 | 0.04619 | 16.53425  | 0.93853  |
-| Hybrid TimeMixer-LSTM   | 0.00449 | 0.06701 | 0.04619 | 16.53425  | 0.93853  |
+|--------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00443 | 0.06656 | 0.04870 | 20.59214  | 0.93936  |
+| ARIMA                   | 0.07302 | 0.27022 | 0.23653 | 171.01306 | 0.00044  |
+| TSMixer                 | 0.01514 | 0.12305 | 0.09287 | 48.30686  | 0.79273  |
+| Hybrid LSTM–TSMixer     | 0.00354 | 0.05951 | 0.04014 | 15.58105  | 0.95152  |
+| Hybrid KNN–LSTM         | 0.00431 | 0.06563 | 0.04524 | 184.90974 | 0.94104  |
+| DasNet                  | 0.00452 | 0.06724 | 0.04651 | 188.45924 | 0.93810  |
+| Hybrid DasNet–LSTM      | 0.00787 | 0.08871 | 0.06556 | 32.45347  | 0.89229  |
+| TimeMixer               | 0.00686 | 0.08282 | 0.06074 | 25.81920  | 0.90610  |
+| Hybrid TimeMixer–LSTM   | 0.00686 | 0.08282 | 0.06074 | 25.81920  | 0.90610  |
+
 
 
 
 ### Evaluation Metrics of All Implemented Models after Removing `weather_description`
 
 | Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
-|-------------------------|---------|---------|---------|-----------|----------|
-| LSTM                    | 0.00347 | 0.05892 | 0.04012 | 15.83537  | 0.95248  |
-| SARIMA                  | 0.24843 | 0.49843 | 0.41826 | 103.91815 | -2.40065 |
-| TSMixer                 | 0.00896 | 0.09468 | 0.07112 | 30.78347  | 0.87730  |
-| Hybrid LSTM-TSMixer     | 0.00326 | 0.05708 | 0.03832 | 14.54455  | 0.95540  |
-| Hybrid KNN-LSTM         | 0.00425 | 0.06519 | 0.04551 | 189.02622 | 0.94183  |
-| DasNet                  | 0.00445 | 0.06674 | 0.04772 | 186.18647 | 0.93903  |
-| Hybrid DasNet-LSTM      | 0.00556 | 0.07454 | 0.05424 | 187.06973 | 0.92394  |
-| TimeMixer               | 0.00448 | 0.06693 | 0.04703 | 18.01305  | 0.93868  |
-| Hybrid TimeMixer-LSTM   | 0.00448 | 0.06693 | 0.04703 | 18.01305  | 0.93868  |
+|--------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00448 | 0.06690 | 0.04666 | 15.92518  | 0.93873  |
+| ARIMA                   | 0.07302 | 0.27022 | 0.23653 | 171.01306 | 0.00044  |
+| TSMixer                 | 0.01450 | 0.12042 | 0.09031 | 46.20510  | 0.80149  |
+| **Hybrid LSTM–TSMixer** | 0.00340 | 0.05835 | 0.03890 | 14.58924  | 0.95339  |
+| Hybrid KNN–LSTM         | 0.00425 | 0.06522 | 0.04506 | 190.01820 | 0.94178  |
+| DasNet                  | 0.00457 | 0.06760 | 0.04855 | 185.77364 | 0.93744  |
+| Hybrid DasNet–LSTM      | 0.00756 | 0.08692 | 0.06389 | 30.74642  | 0.89658  |
+| TimeMixer               | 0.00610 | 0.07807 | 0.05545 | 19.68201  | 0.91657  |
+| Hybrid TimeMixer–LSTM   | 0.00610 | 0.07807 | 0.05545 | 19.68201  | 0.91657  |
+
 
 
 ### Evaluation Metrics of All Implemented Models after Removing `holiday` Feature
 
 | Model                   | MSE     | RMSE    | MAE     | MAPE      | R²       |
-|-------------------------|---------|---------|---------|-----------|----------|
-| LSTM                    | 0.00373 | 0.06107 | 0.04125 | 14.85783  | 0.94895  |
-| SARIMA                  | 0.24817 | 0.49817 | 0.41801 | 103.82133 | -2.39711 |
-| TSMixer                 | 0.00914 | 0.09561 | 0.07159 | 29.92967  | 0.87486  |
-| Hybrid LSTM-TSMixer     | 0.00328 | 0.05731 | 0.03875 | 14.94852  | 0.95504  |
-| Hybrid KNN-LSTM         | 0.00440 | 0.06636 | 0.04621 | 186.37025 | 0.93972  |
-| DasNet                  | 0.00432 | 0.06570 | 0.04550 | 189.46190 | 0.94092  |
-| Hybrid DasNet-LSTM      | 0.00550 | 0.07413 | 0.05349 | 187.33961 | 0.92478  |
-| TimeMixer               | 0.00460 | 0.06786 | 0.04691 | 16.19087  | 0.93697  |
-| Hybrid TimeMixer-LSTM   | 0.00460 | 0.06786 | 0.04691 | 16.19087  | 0.93697  |
+|--------------------------|---------|---------|---------|-----------|----------|
+| LSTM                    | 0.00422 | 0.06495 | 0.04716 | 22.77833  | 0.94225  |
+| ARIMA                   | 0.07302 | 0.27022 | 0.23653 | 171.01306 | 0.00044  |
+| TSMixer                 | 0.00745 | 0.08630 | 0.05975 | 19.73080  | 0.89805  |
+| **Hybrid LSTM–TSMixer** | 0.00345 | 0.05874 | 0.04021 | 15.36646  | 0.95277  |
+| Hybrid KNN–LSTM         | 0.00443 | 0.06657 | 0.04673 | 187.00677 | 0.93935  |
+| DasNet                  | 0.00433 | 0.06578 | 0.04605 | 186.82660 | 0.94077  |
+| Hybrid DasNet–LSTM      | 0.00763 | 0.08733 | 0.06441 | 31.49635  | 0.89561  |
+| TimeMixer               | 0.00579 | 0.07611 | 0.05427 | 21.10230  | 0.92070  |
+| Hybrid TimeMixer–LSTM   | 0.00579 | 0.07611 | 0.05427 | 21.10230  | 0.92070  |
+
 ---
 ##  📚Chapter: 5  **Model metrics benchmarks**
 
-| Model               | MSE     | RMSE    | MAE     | MAPE     | R²      |
-|---------------------|---------|---------|---------|----------|---------|
-| LSTM                | 0.00337 | 0.05808 | 0.03912 | 15.31766 | 0.95382 |
-| ARIMA               | 0.07302 | 0.27022 | 0.23653 | 171.01253| 0.00044 |
-| TSMixer             | 0.00910 | 0.09539 | 0.07183 | 30.15966 | 0.87543 |
-| DasNet              | 0.00462 | 0.06796 | 0.04793 | 181.96070| 0.93678 |
-| TimeMixer           | 0.00494 | 0.07026 | 0.04956 | 21.14279 | 0.93243 |
-| Hybrid LSTM-TSMixer | 0.00323 | 0.05680 | 0.03807 | 14.18662 | 0.95584 |
-| MSTIM (Quin et al., 2025) | 0.10480 | 0.32370 | 0.21200 | N/A      | N/A     |
+| Model                         | MSE     | RMSE    | MAE     | MAPE      | R²       |
+|--------------------------------|---------|---------|---------|-----------|----------|
+| MSTIM *(Qin et al., 2025)*     | 0.1048  | 0.3237  | 0.2120  | N/A       | N/A      |
+| **Hybrid LSTM–TSMixer**        | **0.00331** | **0.05755** | **0.03826** | **14.28339** | **0.95467** |
+
 ---
-## 📚Chapter: 6  - **Apps Details**
+##  📚Chapter: 6  **K-Fold Cross Validation Results**
+
+| Model                | Average MSE | Average RMSE | Average MAE | Average R² |
+|-----------------------|-------------|--------------|--------------|-------------|
+| LSTM                 | 0.00748     | 0.08472      | 0.05769      | 0.89959     |
+| TSMixer              | 0.01331     | 0.11483      | 0.08242      | 0.82129     |
+| Hybrid LSTM–TSMixer  | 0.00535     | 0.07311      | 0.04555      | 0.92846     |
+| Hybrid KNN–LSTM      | 0.00439     | 0.06625      | 0.04399      | 0.94123     |
+| GCN                  | 0.00920     | 0.09580      | 0.06670      | 0.87660     |
+| DASNet               | 0.00750     | 0.08630      | 0.05720      | 0.90010     |
+| Hybrid GCN–DASNet    | 0.01014     | 0.10170      | 0.07064      | 0.86340     |
+| TimeMixer            | 0.00840     | 0.09140      | 0.06270      | 0.88760     |
+| Hybrid LSTM–TimeMixer| 0.00580     | 0.07610      | 0.05020      | 0.92210     |
+
+---
+## 📚Chapter: 7  - **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 ---
-## 📚Chapter: 7  - **🔎Resources**
+## 📚Chapter: 8  - **🔎Resources**
 
    - [**Essential Apps and Websites for Every PhD Student**](https://medium.com/@Coursesteach/best-softwares-and-websites-for-research-71fc8af31f5c)
    -  [**How to respond to comments received in Peer Review**](https://medium.com/@Coursesteach/how-to-respond-to-comments-received-in-peer-review-31aa0946d233)
@@ -729,6 +750,31 @@ Title: Literature Review - Chatbot Summarization
 
 </details>
 
+### Latest Forecasting Models
+### Latest Forecasting Models
+
+| **Category** | **Model Name** |
+|---------------|----------------|
+| **Hybrid Models** | ResNet-LSTM |
+|  | Hybrid GSA-LSTM Model |
+|  | Queue Hybrid Neural Network (QHNN) model based on LSTM and GRU |
+|  | BDLSTM-CNN |
+|  | KNN-LSTM |
+|  | CCF-Deep LSTM Method |
+| **Transformer-Based Models** | LSTTN (Long-Short Term Transformer-based Network) |
+|  | HutFormer |
+|  | R2T-LLM (Responsible and Reliable Traffic Flow Forecasting with Large Language Models) |
+|  | TSMixer |
+|  | TimeMixer |
+| **Attention-Based Models** | Shuffle Attention ARIMA Conv-LSTM |
+|  | Ensemble Attention Graph Time Convolutional Networks (EAGTCN) |
+| **Deep Neural Network Variants** | Kernel Extreme Learning Machine (KELM) |
+|  | ConvLSTMTransNet |
+|  | W-CNN-LSTM |
+| **Advanced LSTM Variants** | Linear-layer-enhanced Quantum Long Short-Term Memory (L-QLSTM) |
+|  | LSTM-mTrans-MLP |
+| **Next-Gen Architectures** | Mambaformer |
+|  | Deep Traffic Predictor (DeepTP) |
 
 <details> 
 <summary> <h2>🔎 Research Paper:Patient Pain Detection from Facial Expressions </h2> </summary>
@@ -1031,6 +1077,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
