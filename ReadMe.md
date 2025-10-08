@@ -747,12 +747,7 @@ Title: Literature Review - Chatbot Summarization
    -  [**Best For ML Python**](https://github.com/ml-tooling/best-of-ml-python)
    -  [**Time Series Forecasting: Step-by-Step Guide to Implementing ARIMA in Python**](https://www.youtube.com/watch?v=bAtgpOpAQS0&list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&index=7)
    -  [**Time Series forcasting with pycaret building multistep prediction**](https://machinelearningmastery.com/time-series-forecasting-with-pycaret-building-multi-step-prediction-model)
-
-</details>
-
-### Latest Forecasting Models
-### Latest Forecasting Models
-
+## 📚Chapter: 9  - **Latest Forecasting Models**
 | **Category** | **Model Name** |
 |---------------|----------------|
 | **Hybrid Models** | ResNet-LSTM |
@@ -775,6 +770,15 @@ Title: Literature Review - Chatbot Summarization
 |  | LSTM-mTrans-MLP |
 | **Next-Gen Architectures** | Mambaformer |
 |  | Deep Traffic Predictor (DeepTP) |
+
+ 
+
+
+</details>
+
+
+
+
 
 <details> 
 <summary> <h2>🔎 Research Paper:Patient Pain Detection from Facial Expressions </h2> </summary>
@@ -1077,6 +1081,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
