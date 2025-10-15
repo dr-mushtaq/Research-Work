@@ -1057,6 +1057,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | [Scopus](https://www.scopus.com/) | Elsevier's citation index |
 | [Resurchify](https://www.resurchify.com/) | Impact factor and Q-ranks |
 | [Think. Check. Submit](https://thinkchecksubmit.org/) | Journal credibility checklist |
+| [ExCITATION journal ranking in Google Scholar](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia?hl=en&pli=1) | Find Journal Quality  |
 
 ## 🔍  Chapter7: - **📤 Deposit & Share Data**
 | Tool | Description |
@@ -1200,6 +1201,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
