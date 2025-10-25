@@ -951,10 +951,10 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 <summary> <h2>📕 Research Resources </h2> </summary>
 
 ## 🔍  Chapter1: - **Literature Management and Search**
-| No. |             Tool                    |              Description                       |Resources| Feedback|
+| No. |             Tool                    |              Tages                      |Resources| Feedback|
 |-----|-------------------------------------|------------------------------------------------|--------|----------|
-| 1 | [Mendeley](https://www.mendeley.com/) | Reference manager and academic social network |
-| 2 | [Naimai - Tutorial 1](#) | Literature management tutorial |
+| 1 | [Mendeley](https://www.mendeley.com/) | Reference, academic social network |
+| 2 | [Naimai - Tutorial 1](#) | Literature management  |
 | 3 | [Docear](https://www.docear.org/) | Academic literature management tool |
 | 4 | [Connected Papers](https://www.connectedpapers.com/) | Visualize relationships between papers |
 | 5 | [Perplexity AI](https://www.perplexity.ai/) | AI-powered research assistant |
@@ -1213,6 +1213,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
