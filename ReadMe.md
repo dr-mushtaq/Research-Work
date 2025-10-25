@@ -965,8 +965,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 10 | [Paper Digest](https://www.paperdigest.org/) | Auto-summary of research papers |
 | 11 | [Papers with Code](https://paperswithcode.com/) | Papers + Code + evaluation tables |
 | 12 | [arXiv](https://arxiv.org/) | Preprint server for scientific papers |
-| 13 | [Research Rabbit](https://www.researchrabbit.ai/) | Visual citation exploration tool |
-| 14 | [Litmaps](https://www.litmaps.com/) | Track, correlate, and monitor research |
+| 13 | [✅Research Rabbit](https://www.researchrabbit.ai/) | Visual citation exploration, Research GAP |
+| 14 | [✅Litmaps](https://www.litmaps.com/) | Research Gap, and monitor research |
 | 15 | [Scinapse](https://www.scinapse.io/) | Academic search engine |
 | 16 | [PaperAI](https://www.paperai.tech/) | AI assistant for academic research |
 | 17 | [LabML Papers](https://papers.labml.ai/) | Track trending ML papers |
@@ -1213,6 +1213,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
