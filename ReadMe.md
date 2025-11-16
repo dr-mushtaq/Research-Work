@@ -1031,6 +1031,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 3 | [Qiqqa](https://www.qiqqa.com/) | Reference & research management |
 | 4 | [Scimatic](https://www.scimatic.org/) | Citation & publishing assistant |
 | 5 | [Citation Generator](https://www.citationmachine.net/) | Easy citation creator |
+| 6 | [CiteTrue](https://citetrue.com/) | CiteTrue is an AI-powered citation verification tool and citation checker that helps researchers and students ensure their citations are authentic and accurate. |
 
 ## 🔍  Chapter5: - **🖼️ Illustrations and Diagrams**
 | Tool | Description |
@@ -1213,6 +1214,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
