@@ -986,6 +986,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 31 | [✅Researchrabbitapp](https://researchrabbitapp.com/home) | Find and Manage literature Review |
 | 32 | [✅Research GAP Chatgpt](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find Research Gap with Chatgpt |
 | 33 | [✅Context-Aware Literature Engine]| Comming soon |
+| 34 | [✅Scholar Labs](https://scholar.google.com/scholar_labs/search)| AI-powered search tool that helps answer detailed research questions. Analyze, search, and get relevant papers with explanations. |
 
 
 
@@ -1214,6 +1215,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
