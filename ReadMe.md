@@ -1012,12 +1012,13 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 11 | [AI Humanizer](https://aihumanizer.ai/) | Humanize AI-generated content |
 | 12 | [✅Khoj](https://khoj.dev/) | Research writing & idea manager |
 | 13 | [✅Storm](https://storm.genie.stanford.edu/) | Paper writing |
-| 14 | [Paperpal](https://paperpal.com/) | Academic writing tool |
+| 14 | [✅Paperpal](https://paperpal.com/) | Comprehensive Al academic writing tool and research assistant designed for researchers and students |
 | 15 | [Deepseek](https://www.deepseek.com/) | Research-focused AI tool |
 | 16 | [Power Thesaurus](https://www.powerthesaurus.org/) | Find alternate academic words |
 | 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
 | 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |Unpaid|
 | 19 | [✅answerthis](https://answerthis.io/?fpr=razia18) | Answers your research questions with citations |Freemium|
+| 19 | [✅Overleaf](https://www.overleaf.com/) | Collaborative writing and publishing |Free|
 
 
 ## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
@@ -1065,6 +1066,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | [✅ Consensus](https://consensus.app/) |Consensus is an AI-powered search engine designed to help users find and understand scientific research papers quickly and efficiently|
 | [✅ Research Paper Video Generator](https://researchpapervideos.com/) |Transform complex research papers into engaging educational videos in minutes|
 | [✅ Outread](https://outreadapp.com/) |Transform complex research papers into engaging educational videos in minutes|
+| [✅ Scholarcy](https://www.scholarcy.com/) |Al-powered research assistant designed to streamline the academic reading and research process.|
+
 
 
 ## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
@@ -1220,6 +1223,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
