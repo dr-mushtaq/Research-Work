@@ -968,7 +968,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 11 | [Papers with Code](https://paperswithcode.com/) | Papers + Code + evaluation tables |
 | 12 | [arXiv](https://arxiv.org/) | Preprint server for scientific papers |
 | 13 | [✅Research Rabbit](https://www.researchrabbit.ai/) | Visual citation exploration, Research GAP |
-| 14 | [✅Litmaps](https://www.litmaps.com/) | Research Gap, and monitor research |
+| 14 | [✅Litmaps](https://www.litmaps.com/) | Visual literature mapping tool for discovering, visualising, and sharing academic papers |
 | 15 | [Scinapse](https://www.scinapse.io/) | Academic search engine |
 | 16 | [PaperAI](https://www.paperai.tech/) | AI assistant for academic research |
 | 17 | [LabML Papers](https://papers.labml.ai/) | Track trending ML papers |
@@ -989,6 +989,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 32 | [✅Research GAP Chatgpt](https://chatgpt.com/g/g-Gf3F6TRZB-scholarly-gap-finder/c/68a81066-51d0-8320-92a8-0e43acaafda5) | Find Research Gap with Chatgpt |
 | 33 | [✅Context-Aware Literature Engine]| Comming soon |
 | 34 | [✅Scholar Labs](https://scholar.google.com/scholar_labs/search)| AI-powered search tool that helps answer detailed research questions. Analyze, search, and get relevant papers with explanations. |
+| 35 | [✅Bohrium](https://www.bohrium.com/)| Al-powered academic search engine that fetches real academic papers, journals, and patents. |
+
 
 
 
@@ -1062,6 +1064,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | [I, Librarian](https://www.bioinformatics.org/librarian/) | Reference & PDF management |
 | [✅ Consensus](https://consensus.app/) |Consensus is an AI-powered search engine designed to help users find and understand scientific research papers quickly and efficiently|
 | [✅ Research Paper Video Generator](https://researchpapervideos.com/) |Transform complex research papers into engaging educational videos in minutes|
+| [✅ Outread](https://outreadapp.com/) |Transform complex research papers into engaging educational videos in minutes|
 
 
 ## 🔍  Chapter6: - **✅ Assess Research Paper Quality**
@@ -1217,6 +1220,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
