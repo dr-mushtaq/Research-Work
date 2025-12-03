@@ -990,6 +990,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 33 | [✅Context-Aware Literature Engine]| Comming soon |
 | 34 | [✅Scholar Labs](https://scholar.google.com/scholar_labs/search)| AI-powered search tool that helps answer detailed research questions. Analyze, search, and get relevant papers with explanations. |
 | 35 | [✅Bohrium](https://www.bohrium.com/)| Al-powered academic search engine that fetches real academic papers, journals, and patents. |
+| 36 | [✅Chat With All NeurIPS 2025 Papers](https://neurips.zeroentropy.dev/)|ZeroEntropy just launched a powerful NeurIPS 2025 Research Assistant — a smart search|
+
 
 
 
@@ -1223,6 +1225,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
