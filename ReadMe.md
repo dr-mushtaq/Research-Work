@@ -991,12 +991,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 34 | [✅Scholar Labs](https://scholar.google.com/scholar_labs/search)| AI-powered search tool that helps answer detailed research questions. Analyze, search, and get relevant papers with explanations. |
 | 35 | [✅Bohrium](https://www.bohrium.com/)| Al-powered academic search engine that fetches real academic papers, journals, and patents. |
 | 36 | [✅Chat With All NeurIPS 2025 Papers](https://neurips.zeroentropy.dev/)|ZeroEntropy just launched a powerful NeurIPS 2025 Research Assistant — a smart search|
-
-
-
-
-
-
+| 36 | [✅NOAH](https://www.noah.bio/onboarding)|I: Generate literature reviews in minutes.|
 
 ## 🔍  Chapter2: - **📝 Writing and Brainstorming**
 | No. | Tool | Description | Paid/Unp|
@@ -1040,6 +1035,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 4 | [Scimatic](https://www.scimatic.org/) | Citation & publishing assistant |
 | 5 | [Citation Generator](https://www.citationmachine.net/) | Easy citation creator |
 | 6 | [CiteTrue](https://citetrue.com/) | CiteTrue is an AI-powered citation verification tool and citation checker that helps researchers and students ensure their citations are authentic and accurate. |
+| 7 | [Liner](https://citetrue.com/) | Helps you to automatically insert citations in your papers |
 
 ## 🔍  Chapter5: - **🖼️ Illustrations and Diagrams**
 | Tool | Description |
@@ -1225,6 +1221,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
