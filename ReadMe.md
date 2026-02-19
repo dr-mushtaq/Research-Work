@@ -1,7 +1,7 @@
 
 ## **Research collaborate 📚🤝**
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Research-Work/blob/main/1742637451222.jpg"></a>
+<img src="https://github.com/dr-mushtaq/Research-Work/blob/main/Diagram/AI%20Tools%20for%20Researchers%20From%20Grant%20Ideation%20to%20Post-Award%20Success.jfif"></a>
 </p>
 
 Welcome to the A-Z Guide to Research Work repository! This space is dedicated to fostering collaboration among students, researchers, and professors in advancing academic research and projects. Whether you're looking to co-author a paper, contribute to a research project, or gain insights into cutting-edge methodologies, this repository is your go-to resource.
@@ -1221,6 +1221,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
