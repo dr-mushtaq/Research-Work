@@ -1015,7 +1015,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | 17 | [Jenni AI](https://jenni.ai/) | AI-powered research paper writer |
 | 18 | [✅Ai2 Scholar QA](https://scholarqa.allen.ai/chat) | Ai2 ScholarQA is an innovative application designed to assist researchers in conducting literature reviews by providing comprehensive answers derived from scientific literature |Unpaid|
 | 19 | [✅answerthis](https://answerthis.io/?fpr=razia18) | Answers your research questions with citations |Freemium|
-| 19 | [✅Overleaf](https://www.overleaf.com/) | Collaborative writing and publishing |Free|
+| 20 | [✅Overleaf](https://www.overleaf.com/) | Collaborative writing and publishing |Free|
+| 21 | [✅ResearchCollab](https://app.researchcollab.ai/web-search-guest?query=road%20traffic&source=verified) | Easily identify and extract data from papers |Free/Paid|
 
 
 ## 🔍  Chapter3: - **📝 🧠 Grammar and Paraphrasing**
@@ -1221,6 +1222,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Research-Work/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Research-Work" />
 </a>
+
 
 
 
