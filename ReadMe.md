@@ -1066,6 +1066,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 | [✅ Research Paper Video Generator](https://researchpapervideos.com/) |Transform complex research papers into engaging educational videos in minutes|
 | [✅ Outread](https://outreadapp.com/) |Transform complex research papers into engaging educational videos in minutes|
 | [✅ Scholarcy](https://www.scholarcy.com/) |Al-powered research assistant designed to streamline the academic reading and research process.|
+| [✅ Paper Explainer](https://ai-paper-explainer-sigma.vercel.app/) |Understand any research paper in seconds.|
 
 
 
