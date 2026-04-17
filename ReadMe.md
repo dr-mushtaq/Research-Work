@@ -457,15 +457,16 @@ This thesis proposes a hybrid text summarization model combining T5 and BERT to 
 |**3-Improving Abstractive Text Summarization with History Aggregation**| 2019 | a novel aggregation mechanism to redistribute context states of text with collected history information. Then we equip the Transformer model with the aggregation mechanism. |   model outperforms 1.01 ROUGE-1, 0.30 ROUGE-2 and 1.27 ROUGE-L scores on CNN/DailyMail dataset and 5.31 ROUGE-1, 4.56 ROUGE-2 and 5.19 ROUGE-L scores on our build Chinese news dataset compared to Transformer baseline model.|a novel aggregation mechanism to redistribute context states of text with collected history information. Then we equip the Transformer model with the aggregation mechanism. |
 |**4-Towards Zero-Shot Conditional Summarization with Adaptive Multi-Task Fine-Tuning**| 2023 | An analysis of the role of 21 question answering, single- and multi-document summarization, causal reasoning, and argumentation tasks on zero-shot domain specific and general domain conditional summarization tasks. | T5= 0.43, 0.24, 1.70, 0.39, 0.61,  BART=1.11, 0.37, 1.38, 0.46,0.62| exploring the impact of multi-task fine-tuning (MTFT) on zero-shot conditional summarization for consumer health questions (MEDIQA, Savery et al., 2020)  as well as topic-driven news article summarization|
 |**5-T5-Based Model for Abstractive Summarization: A Semi-Supervised Learning Approach with Consistency Loss Functions**| 6/14/2023 |a novel semi-supervised learning method for abstractive summarization. To achieve this, a T5-based model to process texts and utilized an identity mapping constraint and a cycle consistency constraint to exploit the information contained in unlabeled data is employed. | BERT-base 63.83 51.29 59.76 41.45 , T5 50 with CL (ours) 53.13 41.03 50.85 33.95 , T5 250 with CL (ours) 59.41 47.93 56.16 38.91|  successful application of CycleGAN’s training process and loss functions to NLP tasks, particularly text summarization.|
-## 📚Chapter: 3  - **🔎Implementation**
-   - [**4-17-26-Experiment Code**](https://github.com/dr-mushtaq/Research-Work/blob/main/Text_Summarization_Clean_code.ipynb)
-
 
 ## 📚Chapter: 1  - **Thesis/Publication**
 |📰 Final Synopsis| Defance Date/Published Date| 📰Final thesis| Model performance metrics|Research Gap|Dataset|Notebook|Medium|Diagram|
 |---|---|---|---|---|---|---|---|---|
 |[**🌐1- Final Synopsis**](https://github.com/dr-mushtaq/Research-Work/blob/main/Synopsis/NABILA%20ANUM_Synopsis_ms220400077.docx) | 22 Aprile 2025 | [ Final thesis](https://github.com/dr-mushtaq/Research-Work/blob/main/Thesis/Nabila_MS(220400077)_%20Final%20THESIS1docx.docx) |---|---|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Dataset/Nabila_dataset.xlsx)|[1](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_T5.ipynb)[-2](https://github.com/dr-mushtaq/Research-Work/blob/main/Code/Nabila_WFA_with_bert.ipynb)|
 |[**🌐2- Research Paper?**](https://medium.com/@Coursesteach/machine-learning-part-2-b7808cb83641)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-5](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing) |
+
+## 📚Chapter: 3  - **🔎Implementation**
+   - [**4-17-26-Experiment Code**](https://github.com/dr-mushtaq/Research-Work/blob/main/Text_Summarization_Clean_code.ipynb)
+
 
 ##  📚Chapter: 3  **🔍 Benchmark Comparison Table**
 
