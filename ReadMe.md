@@ -1090,7 +1090,7 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 |------|-------------|
 | [Dataverse](https://dataverse.harvard.edu/) | Open data repository |
 | [Master Journal List](https://mjl.clarivate.com/) | May include repositories |
-| [GitHub DOI Generation Through Zenodo](https://mjl.clarivate.com/) | May include repositories |
+| [GitHub DOI Generation Through Zenodo](https://github.com/dr-mushtaq/Research-Work/blob/main/Dataset/GitHub_DOI_Generation_Through_Zenodo.md) | This is the most commonly used method for generating a DOI for research code hosted on GitHub. |
 
 
 ## 🔍  Chapter8: - **🛡️ Plagiarism Checker**
