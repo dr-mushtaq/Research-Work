@@ -1090,6 +1090,8 @@ The research aims to improve **urban mobility planning** and **intelligent trans
 |------|-------------|
 | [Dataverse](https://dataverse.harvard.edu/) | Open data repository |
 | [Master Journal List](https://mjl.clarivate.com/) | May include repositories |
+| [GitHub DOI Generation Through Zenodo](https://mjl.clarivate.com/) | May include repositories |
+
 
 ## 🔍  Chapter8: - **🛡️ Plagiarism Checker**
 | Tool | Description |
