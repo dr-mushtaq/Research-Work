@@ -27,15 +27,6 @@ Explore the repository's contents, delve into research methodologies and impleme
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
-## **Contributing🙌**
-
-Contributions are welcome! Whether it's implementing new research papers, improving existing content, or providing feedback, your contributions can help enrich the learning experience for others. Please contact to my **skype ID:themushtaq48** for guidelines on how to contribute.
-
-Together, let's make this the best Research learning hub repository! 🚀
-
-Star this repo if you find it useful ⭐
-
-                      https://coursesteach.com/
 <details> 
 <summary> <h2>📚Important Research Softwares, Websites, Article </h2> </summary>
 
