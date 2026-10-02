@@ -108,8 +108,56 @@ Brief 2-3 sentence description of your research goal.
 pip install -r requirements.txt
 jupyter notebook
 
+
+#### 3. Documentation Checklist
+
+- [ ] Project README.md created
+- [ ] Notebooks have clear section headers
+- [ ] Data sources documented
+- [ ] Hyperparameters explicitly defined
+- [ ] Model comparison tables included
+- [ ] Results visualizations added
+- [ ] Challenges and future work noted
+
+#### 4. Code Quality Standards
+
+**Notebook Structure:**
+
+```python
+# 1. Title and metadata
+# ===================
+# Project: [Title]
+# Student: [Name]
+# Date: [YYYY-MM-DD]
+
+# 2. Objective
+"""
+Clear description of what this notebook does
+"""
+
+# 3. Imports
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+
+# 4. Configuration (Hyperparameters, Seeds)
+RANDOM_SEED = 42
+TEST_SIZE = 0.2
+BATCH_SIZE = 32
+
+# 5. Data Loading & Exploration
+# 6. Data Preprocessing
+# 7. Model Building
+# 8. Evaluation & Results
+# 9. Visualizations & Insights
+
+
 ---
 
 ## Repository Structure
+
+
+
+
 
 ### Recommended Organization (To Be Implemented)
